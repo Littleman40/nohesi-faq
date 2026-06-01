@@ -1,0 +1,12 @@
+# Failed to Initialize VR
+
+---
+
+# Here is how to fix the “Failed to Initialize VR” error
+[attachment: FailedtoInitializeVRLOGO.png]
+
+---
+
+# Method 1
+> Open Content Manager and go to Settings > Assetto Corsa > Video > Resolution and FPS > Rendering Mode > Single Screen
+[attachment: FailedtoIntializeVR1.png]

@@ -1,0 +1,85 @@
+# How to get Setup Exchange
+
+---
+
+# How to download Setup Exchange to use community tunes
+-# Credit to <@588529577094021122>
+[attachment: SetupExchange9.png]
+
+---
+
+# Installation Process
+> Follow these steps to install Setup Exchange
+## Step 1
+> Go in game, leave the pit menu, and move your mouse to the right side of the screen to find the **apps list**
+> Search for **App Shelf**
+[attachment: SetupExchange1.png]
+
+---
+
+## Step 2
+> Open **App Shelf** and scroll down until you see **Setup Exchange**
+[attachment: SetupExchange2.png]
+
+---
+
+## Step 3
+> Click on the **Setup Exchange** app and click **install**
+[attachment: SetupExchange3.png]
+
+---
+
+## Step 4
+> Click **Keep Setup Integration Enabled**
+[attachment: SetupExchange4.png]
+
+---
+
+## Step 5
+> Close **Setup Exchange**, and return to the pits menu
+[attachment: SetupExchange5.png]
+
+---
+
+## Step 6
+> Click the **wrench icon** on **the left side of the screen**
+[attachment: SetupExchange6.png]
+
+---
+
+## Step 7
+> **Setup Exchange** should now be displayed to **the right side of the tuning menu** by default
+[attachment: SetupExchange7.png]
+
+---
+
+## Step 8
+> Click the **downward arrow icon** in **Setup Exchange**
+> Uncheck **Show setups for current track only**
+[attachment: SetupExchange8.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: SetupExchange.mp4]
+
+---
+
+# How To Use
+> Follow the following steps to get/upload tunes
+## Step 1
+> Clicking apply on any setup will **automatically apply the setup to your car**
+[attachment: SetupExchange9_2.png]
+
+---
+
+## Step 2
+> To create your own setup, simply click **Share current setup**, and provide a name for the setup
+
+---
+
+[attachment: SetupExchange10.png]
+
+---
+
+[attachment: SetupExchange11.png]

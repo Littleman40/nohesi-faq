@@ -1,0 +1,36 @@
+# CSP SpeedBug fix
+
+---
+
+# Struggling to accelerate? Feeling like you cannot reach above a certain speed and have endless wheelspin? This guide is for you.
+
+---
+
+# Method 1
+## Step 1
+> Open Content Manager > Go to Settings > Custom Shaders Patch > About & Updates
+
+## Step 2
+> First, click on the **green box** to re-install the current patch version again over the old one.
+> If that **did not** work, click on the **red box** to delete the current patch version to allow for a *clean install*
+
+---
+
+[attachment: CSP_SpeedBug_fix1.png]
+
+---
+
+# VIDEO GUIDE
+
+---
+
+[attachment: CSP_SpeedBugFix.mp4]
+
+---
+
+# Method 2
+-# Do this if the previous method did not work.
+
+## Step 1
+> 🚨 If you are on wheel, check your pedal inputs as you may have slight braking input. The red line appearing means there is input. <<a:alarm:973783446126211092>> You should also check if your handbrake or engine brake are being activated. 🚨
+[attachment: CSP_SpeedBug_fix2.png]

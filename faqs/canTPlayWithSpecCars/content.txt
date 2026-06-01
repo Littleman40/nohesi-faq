@@ -1,0 +1,39 @@
+# Can't play with spec cars?
+
+---
+
+# Do you need/want access to spec cars? Follow this guide!
+[attachment: Cant_play_with_spec_carsLOGO.png]
+
+---
+
+# Prerequisite:
+> * Spec cars are reserved for **Tier 3** members on **Public Servers**.
+> * Spec cars can be used by **Tier 2** members on **Custom Servers** and **Tier 2 spec servers**.
+> Purchase Tier 2 or Tier 3: <#970997833232695316>
+
+# Step 1:
+> ### First, make sure you are whitelisted -> <#1000157728737599691> 
+> -# This process can take up to a max of 5 minutes, and we recommend you restart your pc during this time.
+
+# Step 2:
+>  1. Launch Assetto Corsa from Steam. 
+> 2. Once fully loaded, you may close it.
+
+# Step 3:
+> Open Content Manager, after that go to Settings > Content Manager > Drive, and **click the `switch to steam starter` button**
+
+---
+
+[attachment: Cant_play_with_spec_cars1.png]
+
+---
+
+# Step 4: 
+> Restart your PC.
+
+# Step 5:
+> Now to open Content Manager, you need to launch the game from Steam, which is why it is called Steam Starter.
+
+## If you still have issues, seek further assistance in <#991299200782446632>
+-# Credit: <@459988587539070977>

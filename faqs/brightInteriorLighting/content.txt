@@ -1,0 +1,12 @@
+# Bright interior lighting
+
+---
+
+# Are your car interior lights incredibly bright? Follow this guide!
+[attachment: BrightInteriorLightingLOGO.png]
+
+---
+
+## Method 1
+> Go to `Settings > Custom Shaders Patch > ExtraFX > Uncheck “Active” under “Extra space-screen lighting”`
+[attachment: BrightInteriorLighting1.png]

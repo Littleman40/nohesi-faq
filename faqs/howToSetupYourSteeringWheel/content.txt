@@ -1,0 +1,81 @@
+# How to setup your Steering Wheel
+
+---
+
+# Recently bought Assetto Corsa or recently got a new wheel? Follow this guide!
+[attachment: SetupWheelLOGO.png]
+
+---
+
+# Step 1:
+> ### Download your wheel's firmware/ drivers:
+> Search: `(company) (wheel name) wheel firmware` 
+> Example: "Moza R12 wheel firmware"
+> -# (If you have a Logitech, GHub must stay open at all times during use
+
+---
+
+# Step 2:
+> ### Calibrate and setup your wheel in that firmware
+> **Disclaimer:** Every wheel's software is different. If needed, reach out to the company's support page to receive help with this step.
+> 
+> <#1322222599098339359>
+
+---
+
+# Step 3:
+> ### Setup axis's in Content Manager
+> 1. Open Content Manager and go to Settings > Assetto Corsa > Controls > Input Method: Wheel > Axis
+> 
+> 2. Bind the axis's -> Throttle/ Brake/ Clutch/ Handbrake
+> 
+> 3. Set your Steering Degrees to match your Steering Wheel’s
+
+---
+
+[attachment: How_to_setup_your_Steering_Wheel1.png]
+
+---
+
+## 🚨  Warning: If you have a bright red line under the axis, you will need to invert your axis. 🚨
+
+---
+
+[attachment: How_to_setup_your_Steering_Wheel2.png]
+
+---
+
+# Step 4
+> ### Bind your shifters
+> Content Manager -> Settings -> Assetto Corsa -> Controls -> Buttons
+> 
+> **Paddle Shifters:**
+> Click on buttons and bind “Next Gear” and “Previous Gear” to your paddle shifters
+> 
+> **H-Shifter:**
+> Check “Use H-Shifter” and bind the buttons.
+> -# Not all cars are H shifter compatible. Join a server and hover over the car, if it shows the manual tag, then you can use your H shifter.
+
+---
+
+[attachment: How_to_setup_your_Steering_Wheel3.png]
+
+---
+
+# VIDEO GUIDE
+
+---
+
+[attachment: HowToSetupWheel.mp4]
+
+---
+
+### Useful Setup Options:
+> Teleport back to pits: 
+> <#1322252040117948556>
+> Teleport to other pits: 
+> <#1322256613595283536>
+> Recommended apps: 
+> <#1371053114886721636>
+> Automatic Blinkers/ Indicators: 
+> <#1322248427853058118>

@@ -1,0 +1,60 @@
+# Turn on and adjust Real Mirrors
+
+---
+
+# Are you driving around and feel like your mirrors are not set up correctly? Follow this guide!
+[attachment: image.png]
+
+---
+
+# Method 1
+## Step 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > Smart Mirror > Real Mirrors > Active
+[attachment: Turn_on_and_adjust_Real_Mirrors1.png]
+
+---
+
+## Step 2
+> Open Content Manager and go to Settings > Assetto Corsa > Controls > Patch > Real Mirrors > Adjust Tilt controls to your preference
+[attachment: Turn_on_and_adjust_Real_Mirrors2.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: Turn_on_and_adjust_Real_Mirrors1.mp4]
+
+---
+
+# Method 2
+## Step 1
+> Open Content manager and go to Settings > Custom Shaders Patch > Smart Mirror < Real Mirrors > Active
+
+---
+
+[attachment: Turn_on_and_adjust_Real_Mirrors1_2.png]
+
+---
+
+## Step 2
+> In Game, open the **App Shelf** app
+[attachment: image_2.png]
+
+---
+
+## Step 3
+> Install **Car mirrors**
+[attachment: image_3.png]
+
+---
+
+## Step 4
+> Configure your mirrors (X, Y, FoV)
+>  - Mirror 1 (Left)
+>  - Mirror 2 (Middle)
+>  - Mirror 3 (Right)
+[attachment: image_4.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: Turn_on_and_adjust_Real_Mirrors2.mp4]

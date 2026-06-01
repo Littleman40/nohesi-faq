@@ -1,0 +1,13 @@
+# How to find your Steam ID
+
+---
+
+# Need your SteamID to whitelist? Follow this guide!
+
+---
+
+# Method 1
+> Press on your Steam name on the top right corner
+> Press on Account Settings
+> You should see your Steam ID right away below your account name
+[attachment: How_to_find_your_Steam_ID.png]

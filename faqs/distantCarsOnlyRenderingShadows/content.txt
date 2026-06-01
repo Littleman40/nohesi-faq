@@ -1,0 +1,17 @@
+# Distant cars only rendering shadows
+
+---
+
+# Are distant traffic cars not appearing but when you get closer, it spawns the car? Follow this guide!
+[attachment: DistantCarShadowsLOGO.PNG]
+
+---
+
+# Step 1
+> Install the traffic cars again following <#1440122305861652520>
+
+---
+
+# Step 2
+> Go to Settings > Custom Shaders Patch > Graphics Adjustments > LOD Settings and set “Multiplier for car LODs” to 100%
+[attachment: DistantCarShadows1.PNG]

@@ -1,0 +1,16 @@
+# How to get better performance in SRP
+
+---
+
+# Getting bad performance specifcally in SRP? Follow this guide!
+[attachment: image.png]
+
+---
+
+# Step 1
+> Open Content manager and go to Settings > Custom shaders patch > General patch settings
+# Step 2
+> Scroll down until you see Chunks optimization and click on it. When the drop down menu appears select Advanced (experimental)
+# Step 3
+> Advanced chunk optimization may lead to issues on other maps so it is only recommended to be used on SRP
+[attachment: How_to_get_better_performance_in_SRP.png]

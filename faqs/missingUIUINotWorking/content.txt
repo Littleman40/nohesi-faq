@@ -1,0 +1,17 @@
+# Missing UI / UI Not Working
+
+---
+
+# Are you missing parts of the UI or is the UI just not working? Follow this guide!
+[attachment: MissingUI1.png]
+
+---
+
+# Step 1:
+> Go to CM -> Settings -> Custom Shaders Patch -> GUI -> New UI -> UI scale and **set it to 100%**
+[attachment: MissingUI1_2.png]
+
+---
+
+# Step 2:
+> Go to <#1322235675239645184> and clear everything from the `cache` folder

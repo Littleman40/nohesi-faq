@@ -1,0 +1,31 @@
+# In game default Shortcuts
+
+---
+
+# Wondering what the default, important shortcuts are? Read this guide!
+
+---
+
+# Car Functions
+> CTRL+A ABS on/off
+> CTRL+T Traction control modes on/off
+> CTRL+G Gearbox Auto
+> Num +/- Change Force Feedback
+
+# Interface
+> F9 Show/hide bottom leaderboard
+> F11 Show/hide virtual mirror
+> CTRL+H Show/hide apps
+> CTRL+L Show/hide opponents name
+> Ctrl+I Show/hide Racing line
+> Alt+Enter Fullscreen
+
+# Camera
+> Ctrl +/- Change onboard FOV
+> F1 Cycle car cameras
+> F3 Track cameras
+> F5 Orbit camera
+> F6 Cycle on-board extra cameras
+> F7 Free camera (flying cam)
+> F8 In-game screenshot
+> F12 (Steam related) Screenshot

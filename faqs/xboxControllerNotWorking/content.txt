@@ -1,0 +1,16 @@
+# Xbox Controller not working?
+
+---
+
+# So, you've plugged in your xbox controller, you've set your binds in CM and you're all ready to go? Then you load in and the binds dont work? Follow this guide!
+
+---
+
+## Method 1
+> Go to Assetto Corsa in steam and click the controller button that the green arrow is pointing at.
+> You then want to click the A button/next until you see **Enable Steam Input**. Clicking this should allow your binds to work!
+[attachment: Xbox_Controller_not_working1.png]
+
+---
+
+[attachment: Xbox_Controller_not_working2.png]

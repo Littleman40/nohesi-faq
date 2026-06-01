@@ -1,0 +1,54 @@
+# How to save replays
+
+---
+
+# Want to save your replays with good quality and good length? Follow this guide!
+
+---
+
+## Please follow the below steps very carefully as without them, the full run may not be all recorded.
+
+> Open Content Manager and go to Settings > Content Manager > Replays > AC Settings > Maximum Size: [click on the number] > 8000
+> This will allow the replays to be 8000 MB in size.
+> Content Manager > Settings > Content Manager > Replays > Replays Autosave > Tick Autosave Replay
+[attachment: SaveReplayLOGO.png]
+
+---
+
+# What to do after completing your run
+
+> After you finish your run, leave the game.
+> A pop-up will appear in Content Manager showing the leaderboard positions and it will have a button that says replay. Hit the arrow next to it and press save replay.
+[attachment: SaveReplay1.png]
+
+---
+
+# Sending the run
+
+> Go to https://drive.google.com/drive/home and log into your google account.
+> Click on New in the top left and click "New folder" and name it whatever you want.
+> Open the folder (It may do it automatically)
+> Click new and then file upload and head to C:\Users\[User]\Documents\Assetto Corsa\replay and find the specific replay of your run and double click on it.
+> In the bottom, right it will say it is uploading. THIS WILL TAKE A WHILE DEPENDING ON THE FILE SIZE
+> After it has uploaded, click the three dots on the right, share then copy link.
+
+---
+
+[attachment: SaveReplay2.png]
+
+---
+
+[attachment: SaveReplay3.png]
+
+---
+
+[attachment: SaveReplay4.png]
+
+---
+
+-# (can also click copy link)
+
+---
+
+# BE SURE TO TURN ALL THESE SETTINGS TO MAX FOR THE MAXIMUM REPLAY SIZE AND QUALITY
+[attachment: SaveReplay5.png]

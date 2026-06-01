@@ -1,0 +1,38 @@
+# The complete Assetto Corsa graphics guide
+
+---
+
+## Want to get a good looking game? Heres how:
+
+---
+
+# Step 1:
+> Download **CSP (Custom Shaders Patch)**. You can use the free version, but if you want rain you'll need the paid version.
+> <#1322225183297376266> 
+> <#1322228581186801745> 
+
+# Step 2: 
+> Configure your CSP settings.
+> You can find presets below in share settings.
+> <#1189409395226984518> 
+> ⚠️ **Never pay for CSP settings! Most sellers have no real expertise and are just reselling basic tweaks that you can find for free or easily adjust yourself.**
+
+# Step 3:
+> Download SOL (free) or PURE ($1) (You shouldn't have both installed simultaneously!)
+> <#1322233156790653010> (Incompatible with CSP version 0.2.10+)
+> <#1322227974371545159> 
+
+# Step 4:
+> Find a PP-Filter that supports either SOL or PURE. (Free or paid)  
+> ⚠️ **Be cautious with some paid filters, as they may be stolen, lack scripts, or simply be the default Pure filter.**
+> 
+> All PP-Filters must be installed manually!
+> https://discord.com/channels/964645662866173972/1358606555574173786
+> 
+> Two lists of suggested PP-Filters, one for SOL and one for PURE are linked below.
+> https://discord.com/channels/964645662866173972/1358607528845508708
+> https://discord.com/channels/964645662866173972/1358606823388872775
+
+---
+
+-# Credits: GarryRoberts

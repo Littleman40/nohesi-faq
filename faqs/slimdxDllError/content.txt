@@ -1,0 +1,12 @@
+# Slimdx.dll Error
+
+---
+
+# Here is how to fix the “SlimDX.dll” error
+[attachment: SlimdxDLLLOGO.png]
+
+---
+
+# Method 1
+> Download [**VCRedist Installer**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) to delete them and reinstall them all again.
+> -# Ensure you run the installall.bat in Administrator mode

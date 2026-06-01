@@ -1,0 +1,20 @@
+# HTTP port is missing or is in invalid format
+
+---
+
+# Getting the error “HTTP port is missing or is in invalid format? Follow this guide!
+[attachment: HTTP_port_is_missing_or_is_in_invalid_format1.png]
+
+---
+
+# Your browser/computer/anti virus is removing part of the link to join the servers. This missing part is REQUIRED to be able to join
+
+---
+
+[attachment: HTTP_port_is_missing_or_is_in_invalid_format2.png]
+
+---
+
+# Method 1
+> Instead of pressing the links in discord, right click where it says "Click here to connect"  and copy the link manually. Paste it on your preferred browser afterwards
+[attachment: HTTP_port_is_missing_or_is_in_invalid_format.png]

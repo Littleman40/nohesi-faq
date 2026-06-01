@@ -1,0 +1,20 @@
+# Game Stuttering on 110
+
+---
+
+# Are you experiencing game freezes and stuttering while playing 110? Follow this guide!
+
+---
+
+## Method 1
+> Go to Content Manager > Settings > Custom Shaders Patch > General Patch Settings > CPU Optimizations
+> 
+> Set Chunk Optimization to **`basic`** or **`disabled`**
+
+---
+
+[attachment: GameStutteringon1101.png]
+
+---
+
+-# Credit: <@228275790100430848>

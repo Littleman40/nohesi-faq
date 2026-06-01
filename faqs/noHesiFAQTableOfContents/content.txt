@@ -1,0 +1,241 @@
+# No Hesi FAQ - Table of Contents
+
+---
+
+# An index of all FAQ posts
+[attachment: PURPLE.gif]
+
+---
+
+# Installation Guides
+
+[All Alternative Downloads](https://discord.com/channels/964645662866173972/1322224390741688371)
+[Can’t Install Custom Shaders Patch (CSP)](https://discord.com/channels/964645662866173972/1322225183297376266)
+[DS4/5 Windows](https://discord.com/channels/964645662866173972/1322225805333626981)
+[How to do a fresh start](https://discord.com/channels/964645662866173972/1437114487051255858)
+[How To Enable 7 Zip Plugin](https://discord.com/channels/964645662866173972/1322223328735399989)
+[How to get Pure (PAID MOD)](https://discord.com/channels/964645662866173972/1322227974371545159)
+[How to get rain (PAID mod)](https://discord.com/channels/964645662866173972/1322228581186801745)
+[How to get Setup Exchange](https://discord.com/channels/964645662866173972/1322229686331248750)
+[How to install / delete cars manually](https://discord.com/channels/964645662866173972/1440122305861652520)
+[How to install / delete tracks manually](https://discord.com/channels/964645662866173972/1457475437809631416)
+[How to make a LUT file](https://discord.com/channels/964645662866173972/1322231884041687080)
+
+---
+
+[How to manually install SOL](https://discord.com/channels/964645662866173972/1322233156790653010)
+[How to properly setup working "Install Missing Content" button](https://discord.com/channels/964645662866173972/1322233520277553232)
+[How to remove Steam Starter](https://discord.com/channels/964645662866173972/1351864049414967387)
+[How to use "Install Missing Content" to download cars](https://discord.com/channels/964645662866173972/1322223184367587462)
+[How to use "Install updates" button / Obsolete car](https://discord.com/channels/964645662866173972/1322234180066873415)
+[Individual download links ( cars and tracks )](https://discord.com/channels/964645662866173972/1412564819785027695)
+[Reinstall Content Manager Tutorial](https://discord.com/channels/964645662866173972/1322234984181796934)
+[Root Folder Location](https://discord.com/channels/964645662866173972/1322235675239645184)
+[“ shuto_revival_project_beta/main_layout [ ] “ is missing](https://discord.com/channels/964645662866173972/1322236089083105343)
+[Where is Nordschleife - Tourist](https://discord.com/channels/964645662866173972/1322236738730725396)
+[Where is the FDR map?](https://discord.com/channels/964645662866173972/1322237987291004979)
+
+---
+
+** **
+# Error Messages
+[Access to path is denied](https://discord.com/channels/964645662866173972/1322239471487287388)
+[ACkn5io.cpp (808) KN5I0 loadTexture](https://discord.com/channels/964645662866173972/1322239623916687360)
+[Backed does not respond](https://discord.com/channels/964645662866173972/1376100478051684443)
+[Cannot find FUEL_INDICATOR target](https://discord.com/channels/964645662866173972/1431127688877309952)
+[Can't Connect to Remote Server](https://discord.com/channels/964645662866173972/1322240078415921193)
+[Car's Sounds might be broken](https://discord.com/channels/964645662866173972/1322240788893143081)
+[Checksum failed](https://discord.com/channels/964645662866173972/1322241099229692026)
+[CPU Occupancy > 99%](https://discord.com/channels/964645662866173972/1322241457293230080)
+[CSP SpeedBug fix](https://discord.com/channels/964645662866173972/1322241668019261540)
+[Driver model is probably missing](https://discord.com/channels/964645662866173972/1322242152197128222)
+[DWrite: (Filename not Available)](https://discord.com/channels/964645662866173972/1322242488399822858)
+[Error 0xc000007b](https://discord.com/channels/964645662866173972/1322242803325075538)
+[Error d3dx11_43.dll](https://discord.com/channels/964645662866173972/1457466851297722564)
+[ERROR: Track not found](https://discord.com/channels/964645662866173972/1452216226599141469)
+[Failed to create texture " UI IMGUI final "](https://discord.com/channels/964645662866173972/1322243384248893461)
+[Failed to initialize timezone storage: not found in timezone database](https://discord.com/channels/964645662866173972/1457473472107249704)
+[Failed to Initialize VR](https://discord.com/channels/964645662866173972/1322243632543174678)
+[Flames.cpp Error](https://discord.com/channels/964645662866173972/1431126934980657283)
+
+---
+
+[FlameStart Flash textures are missing! (texture prefix = 'f' )](https://discord.com/channels/964645662866173972/1322243740710211655)
+[Handshake Failed](https://discord.com/channels/964645662866173972/1322243958419750942)
+[How to fix " python33.dll ”](https://discord.com/channels/964645662866173972/1322245688368828447)
+[HTTP port is missing or is in invalid format](https://discord.com/channels/964645662866173972/1322245958041604136)
+[Mismatch: COLLIDER](https://discord.com/channels/964645662866173972/1345280166364188763)
+[Missing CSP features](https://discord.com/channels/964645662866173972/1322240298210033804)
+[Node AC_REVERB_0](https://discord.com/channels/964645662866173972/1365261072277311548)
+[Race Cancelled](https://discord.com/channels/964645662866173972/1322246137863733390)
+[Remove SafeMode Resolution Correction](https://discord.com/channels/964645662866173972/1322246945422446592)
+[Security check failed?](https://discord.com/channels/964645662866173972/1322247163702411416)
+[Server requires functioning steam](https://discord.com/channels/964645662866173972/1452243317784973453)
+[Slimdx.dll Error](https://discord.com/channels/964645662866173972/1322247604826013756)
+[Steam API has failed to initialize](https://discord.com/channels/964645662866173972/1322247827077730355)
+[Steam Authentication Failed?](https://discord.com/channels/964645662866173972/1322248051011747911)
+[System.IO.IOException: The cloud file provider is not running](https://discord.com/channels/964645662866173972/1333700825834590238)
+[Unable to play on Football matchday](https://discord.com/channels/964645662866173972/1450183826025349292 )
+[Unfortunately, Assetto Corsa has crashed](https://discord.com/channels/964645662866173972/1365257112372117514)
+[Whitelist VIP error](https://discord.com/channels/964645662866173972/1322245064466104443)
+[You cannot use this map in local game or on other servers except NO HESI](https://discord.com/channels/964645662866173972/1457467952369635585)
+
+---
+
+** **
+# Keybinds/Gameplay
+[Automatic blinkers/indicators](https://discord.com/channels/964645662866173972/1322248427853058118)
+[Car signals binding](https://discord.com/channels/964645662866173972/1322248546602324059)
+[Car's throttle not working?](https://discord.com/channels/964645662866173972/1465639959988932763)
+[Hide UI elements (including Points) Leaderboard](https://discord.com/channels/964645662866173972/1322249269666648136)
+[How to Assign Extra Buttons?](https://discord.com/channels/964645662866173972/1322250681272504482)
+[How to change car color?](https://discord.com/channels/964645662866173972/1322250892509974720)
+[How to change km/h to mp/h](https://discord.com/channels/964645662866173972/1322251205539266676)
+[How to change your FoV](https://discord.com/channels/964645662866173972/1322251303157764219)
+[How to fix Lost ForceFeedBack (FFB) when Alt-Tabbing](https://discord.com/channels/964645662866173972/1322251762538774649)
+[How to open Chat](https://discord.com/channels/964645662866173972/1322249797960208384)
+[How to reduce traffic rain splash](https://discord.com/channels/964645662866173972/1345279866735431730)
+[How to remove the Pit Crew](https://discord.com/channels/964645662866173972/1460235039286628567)
+
+---
+
+[How to Setup Teleport to pits](https://discord.com/channels/964645662866173972/1322252040117948556)
+[How to setup your Controller](https://discord.com/channels/964645662866173972/1322254966953476218)
+[How to setup your Keyboard & Mouse](https://discord.com/channels/964645662866173972/1322255308776538243)
+[How to setup your Steering Wheel](https://discord.com/channels/964645662866173972/1322253669751591043)
+[How to teleport to other pits](https://discord.com/channels/964645662866173972/1322256613595283536)
+[How To Use Spotify In The Cars](https://discord.com/channels/964645662866173972/1322256989681877095)
+[In game default Shortcuts](https://discord.com/channels/964645662866173972/1322257522622599252)
+[Recommended Apps](https://discord.com/channels/964645662866173972/1371053114886721636)
+[Stop slipping in Solo using Pure Planner](https://discord.com/channels/964645662866173972/1322257889720537089)
+[Third Person Cockpit view with Neck FX / POV / point of view / camera](https://discord.com/channels/964645662866173972/1322258125826298011)
+[Turn on and adjust Real Mirrors](https://discord.com/channels/964645662866173972/1322258415514288280)
+[Xbox Controller not working?](https://discord.com/channels/964645662866173972/1322252361581854761)
+
+---
+
+** ** 
+# Visual Bugs
+[Blue Screen / Reshade issue](https://discord.com/channels/964645662866173972/1322260389064347794)
+[Blue Traffic Cars](https://discord.com/channels/964645662866173972/1431130277387960430)
+[Blurry Nordschleife](https://discord.com/channels/964645662866173972/1322260513249562685)
+[Bright Interior Lighting](https://discord.com/channels/964645662866173972/1469084609500413993)
+[Broken Neck FX ?](https://discord.com/channels/964645662866173972/1322260669264953435)
+[Broken Textures on 110](https://discord.com/channels/964645662866173972/1431128401661530152)
+[Camera Stuck Facing Backwards?](https://discord.com/channels/964645662866173972/1431130956017700914)
+
+---
+
+[Chat appearing as pink color](https://discord.com/channels/964645662866173972/1396590322493952100)
+[Distant cars only rendering shadows](https://discord.com/channels/964645662866173972/1371069829737611314)
+[Fix Camera Sway / Shake](https://discord.com/channels/964645662866173972/1452213561190256752)
+[Game is dark | Lights are flickering | No Traction on Rain, Slipping, Sliding.](https://discord.com/channels/964645662866173972/1322260842221142100)
+[Invisible Wheel / Arms / Car / Map but can still hear sound](https://discord.com/channels/964645662866173972/1460645958248562810)
+[Sky is blue / Skydome not loading (sol)](https://discord.com/channels/964645662866173972/1452221875202822195)
+[Sky Too Bright?](https://discord.com/channels/964645662866173972/1322261435467825182)
+[Trees / Grass White](https://discord.com/channels/964645662866173972/1322261783033020466)
+
+---
+
+** **
+# VIP Issues
+[Can't play with spec cars?](https://discord.com/channels/964645662866173972/1431130479360475187)
+[I've bought VIP now what?](https://discord.com/channels/964645662866173972/1322262556982902804)
+[How To Cancel No Hesi Subscriptions](https://discord.com/channels/964645662866173972/1322264654021394516)
+[How to Cancel Discord Subscription](https://discord.com/channels/964645662866173972/1322266507534798858)
+[How to Cancel Website Subscription](https://discord.com/channels/964645662866173972/1322267362317307995)
+[How to Cancel Patreon Subscription](https://discord.com/channels/964645662866173972/1322266906132086905)
+[Missing VIP Roles](https://discord.com/channels/964645662866173972/1431127973255446589)
+[Whitelist VIP Error](https://discord.com/channels/964645662866173972/1322245064466104443)
+
+---
+
+** **
+# Graphics Related
+[Custom Shaders Patch](https://discord.com/channels/964645662866173972/1437178104861818992)
+[The complete Assetto Corsa graphics guide](https://discord.com/channels/964645662866173972/1358607630402191491)
+[Suggested PP-Filters for SOL](https://discord.com/channels/964645662866173972/1358607528845508708)
+[Suggested PP-Filters for Pure](https://discord.com/channels/964645662866173972/1358606823388872775)
+[Manual PP-Filter installation](https://discord.com/channels/964645662866173972/1358606555574173786)
+
+---
+
+** **
+# Custom Servers
+[Custom Server Hosting Stuck On Queue](https://discord.com/channels/964645662866173972/1418486111231017091)
+[How To Create A Custom Server](https://discord.com/channels/964645662866173972/1431129228618895401)
+[How to play with Custom Cars](https://discord.com/channels/964645662866173972/1465641370017337386)
+[What are Custom Servers?](https://discord.com/channels/964645662866173972/1431129424211742822)
+
+---
+
+** **
+# Performance Related
+[Compress files tutorial - Increase disk space. Smaller / Size / Zip](https://discord.com/channels/964645662866173972/1322215435223044096)
+[Game Stuttering on 110](https://discord.com/channels/964645662866173972/1431128961605173349)
+[How to get better performance in SRP](https://discord.com/channels/964645662866173972/1322218783640653825)
+[How to get better FPS for free at the expense of Visual Quality?](https://discord.com/channels/964645662866173972/1322218502014369803)
+[How to get more FPS (CSP 0.2)](https://discord.com/channels/964645662866173972/1468772307433558320)
+[How to get more FPS (CSP 0.3)](https://discord.com/channels/964645662866173972/1468772448605573416)
+[Laggy UI](https://discord.com/channels/964645662866173972/1322261173994913865)
+
+---
+
+** **
+# Discord/Steam Related
+[How to find DiscordID](https://discord.com/channels/964645662866173972/1371612722327715880)
+[How to find your Steam ID](https://discord.com/channels/964645662866173972/1322217411876753449)
+[Link Steam to Content Manager & Discord](https://discord.com/channels/964645662866173972/1322220240167239750)
+[Server/Download Links not showing up](https://discord.com/channels/964645662866173972/1322221655912878143)
+
+---
+
+** **
+# Point System Related
+[#0 place / no new score](https://discord.com/channels/964645662866173972/1341298848588501052)
+[How to make a crew](https://discord.com/channels/964645662866173972/1340461953155600514)
+[Missing Points UI](https://discord.com/channels/964645662866173972/1390147509489242224)
+[Missing UI / UI Not Working](https://discord.com/channels/964645662866173972/1465642642019844168)
+[Series 5 - ranks - scoring - explained](https://discord.com/channels/964645662866173972/1443691709417525318)
+[Vaulted Cars - Invalid for Leaderboard](https://discord.com/channels/964645662866173972/1431142566589370548)
+
+---
+
+** **
+# Pure/Sol Related
+[How to get Pure (Paid)](https://discord.com/channels/964645662866173972/1322227974371545159)
+[How to manually install Sol](https://discord.com/channels/964645662866173972/1322233156790653010)
+[How to remove fog with Pure](https://discord.com/channels/964645662866173972/1452548218922733568)
+[How to remove Snow effect (pure)](https://discord.com/channels/964645662866173972/1451952356576071680)
+[New Weather FX script location](https://discord.com/channels/964645662866173972/1322220744356266027)
+[SOL not showing in Weather FX](https://discord.com/channels/964645662866173972/1322268071523520552)
+
+---
+
+** **
+# Content Manager Related
+[How to change name on Content Manager](https://discord.com/channels/964645662866173972/1322216409622642790)
+[How to save replays](https://discord.com/channels/964645662866173972/1322219847454560297)
+[How to reset all CSP settings to defaults](https://discord.com/channels/964645662866173972/1322261005371310101)
+
+---
+
+** **
+# Audio Bugs
+[Cutting / Glitchy Audio (CSP 0.2.7+)](https://discord.com/channels/964645662866173972/1358614747981021366)
+[No signals/blinker sound](https://discord.com/channels/964645662866173972/1322257717745946675)
+
+---
+
+** **
+# Assetto Corsa Related
+[No Hesi on console?](https://discord.com/channels/964645662866173972/1322221136418963568)
+[Non-DLC Servers](https://discord.com/channels/964645662866173972/1322221304266625175)
+[Verify game files for Assetto Corsa](https://discord.com/channels/964645662866173972/1322222319518748692)
+
+---
+
+** **
+
+
+# [Click here for a list of things we do not offer support for](https://discord.com/channels/964645662866173972/1322222599098339359)

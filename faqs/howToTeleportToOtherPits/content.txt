@@ -1,0 +1,29 @@
+# How to teleport to other pits
+
+---
+
+# Wondering how to teleport to the other pits dotted around the map to escape the chaos? Follow this guide!
+[attachment: image.png]
+
+---
+
+# Method 1
+> Click on the Settings Icon in the top right > press "Teleport Menu" 
+> 
+> **Warning: Toggle UI must be enabled**
+[attachment: How_to_teleport_to_other_pits_1.png]
+
+---
+
+# Method 2
+> Download and install [Comfy Map](<https://www.overtake.gg/downloads/comfy-map.52623/>) then **drag & drop** into Content Manager and install it.
+> 
+> Load into the game > Move your mouse to the right > All apps at the top > Comfy Map
+> 
+> Now that Comfy Map is open, hover over it and click on one of the dots
+[attachment: How_to_teleport_to_other_pits_2.png]
+
+---
+
+# Method 3
+> Follow <#1322252040117948556> to setup TP to pit keybind.

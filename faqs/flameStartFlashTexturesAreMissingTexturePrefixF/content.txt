@@ -1,0 +1,12 @@
+# FlameStart Flash textures are missing! (texture prefix = 'f' )
+
+---
+
+# Here is how to fix FlameStart Flash textures are missing! (texture prefix = 'f' )
+[attachment: FlameStart_Flash_textures_are_missing_texture_prefix__f_LOGO.jpg]
+
+---
+
+# Method 1
+> Reinstall the car pack from <#1033751084499476550> MANUALLY following <#1440122305861652520>
+> **DO NOT install anything using Content Manager**

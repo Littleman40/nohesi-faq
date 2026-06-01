@@ -1,0 +1,36 @@
+# Custom Server Hosting Stuck On Queue
+
+---
+
+# Is your server stuck on Spawning forever? Follow this guide!
+[attachment: image.png]
+
+---
+
+# Prerequisite:
+
+> For all **NON tier 3 users** ensure that your daily limit timer is **not **at 00h00m.
+[attachment: StuckOnQueue1.png]
+
+---
+
+** **
+### If the above does *not* apply to you, please do the following:
+
+---
+
+# Method 1:
+> 1. Click "Edit Preset"
+> 2. Click "Save Preset & Restart Server" 
+> 3. The server will restart/ requeue
+
+# Method 2:
+> 1. Select a different region
+> 2. Revert back to your original region
+> 3. The server will restart/ requeue
+
+# Method 3:
+If the above did **NOT** fix it:
+> Hard refresh the website by pressing: `Control + Shift + R`
+
+### If that still does not work, please get in contact with support staff via: <#991299200782446632> or <#964650227342655499>

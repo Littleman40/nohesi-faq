@@ -1,0 +1,29 @@
+# “ shuto_revival_project_beta/main_layout [ ] “ is missing
+
+---
+
+# How to install Shutoko (SRP)
+[attachment: preview.png]
+
+---
+
+## Step 1:
+> **[Download and install 7zip.](https://www.7-zip.org/)** **7zip** is free.
+[attachment: 7zip.png]
+
+---
+
+## Step 2: 
+> **Download __0.9.3__ Shutoko ** from [**0.9.3 Shutoko Link**](https://shutokorevivalproject.com/#download)
+[attachment: Shuto_is_missing.png]
+
+---
+
+## Step 3: **Install the map**
+[attachment: SRP0.9.3install.mp4]
+
+---
+
+## 🚨  If you have 0.9.1 installed previously, you are required to delete it fully from you track folder first 🚨
+> Go to C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks
+> Right click on shuto_revival_project_beta > Click delete.

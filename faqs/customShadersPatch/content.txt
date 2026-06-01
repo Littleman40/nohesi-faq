@@ -1,0 +1,64 @@
+# Custom Shaders Patch
+
+---
+
+# This FAQ explains what Custom Shaders Patch is, how to install it and how to access its settings
+
+---
+
+## What is it?
+> Custom Shaders Patch (CSP) is an extension for Assetto Corsa that adds advanced visual effects, new physics features, and numerous optimizations. It enables features such as dynamic lighting, a full day–night cycle, improved weather systems, and enhanced graphics.
+
+---
+
+## Download
+> Custom Shaders Patch is distributed as a `.zip` archive from the [`official website.`](https://acstuff.club/patch/)
+> Downloads follow this format:
+
+> `lights-patch-v0.X.XX.zip`
+> Where `X.XX` is the version number
+
+> `lights-patch-v0.X.X-previewXXX-full.zip`
+> Preview versions look like the following and enable rain
+
+---
+
+## What CSP Version To Use:
+> **0.2.7** -> The minimum CSP version required to run realistic physics servers/newer cars - **fixes realistic cars wheeling**
+> **0.2.11** -> The most stable newest CSP version - **Required to play 110**
+> **(PAID) 0.2.12 Preview** -> recommended **preview** version of CSP.  
+> -# <#1322228581186801745> 
+
+> **CSP 0.3.0-preview+ is NOT supported**
+
+---
+
+## Installation
+> There are two ways to install CSP:
+
+__**Content Manager**__
+> 1. Download the CSP `.zip` archive.
+> 2. Open Content Manager.
+> 3. Drag and drop the `.zip` file into the CM window.
+> 4. CM will prompt to install CSP, confirm.
+> 5. Wait for the install to complete.
+
+### __**Manual Installation (Recommended)**__
+> 1. Download the CSP `.zip` archive.
+> 2. Extract its contents to your <#1322235675239645184>. Allow file overwrite if prompted.
+> 3. Restart Content Manager to ensure changes are recognized.
+
+**```Always restart CM after installing CSP.
+Without a restart, CSP’s configuration panel may not load properly or may display outdated settings.```**
+
+---
+
+## Configuration
+> __After installing CSP:__
+> 1. Open Content Manager.
+> 2. Go to `Settings > Custom Shaders Patch > General Patch Settings.`
+> 3. Enable CSP by ticking the checkbox at the top.
+> 4. Review the modules listed in the left sidebar (e.g., WeatherFX, LightingFX, ExtraFX). You can enable or disable features as needed.
+
+**```If using Pure, ensure your CSP version meets Pure’s minimum version requirement. 
+Using older CSP builds can break weather features.```**

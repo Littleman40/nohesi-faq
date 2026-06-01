@@ -1,0 +1,24 @@
+# Security check failed?
+
+---
+
+# Here is how to fix " Security Check Failed "
+[attachment: Security_check_failedLOGO.png]
+
+---
+
+# Method 1
+## Step 1
+> Download **[CSP 2.11](https://acstuff.club/patch/?get=0.2.11)**
+[attachment: CantInstallCSP1.PNG]
+
+---
+
+## Step 2
+> **Drag and drop** the file in Content Manager then install at the top right in the 3 lines.
+[attachment: CantInstallCSP2.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: CantInstallCSPVIDEO.mp4]

@@ -1,0 +1,40 @@
+# Car's Throttle Not Working?
+
+---
+
+# Is your Car's throttle not working, but all other controls are? Follow This Guide!
+
+---
+
+# Warning:
+> ### This guide will only work, if the throttle, and only the throttle is not responding.
+> 
+> If your controls in general are not working, please follow: 
+> * https://discord.com/channels/964645662866173972/1322253669751591043
+> * https://discord.com/channels/964645662866173972/1322255308776538243
+> * https://discord.com/channels/964645662866173972/1322254966953476218
+
+---
+
+# No Hesi Car's:
+> ### If the car you are trying to use is a No Hesi Car, please follow the following:
+## Step 1:
+> Reinstall the specific car having this issue **manually**: https://discord.com/channels/964645662866173972/1440122305861652520
+
+## Step 2:
+> If the above did **not** work, ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection, resulting in our car's encryption failing.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager [(click here for tutorial)](<https://www.belkin.com/au/support-article/?articleNum=8071>)
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
+
+---
+
+# Custom Car's In Custom Servers:
+> ### If the car you are trying to use, is a Custom Car within a Custom Server, please follow the following:
+## Step 1:
+> The car you are trying to use is encrypted to only work in certain allowed online servers. This may exclude No Hesi resulting in this issue.
+> 
+> This is common for most paid cars and other cut up Assetto Corsa server cars.
+> 
+> You will **not** be able to fix this, and you will not be able to drive that car on our custom servers.

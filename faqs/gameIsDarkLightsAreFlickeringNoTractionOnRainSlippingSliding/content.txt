@@ -1,0 +1,13 @@
+# Game is dark | Lights are flickering | No Traction on Rain, Slipping, Sliding.
+
+---
+
+# Is your game ridiculously dark? Are lights flickering? Are you getting absolutely no traction in the rain and are slipping and sliding everywhere? Follow this guide!
+[attachment: GameisDarkLOGO1.png]
+[attachment: GameisDarkLOGO2.png]
+
+---
+
+# Method 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > Colorful Shadowing and **uncheck** the “Active” box.
+[attachment: GameisDark.png]

@@ -1,0 +1,34 @@
+# Missing CSP features
+
+---
+
+# Here is how to fix the " Missing CSP Features " error.
+[attachment: MissingCSPFeaturesLOGO.png]
+
+---
+
+# Step 1
+> Delete the Content Manager.exe file
+> Delete the AcTools Content Manager in %localappdata%
+
+---
+
+[attachment: MissingCSPFeatures1.png]
+
+---
+
+[attachment: Reinstall_Content_Manager_Tutorial_1.png]
+
+---
+
+# Step 2
+> Download and install the latest [Content Manager](https://acstuff.club/app/latest.zip) version
+
+# Step 3
+> Reinstall the latest Custom Shaders Patch version
+[attachment: MissingCSPFeatures2.png]
+
+---
+
+# Step 4 
+🚨 __Close and re-open content manager__ 🚨

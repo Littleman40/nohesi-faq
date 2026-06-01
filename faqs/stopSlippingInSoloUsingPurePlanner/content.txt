@@ -1,0 +1,17 @@
+# Stop slipping in Solo using Pure Planner
+
+---
+
+# Are you in solo mode and your car is slipping and has no grip? Follow this guide!
+
+---
+
+# Method 1
+> To disable rain physics, open the game > open the weather fx debug app > open rain fx debug and override thickness to 0.0mm
+[attachment: StopSlippingInSingle.png]
+
+---
+
+# Method 2
+> Enable **Extended Physics** by going to Content Manager > Single > Quick > Use Extended Physics
+[attachment: StopSlippingInSingle2.png]

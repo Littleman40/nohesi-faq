@@ -1,0 +1,12 @@
+# How to Assign Extra Buttons?
+
+---
+
+# Does a car you're driving have Extra Buttons for cool, extra features? Follow this guide!
+
+---
+
+# Method 1
+> Open Content Manager and go to Settings > Assetto Corsa > Controls > Patch > Car > Extra Option A-J
+## Police sirens are linked to the horn button
+[attachment: How_to_Assign_Extra_Buttons.png]

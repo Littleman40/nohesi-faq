@@ -1,0 +1,29 @@
+# Cannot find FUEL_INDICATOR target
+
+---
+
+# Here is how to fix the " Cannot find FUEL_INDICATOR target " error.
+[attachment: FuelIndicator1.png]
+
+---
+
+# **Step 1:**
+> Navigate to your <#1322235675239645184> and open the **"content"** folder
+
+---
+
+# **Step 2:**
+> Rename the **"cars"** folder to **"old_cars"**
+
+---
+
+[attachment: FuelIndicator2.png]
+
+---
+
+# **Step 3:**
+> Open steam and <#1322222319518748692>
+# **Step 4:**
+> Once the verifying files is complete return to your <#1322235675239645184> and again open the **"content"** folder and check to make sure verifying files created a new **"cars"** folder
+# **Step 5:**
+> Load the server you want to play on and use <#1322223184367587462>

@@ -1,0 +1,38 @@
+# How to remove Snow effect (pure)
+
+---
+
+# Want to remove the snow effect when it starts raining? Follow this guide!
+[attachment: SnowEffectLOGO.PNG]
+
+---
+
+# Method 1
+## Step 1
+> Put your mouse on the right side of the screen and search `Pure Planner`.
+[attachment: SnowEffect1.PNG]
+
+---
+
+## Step 2
+> Click the `glowing blue P` on the side of the app and click on the `current weather`.
+[attachment: SnowEffect2.PNG]
+
+---
+
+## Step 3
+> `Uncheck the box` next to `Air Temperature` and increase it to `above 3.0c` and the snow will turn off.
+[attachment: SnowEffect3.PNG]
+
+---
+
+# Method 2
+## Step 1
+> Put your mouse on the right side of the screen and search `Pure Config`.
+[attachment: SnowEffect4.PNG]
+
+---
+
+## Step 2
+> Select the `Weather` tab, uncheck the `weather.use_weather_particles` box, then click save to permanently disable the effect.
+[attachment: SnowEffect5.PNG]

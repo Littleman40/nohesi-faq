@@ -1,0 +1,17 @@
+# Node AC_REVERB_0
+
+---
+
+# Here is how to fix “ Track is Misconfigured. Node “ AC_REVERB_0 ” from “ [REVERB_0] ” used for track audio is missing
+[attachment: AC_REVERB1.png]
+
+---
+
+# This error is completely harmless and does not cause the game to crash in any way. If you would like to remove it, follow the rest of this guide.
+
+
+# Step 1
+> **[Download and install 7zip.](https://www.7-zip.org/)** **7zip** is free.
+
+# Step 2
+> Next, simply reinstall the track manually following <#1457475437809631416>  and make sure to **NOT** use content manager

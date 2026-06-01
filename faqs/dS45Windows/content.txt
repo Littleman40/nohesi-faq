@@ -1,0 +1,86 @@
+# DS4/5 Windows
+
+---
+
+# If you are using a PS4 or PS5 controller, you need to download an app called “DS4 Windows” or "DualSenseX" and after that connect your PS4/5 Controller.
+[attachment: DS4WINDOWSLOGO.png]
+
+---
+
+# How to install DS4 Windows (PS4 Controllers)
+## Step 1
+> Download [“Vigem Bus Driver”](https://vigembusdriver.com/download/) which is required for DS4 to work.
+
+---
+
+## Step 2
+> Download [Microsoft .NET 6.0.6 Runtime Desktop](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.6-windows-x64-installer).
+
+---
+
+## Step 3
+> Go to [DS4 Official Download Page](https://ds4-windows.com/download/ryochan7-ds4windows/#) which will automatically download DS4 Windows.
+> Once downloaded, run the program to install it.
+
+---
+
+## Step 4
+> Now extract the file and open the newly created "DS4 Windows". Open the "DS4Windows.exe" and you are done.
+[attachment: DS4Download2.png]
+[attachment: DS4Download3.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: DS4Install.mp4]
+
+---
+
+# How to Install DualSenseX (PS5 Controllers)
+## Step 1
+> Download [“Vigem Bus Driver”](https://vigembusdriver.com/download/) which is required for DS4 to work.
+
+---
+
+## Step 2
+> Download [Microsoft .NET latest framework](https://dotnet.microsoft.com/en-us/download).
+
+## Step 3
+> Download the free version of DualSenseX, extract the folder using 7zip then run the program to install it.
+
+** **
+
+---
+
+** **
+
+# How to Download A7-Assist
+## Step 1
+> [Download A7 assist by clicking here](https://drive.google.com/file/d/1Uhd2WPtdUvCFWmLmcTN8w_ZnMZu_z9KL/view?usp=drive_link) and clicking the download icon at the top right.
+
+---
+
+## Step 2
+> Extract the "A7-Assist" file using 7zip and open the new “A7 Assist” folder. Drag and Drop the files into *”C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\extension\lua\joypad-assist”*
+[attachment: A7Assist1.png]
+
+---
+
+[attachment: A7Assist2.png]
+
+---
+
+## Step 3
+> Open Content Manager > Settings > Assetto Corsa > Custom Shaders Patch > Gamepad FX > Active > change Gamepad Script to A7 Assist.
+[attachment: A7Assist3.png]
+
+---
+
+## Step 4
+> Go to Settings > Assetto Corsa > Controls > Axis and at the top it will show Input Method, change it to Gamepad then redo your binds.
+[attachment: A7Assist4.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: A7AssistVideo.mp4]

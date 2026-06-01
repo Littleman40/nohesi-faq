@@ -1,0 +1,13 @@
+# Missing Points UI
+
+---
+
+# If you are missing your points follow these steps
+
+---
+
+# Method 1
+> For missing points UI you'll have to downgrade `Custom Shaders Patch` to `0.2.9`. 
+> You can do this by going to Content Manager > Settings > CSP > About and Updates
+
+> If you don't have the option to downgrade follow this <#1322225183297376266>

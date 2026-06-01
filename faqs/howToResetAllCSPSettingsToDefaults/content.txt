@@ -1,0 +1,23 @@
+# How to reset all CSP settings to defaults
+
+---
+
+# Want to reset every CSP setting? Follow this guide!
+
+---
+
+# Method 1
+> 1. Close Content Manager
+> 2. Open File Explorer and go to **Documents/AssettoCorsa**
+> 3. Rename the `cfg` folder to `cfg_old`
+> 
+> *This will **wipe all** of your presets, but you can always rename cfg_old back to cfg if it does not fix your issue.*
+[attachment: ResetCSPExample.png]
+
+---
+
+## 🚨  Please ensure you change the cfg folder that is in the Documents folder and NOT in the root folder 🚨
+
+---
+
+> If you accidentally renamed the cfg folder that is in your root folder, please name it back to cfg, and in addition, please complete:  <#1322222319518748692>

@@ -1,0 +1,23 @@
+# How to setup your Keyboard & Mouse
+
+---
+
+# Don’t have a controller or a wheel but only a keyboard? Follow this guide!
+[attachment: SetupKeyboardLOGO.png]
+
+---
+
+## Setup Guide
+> Open Content Manager and go to Settings > Assetto Corsa > Controls > Keyboard & Mouse > Main
+> Next, bind every button in the green boxes.
+> If you want to use your mouse, check **”Enable Mouse Steering”**
+[attachment: HowToBindKeyBoard.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: HowToSetupKeyboard.mp4]
+
+---
+
+> **If your wheel is moving on its own during the game without any input, try turning down your mouse's polling rate.**

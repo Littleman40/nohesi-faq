@@ -1,0 +1,25 @@
+# How To Enable 7 Zip Plugin
+
+---
+
+# Required for https://discord.com/channels/964645662866173972/1322223184367587462
+
+---
+
+## Step 1
+> Go to Settings
+## Step 2
+> Click on Content manager 
+## Step 3
+> Click on Plugins
+## Step 4
+> Check the 7 Zip plugin box.
+[attachment: How_to_Enable_7zip_Plugin.png]
+
+---
+
+# VIDEO GUIDE
+
+---
+
+[attachment: Enable7ZipPlugin.mp4]

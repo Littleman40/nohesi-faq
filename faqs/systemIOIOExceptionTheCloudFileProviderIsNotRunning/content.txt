@@ -1,0 +1,15 @@
+# System.IO.IOException: The cloud file provider is not running
+
+---
+
+# Here is how to fix "System.IO.IOException: The cloud file provider is not running".
+[attachment: image.png]
+
+---
+
+## Step 1
+> On the taskbar on the bottom of your screen, click on the OneDrive icon 
+## Step 2
+> Navigate to Settings > Sync and Backup 
+## Step 3
+> Click on the Download files button.

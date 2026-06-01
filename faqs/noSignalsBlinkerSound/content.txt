@@ -1,0 +1,13 @@
+# No signals/blinker sound
+
+---
+
+# Turning on your signals and cannot hear the signal sound? Follow this guide!
+
+---
+
+## Step 1
+> [Click here to download the **Blinker sound app**](https://www.racedepartment.com/downloads/blinker-sound-app.64886/)
+## Step 2
+> Drag & Drop into Content Manager and install.
+## [Click here for a demo video](https://www.youtube.com/watch?v=PYAGt0CFNh8)

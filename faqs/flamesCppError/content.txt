@@ -1,0 +1,53 @@
+# Flames.cpp Error
+
+---
+
+# Here is how to fix AC\flames.cpp error.
+[attachment: FlamesCPP1.png]
+
+---
+
+# __**Step 1:**__
+> Navigate to your <#1322235675239645184> 
+> Then open the "Content" folder, then the "cars" folder.
+
+---
+
+# __**Step 2:**__
+> Open a different NoHesi car folder, let’s say the No Hesi Lexus LFA car file for example.
+
+---
+
+[attachment: FlamesCPP2.png]
+
+---
+
+# __**Step 3:**__
+> Copy the "texture" folder inside of the LFA folder
+
+---
+
+[attachment: FlamesCPP3.png]
+
+---
+
+> After you copy that "texture" folder
+> Find the MK4 Supra folder
+
+---
+
+[attachment: FlamesCPP4.png]
+
+---
+
+> Paste the "texture" folder into the MK4 folder
+
+> Then close everything and restart your game and the error should stop
+
+---
+
+# Video Guide
+
+---
+
+[attachment: FlamesCPPVideo.mp4]

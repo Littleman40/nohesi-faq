@@ -1,0 +1,49 @@
+# Camera Stuck Facing Backwards?
+
+---
+
+# Is your camera pointing backwards without you pressing anything? Follow this guide!
+[attachment: Camera_Stuck_Facing_BackwardsLOGO.png]
+
+---
+
+# Step 1:
+> Open file explorer and go to **Documents/Assetto Corsa** (*not your root folder*) and rename the “cfg” folder to "cfg_old" and restart Content Manager
+
+# Step 2:
+> Rebind your controls **manually**:
+> * **Wheel**: <#1322253669751591043>
+> * **Controller**: <#1322254966953476218>
+> * **Keyboard**: <#1322255308776538243>
+
+# Step 3:
+> Open Content Manager > Settings > Assetto Corsa > Controls > Buttons *or* Additional > View
+> 
+> Assign:
+> 1. Glance Left
+> 2. Glance Right
+> 3. Glance Back
+> 4. Change Camera
+
+---
+
+[attachment: Camera_Stuck_Facing_Backwards1.png]
+
+---
+
+# Step 4:
+> Open Content Manager > Settings > Assetto Corsa > Controls > Patch > Neck FX
+> 
+> Assign:
+> 1. Look Left
+> 2. Look Right
+> 3. Look Back
+
+---
+
+[attachment: Camera_Stuck_Facing_Backwards2.png]
+
+---
+
+# Step 5:
+> Restart your pc

@@ -1,0 +1,19 @@
+# Trees / Grass White
+
+---
+
+# Are your trees and grass white and you do not like it? Follow this guide!
+[attachment: White_Trees_LOGO.png]
+
+---
+
+## Method 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > Weather FX
+> Next, Uncheck the box labeled "Use Seasonal Adjustments"
+[attachment: Trees__Grass_White1.png]
+
+---
+
+## Method 2
+> In the event it is not in Weather FX, the setting may be in 'Track Adjustments'
+[attachment: Trees__Grass_White2.png]

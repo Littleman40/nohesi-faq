@@ -1,0 +1,70 @@
+# #0 place / no new score
+
+---
+
+# Getting #0 place every time you join the server and/or not able to set a new score? Follow this guide!
+
+---
+
+# Step 1:
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection.
+
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager [(click here for tutorial)](<https://www.belkin.com/au/support-article/?articleNum=8071>)
+
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
+
+---
+
+# Step 2:
+> **Reinstall/ Install your CefSharp Plugin**
+
+## Uninstall:
+> 1. Press *windows+r*
+> 2. Type `%localappdata%`
+> 3. Open AcTools Content Manager
+> 4. Open your Plugins folder
+> 5. Delete the CefSharp folder
+
+## Reinstall:
+> 1. Open Content Manager > Settings > Content Manager > Plugins > Install CefSharp Version (114.2.120)
+> 2. Close and Reopen Content Manager
+> 
+> If unable to -> <#1322234984181796934>
+
+## VIDEO GUIDE
+[attachment: CefSharpReinstallGuide.mp4]
+
+---
+
+# Step 3:
+
+> Make sure your computer clock settings are **correctly set, and synced.**
+
+> Right-click the system clock in your **System Tray** at the bottom-right corner of the screen and click  **Adjust date/time** *(You can also go to Settings > Time & Language > Date & time.)*
+### Ensure both `set timezone automatically` and `set time automatically` are ticked -> then press `sync now`.
+[attachment: 0Place.png]
+
+---
+
+-# **If any of these options are greyed out, please watch <https://www.youtube.com/watch?v=kPq2R-vxCTw> first.**
+
+### A full explanation + other debugging steps can be found on the article: <https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/>
+
+---
+
+# Step 4: 
+If the above fixes did **NOT **work:
+> 1. Install **0.2.7 CSP** (*Content Manager > Settings > Custom Shaders Patch > About & Updates*)
+> 2. **Join a server, and your PB will start saving again.**
+
+Only **after **doing the above, proceed with:
+> 3. Install **0.2.11 CSP** (*Content Manager > Settings > Custom Shaders Patch > About & Updates*)
+
+# Step 5:
+If the above fixes did **NOT **work:
+> You may need to additionally do <#1322234984181796934> and set it back up using the <#985372285668036639>
+
+## Current Vaulted Cars - Do Not Count To LB - As of <t:1770408000:d>
+https://discord.com/channels/964645662866173972/1431142566589370548

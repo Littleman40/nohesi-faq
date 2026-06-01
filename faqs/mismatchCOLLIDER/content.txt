@@ -1,0 +1,12 @@
+# Mismatch: COLLIDER
+
+---
+
+# Here is how to fix *“Mismatch: COLLIDER”*
+[attachment: image-7.jpg]
+
+---
+
+## Step 1
+> Due to our new anti-cheat, you cannot replace the car colliders at all, ensure you have not used a DLC bypasser as it may cause this error. 
+> If you have, follow <#1440122305861652520> to delete all your cars and reinstall them following the install guide.

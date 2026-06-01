@@ -1,0 +1,23 @@
+# How to open Chat
+
+---
+
+# Is driving getting boring by yourself and you want to talk to people in-game? Follow this guide!
+[attachment: HowtoopenchatLOGO.png]
+
+---
+
+## Step 1
+> Open Content Manager and go to Settings > Assetto Corsa > Python Apps > Chat > Tick
+[attachment: HowToOpenChat.png]
+
+---
+
+## Step 2
+> Put your mouse on the right side of the screen and search **"Chat".**
+[attachment: HowtoopenchatLOGO_2.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: HowToOpenChat.mp4]

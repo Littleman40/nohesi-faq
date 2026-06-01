@@ -1,0 +1,45 @@
+# How to remove Steam Starter
+
+---
+
+# Enabled Steam Starter but want to remove it? Follow this guide!
+
+---
+
+## Step 1
+> Open Content Manager > Go to Settings > Content Manager > Drive and change the game starter **off** of steam starter and onto **AppID**.
+
+---
+
+[attachment: SteamStarter1.png]
+
+---
+
+## Step 2
+> Go to your <#1322235675239645184>
+> Find the "AssettoCorsa" application (it will have the content manager icon)
+> Right click that file and rename it to "CM".
+
+---
+
+[attachment: SteamStarter2.png]
+
+---
+
+## Step 3
+> Find the "AssettoCorsa_original" application (it will have the normal assetto corsa icon)
+> Right click the file > Rename > Delete the "_original" from the name.
+
+---
+
+[attachment: SteamStarter3.png]
+
+---
+
+## Step 4
+> Now drag the "CM" application out of your <#1322235675239645184> and onto your desktop.
+[attachment: SteamStarter4.png]
+
+---
+
+### You are done and can now launch the original Assetto Corsa through steam again.

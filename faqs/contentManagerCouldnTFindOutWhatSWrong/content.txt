@@ -1,0 +1,16 @@
+# Content Manager couldn't find out what's wrong
+
+---
+
+# Here is how to fix “ Content Manager couldnt find out what's wrong ”
+[attachment: CMCouldntFindLOGO.png]
+
+---
+
+## Method 1
+> Switch to <#1486631384402624513> which will allow for Content Manager to show an actual error message.
+
+---
+
+## Method 2
+> Open File Explorer -> This PC -> and verify you have a minimum of 25 GB of space in your C Drive.

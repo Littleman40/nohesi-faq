@@ -1,0 +1,10 @@
+# SOL not showing in Weather FX
+
+---
+
+# Is the SOL weather style not showing up in WeatherFX? Follow this guide!
+[attachment: image.png]
+
+---
+
+> If you cannot see Sol in WeatherFX, you have installed it incorrectly, follow <#1322233156790653010> closely.

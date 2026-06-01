@@ -1,0 +1,58 @@
+# How to play with Custom Cars
+
+---
+
+# Want to play with your own custom cars on No Hesi custom servers? Follow this guide!
+
+---
+
+# Prerequisite:
+> You **MUST** be a **Tier 3** member to utilise this feature -> https://discord.com/channels/964645662866173972/970997833232695316
+
+---
+
+# Step 1:
+> Go to: <https://nohesi.gg/custom-servers> and click "New Preset" or "Edit Preset"
+[attachment: AddCustomCars1.png]
+
+---
+
+# Step 2:
+> **Setup your Custom Server by:**
+> 1. Setting a Server Name
+> 2. Set a Time Of Day
+> 3. Set a Weather Condition
+> 4. You **MUST** set a password
+> 5. Choose a Map
+> 6. Choose a Traffic Density
+
+---
+
+# Step 3:
+> Under Car Slots click "Custom Cars" then click "Add a Custom Car"
+[attachment: AddCustomCars2.png]
+
+---
+
+# Step 4:
+> **Find the Car Model Folder Name:**
+> 1. Open https://discord.com/channels/964645662866173972/1322235675239645184 -> Content -> Cars -> Choose Any Car 
+> 2. Copy (*Control + C*) the selected car's folder name
+> 3. Paste (*Control + V*) the name into the "Car Model Folder Name" field on the website.
+[attachment: AddCustomCars3.png]
+
+---
+
+# Step 5:
+> **Find the Skin Folder Name:**
+> 1. Within the **SAME** car folder as above, click "skins"
+> 2. Click your preferred skin
+> 3. Copy (Control + C) the selected skins folder name
+> 4. Paste (Control + V) the name into the "Skin Folder Name" field on the website.
+[attachment: AddCustomCars4.png]
+
+---
+
+# Step 6:
+> Click "Add This Car"
+[attachment: AddCustomCars5.png]

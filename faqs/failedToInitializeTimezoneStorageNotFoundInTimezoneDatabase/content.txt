@@ -1,0 +1,12 @@
+# Failed to initialize timezone storage: not found in timezone database
+
+---
+
+# Here is how to fix “ Failed to initialize timezone storage: not found in timezone database “
+[attachment: Failed_to_initialize_timezone_storage_not_found_in_timezone_database_LOGO.png]
+
+---
+
+## Method 1
+> This issue is caused by CSP versions `3.0-preview210` and `3.0-preview211`
+> Update to CSP Version [`3.0-preview212`](https://www.patreon.com/posts/merry-christmas-146659505) and the issue will be fixed

@@ -1,0 +1,14 @@
+# Automatic blinkers/indicators
+
+---
+
+# Are you cutting up and feeling bad for the person behind you not knowing where to go but don’t want to manually turn on your blinkers? Follow this guide!
+[attachment: image.png]
+
+---
+
+## Method 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > Car Instruments
+> Set these options to the same as the picture (you can tweak the Turn steering threshold)
+> You can click on the number values and input custom values. You'll want to keep the RPM and speed thresholds very high, and keep the steering threshold very low so that it automatically turns on blinkers when the wheel reaches that many degrees.
+[attachment: Automatic_blinkersindicators1.png]

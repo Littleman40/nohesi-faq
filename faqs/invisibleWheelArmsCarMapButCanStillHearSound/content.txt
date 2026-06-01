@@ -1,0 +1,17 @@
+# Invisible Wheel / Arms / Car / Map but can still hear sound
+
+---
+
+# "Why does my car look like a convertible?” or "Why does my car look like it is cut in half?" If that is you, follow this guide!
+[attachment: Why_does_is_car_cut_LOGO.png]
+
+---
+
+# Method 1
+> Settings > Custom Shader Patch > Graphic Adjustments
+> Make sure you have the same exact values or [CLICK TO APPLY SETTINGS](https://acstuff.ru/s/q_zMVw)
+[attachment: Why_does_my_car_not_have_a_wheel_or_parts_of_the_car1.png]
+
+---
+
+[attachment: IMG_7829.jpg]

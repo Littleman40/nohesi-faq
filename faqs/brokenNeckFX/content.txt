@@ -1,0 +1,30 @@
+# Broken Neck FX ?
+
+---
+
+# Is the driver's head not moving even with NeckFX on? Follow this guide!
+[attachment: BrokenNeckFXLOGO.png]
+
+---
+
+## Method 1
+
+> Open Content Manager and go to Settings > Custom Shaders Patch > NeckFX
+> Untick the active box
+
+---
+
+[attachment: BrokenNeckFX1.png]
+
+---
+
+## Method 2
+> Go to Settings > Custom Shaders Patch > NeckFX
+> Untick Active for “Replace Original CSP implementation with a custom script”
+[attachment: BrokenNeckFX2.png]
+
+---
+
+## Method 3
+> If your neck fx still is not working, make sure your render mode in Content Manager > Settings > Assetto Corsa > Video > Rendering Mode > Set to Single Screen
+[attachment: BrokenNeckFX3.png]

@@ -1,0 +1,42 @@
+# Whitelist VIP error
+
+---
+
+# Here is how to fix any whitelisting error
+[attachment: WhitelistVIPErrorLOGO.png]
+
+---
+
+## Step 1 
+> Find your Steam ID
+
+---
+
+[attachment: How_to_find_your_Steam_ID.png]
+
+---
+
+## Step 2 
+> Make sure the correct steam ID is selected in Content Manager. Change it if needed.
+> Settings > Content Manager > General.
+[attachment: WhitelistVIPError.png]
+
+---
+
+## Step 3 
+> **Make sure the correct account is whitelisted** by going to <#1000157728737599691> and checking to make sure the steam account matches the account with your Assetto Corsa copy that you are actively trying to play on.
+> If it is not the correct one, de-link it and sign into the correct one
+[attachment: WhitelistVIPerror3.png]
+[attachment: WhitelistVIPerror4.png]
+
+---
+
+[attachment: WhitelistVIPerror5.png]
+
+---
+
+# Tips
+> For **VIP**, if the STEAM IDs **do not** match on Content manager and the website, <#1000157728737599691>.
+> Feel free to open a <#991299200782446632> ticket.
+
+> For **Free to play** users, get in touch with a staff member in <#964650227342655499>

@@ -1,0 +1,15 @@
+# Manual PP-Filter installation
+
+---
+
+## Follow all steps shown in the video below.
+[attachment: Desktop_2024.02.13_-_23.50.03.02.mp4]
+
+---
+
+## If the zip contains more files than just the system folder, make sure to drag all of them into the AC root directory.
+## If the zip file contains an "assettocorsa" folder, open it and drag the contents inside that folder into the AC root instead.
+
+---
+
+-# Credits: GarryRoberts

@@ -1,0 +1,35 @@
+# How to do a fresh start
+
+---
+
+# Having issues with the game, and you want to do a clean fresh start ?
+-# Credit: <@164579566772420609>
+[attachment: fresh.jpg]
+
+---
+
+## Step 1
+> Delete the __Assetto Corsa Steam folder__, then uninstall the game from your Steam library if required.
+> 
+> - Follow <#1322235675239645184> to find your Assetto Corsa folder.
+[attachment: FreshStart1.png]
+
+---
+
+## Step 2
+> Delete the __Assetto Corsa folder in "Documents"__ (make a backup of this folder if you want to keep screenshots, graphics/controls presets, etc)
+[attachment: FreshStart2.png]
+
+---
+
+## Step 3
+> Delete the Content manager folder
+> - Press Windows key + R
+> - Type in %localappdata% and hit enter 
+> - Delete the __"AcTools Content Manager"__ folder.
+[attachment: FreshStart3.png]
+
+---
+
+## Step 4
+> Follow <#985372285668036639> to re-install the No Hesi mods.

@@ -1,0 +1,20 @@
+# How to reduce traffic rain splash
+
+---
+
+# Here is how to reduce the rain splash caused by traffic.
+[attachment: Logo.png]
+
+---
+
+## Step 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > ParticlesFX
+
+---
+
+[attachment: RainSplash1.png]
+
+---
+
+## Step 2
+> Turn off *Active* under “New smoke and dust”

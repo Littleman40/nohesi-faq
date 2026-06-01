@@ -1,0 +1,27 @@
+# Steam Authentication Failed?
+
+---
+
+# Here is how to fix " Steam Authentication Failed "
+[attachment: Steam_Authentication_FailedLOGO.png]
+
+---
+
+## Steam servers are down for maintenance every Tuesday
+> Please be patient as they come back online after 10 minutes to 1 hour.
+
+---
+
+# Method 1
+## If it isn't a Tuesday and you still get the error message
+> Make sure steam is open first and make sure you are whitelisted here https://discord.com/channels/964645662866173972/1000157728737599691
+
+---
+
+# Method 2
+> - Make sure you're logged into the correct Steam account
+> - Restart Steam
+> - Log out and back into the account
+> - Restart PC
+> - Restart your internet router
+> - Reconnect your Steam account in CM (Content Manager) https://discord.com/channels/964645662866173972/1322220240167239750  link Steam to Content Manager

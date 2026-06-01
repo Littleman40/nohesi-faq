@@ -1,0 +1,25 @@
+# Link Steam to Content Manager & Discord
+
+---
+
+# Questioning whether Content Manager & Discord are linked to Steam? Follow this guide!
+
+---
+
+## How to link steam to content manager
+> Open Content Manager and go to Settings > General Tab > Steam Profile > Make sure your SteamIDs match
+[attachment: WhitelistVIPError.png]
+
+---
+
+# How to link steam to discord
+> Press on the User Settings next to your username > Connections > Click Steam Icon and follow linking process
+[attachment: UserSettings.png]
+
+---
+
+[attachment: Link_Steam_to_Content_Manager__Discord.png]
+
+---
+
+-# If whitelisting issues are not resolved, restart your computer and try to join again.

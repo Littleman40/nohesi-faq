@@ -1,0 +1,16 @@
+# Compress files tutorial - Increase disk space. Smaller / Size / Zip
+
+---
+
+# Running out of space on your PC and don’t want to delete anything? Follow this guide!
+
+---
+
+> This can help save space if you have lots of cars/tracks and you're running low on storage. This will not affect performance in any way. If anything it will increase it but by negligible amounts.
+
+---
+
+# Method 1
+> Open Content Manager and go to Content > Tools > Compress Files
+> **YOU CAN NOT PLAY UNTIL THE COMPRESSION HAS FINISHED**
+[attachment: Compress_files_tutorial_-_Increase_disk_space._Smaller_Size_Zip.png]

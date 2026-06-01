@@ -1,0 +1,22 @@
+# How to find DiscordID
+
+---
+
+# Wondering how to find your DiscordID? Follow this guide!
+
+---
+
+> Open your User Settings > Go to Advanced > Enable Developer Mode
+[attachment: FindDiscordID1.png]
+
+---
+
+[attachment: FindDiscordID2.png]
+
+---
+
+> Once you have enabled Developer mode, right click on a user and click **”Copy ID”**
+
+---
+
+[attachment: FindDiscordID3.png]

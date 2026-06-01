@@ -1,0 +1,28 @@
+# Third Person Cockpit view with Neck FX / POV / point of view / camera
+
+---
+
+# Want to make your own roof cam or get a unique camera position? Follow this guide!
+[attachment: ThirdPersonCockpitLOGO.png]
+
+---
+
+## Step 1
+> Go into the game > Move your mouse to the right side of the screen > All Apps at the top 
+> > Search for "Onboard Settings" or "First Person Camera"
+
+---
+
+[attachment: ChangeFoV1.png]
+[attachment: ChangeFoV2.png]
+
+---
+
+## Step 2
+> Configure then save your FoV
+[attachment: ChangeFoV3.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: Third_Person_Cockpit_viewVIDEO.mp4]

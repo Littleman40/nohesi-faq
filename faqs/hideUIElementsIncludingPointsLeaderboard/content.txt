@@ -1,0 +1,86 @@
+# Hide UI elements (including Points) Leaderboard
+
+---
+
+# Pit Menu (on the right):
+> Settings > Assetto Corsa > System > **"Pits menu" disable everything**
+> Settings > Custom Shader Patch > General Patch Settings > Enable **"Stop AC from using D Pad in pits app"**
+> Settings > Assetto Corsa > Controls > "System" > Enable **'Ignore Pov1 buttons in pits"**
+
+# or
+** **
+> Open Steam > Right click Assetto Corsa > click properties > click local files > click browse
+> Go to \system\cfg\pitstop.ini
+> Open the .ini file with notepad and then change USE_MOUSE_PITSTOP=0 to be **=1**
+> Relaunch Content Manager
+[attachment: HideUILOGO.png]
+
+---
+
+# Driver names (bottom):
+> F9 to hide
+[attachment: HideUI1.png]
+
+---
+
+# Virtual Mirror  (top mid) :
+> F11
+[attachment: HideUI2.png]
+
+---
+
+# Proximity indicator (red arrow):
+[attachment: HideUI3.png]
+
+---
+
+# Yellow Flag (top left):
+
+> https://youtu.be/GALR0-TE9_0
+
+---
+
+# Server messages (top mid)
+[attachment: HideUI5.png]
+
+---
+
+# Ping (top right):
+[attachment: HideUI6.png]
+
+---
+
+# Time Remaining in Session (Top Middle)
+> Steam\steamapps\common\assettocorsa\system\cfg\session_info.ini
+> Change the following values:
+> "PRATICE_VISIBLE=0"
+> "QUALIFY_VISIBLE=0"
+> "RACE_VISIBLE=0"
+[attachment: HideUI7.png]
+
+---
+
+# Pit speed limit (top left)
+[attachment: HideUI8.png]
+
+---
+
+[attachment: HideUI9.png]
+
+---
+
+# No Hesi Speedometer & Points UI
+> Click the `Gear` icon located at the top right of your screen.
+> 
+> - To turn off all of the Points UI, click the `toggle button` in the `Toggle UI` box
+>     - To turn off specific Points UI parts, click `UI Settings` at the bottom, then click the `toggle button` for the specific part you want disabled.
+> 
+> - To turn off the speedometer, click the `toggle button` in the `Speedometer` box
+[attachment: HideUI10.png]
+
+---
+
+# No Hesi Chat
+> Click the `Gear` icon located at the top right of chat.
+> Scroll down in the `Chat Settings` then click `Hide chat when inactive`
+[attachment: HideUI11.png]

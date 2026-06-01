@@ -1,0 +1,21 @@
+# Chat appearing as pink color
+
+---
+
+# Do you have a pink/inverted colored chat? Follow this guide!
+[attachment: image.png]
+
+---
+
+## Step 1
+> Open Content Manager > Go to Settings > Custom Shaders Patch > About & Updates
+
+## Step 2
+> Install CSP Version 0.2.11
+> If already on CSP version 0.2.11, click `Reinstall Current Version`
+[attachment: image_2.png]
+
+---
+
+## Step 3
+> Restart Content Manager

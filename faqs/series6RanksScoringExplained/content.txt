@@ -1,0 +1,56 @@
+# Series 6 - ranks - scoring - explained
+
+---
+
+# Series 6 - Explained
+[attachment: ScoringLOGO.png]
+
+---
+
+## Leaderboard Rules
+> 2 lives
+> Time limit of 15 minutes.
+> If you crash twice or run out of time, your score will reset. 
+> If you reset/crash while having a higher point value than your PB, it will override it, and you will have your new PB.
+
+**Certified**
+> To get Certified, you must be within the top 0.1% of all scores, and it is capped at max to the top 75 players.
+
+**Ranks**
+> Certified → 0.1%/Top 75 Capped
+> Sanctioned (I, II, III) → 1% - 0.1%
+> Ghost (I, II, III) → 5% - 1%
+> Licensed (I, II, III) → 10% - 5%
+> Marked (I, II, III) → 25% - 10% 
+> Noticed (I, II, III) → 50% - 25% 
+> Listed (I, II, III) → 100% - 50%
+[attachment: Scoring1.png]
+
+---
+
+** **
+## Point System Overview
+> Points are gained through cutting up between traffic cars. There are bonuses given to the following:
+> * **Realistic Traffic** = Speed Multiplier bonus
+> * **Realistic physics** = Combo Bonus per car passed
+> * **First Person Camera** = Combo Bonus per car passed.
+> * **Aggro Multiplier** *increases* as you pass cars in *different lanes consecutively*. This multiplier will *decrease* if you keep passing cars in the *same lane consecutively*. In order to bring it back up again, you'll need to pass a car in a different lane.
+[attachment: Scoring2.PNG]
+
+---
+
+> -# All of these bonuses stack.
+
+# Tips & Tricks
+## Ideal Points Line
+[attachment: PointsLine1.png]
+[attachment: PointsLine2.png]
+[attachment: PointsLine3.png]
+
+---
+
+## 4 Crew Order Strategy
+[attachment: CrewOrderStrategy1.png]
+[attachment: CrewOrderStrategy2.png]
+[attachment: CrewOrderStrategy3.png]
+[attachment: CrewOrderStrategy4.png]

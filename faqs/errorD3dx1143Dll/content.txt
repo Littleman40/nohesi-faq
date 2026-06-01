@@ -1,0 +1,22 @@
+# Error d3dx11_43.dll
+
+---
+
+# Here is how to fix Error d3dx11_43.dll
+[attachment: Error_d3dx11_43.dll_LOGO.png]
+
+---
+
+## Step 1:
+> Download DirectX from Microsoft's official website.
+> [**DirectX End-User Runtime Web**](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+## Step 2:
+> Update your graphics drivers and restart your PC.
+## Step 3:
+> Verify your game files on Steam.
+> Open Steam > Library > Right Click Assetto Corsa > Properties > Installed Files > Verify Integrity of Game Files
+[attachment: Error_d3dx11_43.dll_1.png]
+
+---
+
+[attachment: Error_d3dx11_43.dll_2.png]

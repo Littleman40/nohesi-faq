@@ -1,0 +1,68 @@
+# How to install / delete tracks manually
+
+---
+
+# Wondering how to install and/or delete tracks manually directly in the game folder, follow this guide!
+
+---
+
+# How to install a track manually
+## Step 1
+> Download and install 7zip
+> [**7zip**](<https://www.7-zip.org/>) is free.
+[attachment: 7zip.png]
+
+---
+
+## Step 2
+> Download the map from our [**Content Delivery Network**](https://cdn.nohesi.gg/)
+
+## Step 3
+> Go to your root folder for Assetto Corsa > Open the Content folder > Open the Track folder
+[attachment: How_to_install_tracks_manually1.png]
+
+---
+
+[attachment: How_to_install_tracks_manually2.png]
+
+---
+
+## Step 4
+> Ensure the track is not a zip file and that it is not contained within a subfolder like “Content” or “Assetto Corsa”.
+[attachment: How_to_install_tracks_manually3.png]
+
+---
+
+## Step 5
+> Drag the folder into the track folder by either putting it into the empty space on the right or in the file directory at the top.
+[attachment: How_to_install_tracks_manually4.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: How_to_install_tracks_manuallyVIDEO.mp4]
+
+---
+
+** **
+# How to uninstall a track
+## Step 1
+> Go to your root folder for Assetto Corsa
+
+---
+
+[attachment: How_to_Uninstall_Track_Manually1.png]
+
+---
+
+## Step 2
+> Open the Content folder > Open the Track folder > Find the specific track you want to delete
+[attachment: How_to_Uninstall_Track_Manually2.png]
+
+---
+
+## Step 3
+> Right click on the track then hit delete
+
+# VIDEO GUIDE
+[attachment: How_to_Uninstall_Track_ManuallyVIDEO.mp4]

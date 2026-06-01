@@ -1,0 +1,17 @@
+# Cutting / Glitchy Audio
+
+---
+
+# Experiencing cutting / glitchy audio? Follow this Guide!
+
+---
+
+## Method 1
+> Open Content Manager > Settings > Custom Shaders Patch > General Patch Settings > Scroll to *Audio* > Uncheck "Silence Malfunctioning FMOD channels”
+[attachment: CuttingGlitchAudio1.png]
+
+---
+
+# Method 2
+> Lower the volume in Settings > Assetto Corsa > Audio
+[attachment: CuttingGlitchAudio2.png]

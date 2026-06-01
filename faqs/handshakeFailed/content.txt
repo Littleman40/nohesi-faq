@@ -1,0 +1,97 @@
+# Handshake Failed
+
+---
+
+# Here is how to fix *Handshake Failed*
+[attachment: Handshake_FailedLOGO.png]
+
+---
+
+# The most likely cause of this error is someone took your car as you were loading in. Hit the refresh button next to join and use any car highlighted white.
+-# Please note that ASIA servers are very buggy and may not work at all for some users.
+
+---
+
+# Method 1
+> When selecting a car to join the server, make sure to spam the **refresh button** (Ctrl+R) to make sure the car is still available. Then quickly click on **Join** (Ctrl+G).
+[attachment: HandshakeFailed1.png]
+
+---
+
+# Method 2
+> Select a **name** __(Only letters/numbers, NO SYMBOLS)__ in Content manager **→** <#1322216409622642790>.
+[attachment: HandshakeFailed2.png]
+
+---
+
+# Method 3
+> Ensure that you are not in *offline mode* on steam.
+[attachment: HandShakeFailed4.png]
+
+---
+
+# Method 4
+> Makes sure **Content manager** and **Custom Shaders Patch** are up to date **→  ** <#1322240298210033804>  or/and <#1322234984181796934>
+
+---
+
+[attachment: HandshakeFailed5.png]
+
+---
+
+[attachment: HandshakeFailed6.png]
+
+---
+
+# Method 5
+## Step 1
+> Close **STEAM** and **CONTENT MANAGER** with **Task Manager** by right clicking the programs and select **END TASK**.
+[attachment: HandshakeFailed7.png]
+
+---
+
+## Step 2
+> Launch **STEAM** first, followed by **CONTENT MANAGER** and try to join a server again.
+
+---
+
+# Method 6
+> Open Content manager, **Settings > Content manager > Drive** and Change your **game starter** to STEAM, TRICKY or OFFICIAL.
+
+---
+
+[attachment: HandshakeFailed8.png]
+
+---
+
+# Method 7
+> Add exceptions to **windows firewall** or antivirus for **acs.exe** /  **Content Manager.exe** / **AssettoCorsa.exe** / **assettocorsacef.exe** **→** [How to allow a program in the Firewall](https://pureinfotech.com/allow-apps-firewall-windows-10/).
+[attachment: HandshakeFailed9.png]
+
+---
+
+[attachment: HandShakeFailed10.png]
+
+---
+
+# Method 8
+> Makes sure your **STEAM IDs** match in Steam, Content manager and <#1000157728737599691>**→** <#1322245064466104443>
+
+---
+
+# Method 9
+> Make sure you are joining the right server:
+>  - F2P → <#1147102029987196978>
+>  - T1 → <#1121719898062729276>
+>  - T2 → <#1117825940832137317>
+>  - T3 → <#1113204657217609871>
+
+---
+
+# Method 10
+> Make sure that your computer's clock is synced. More info by clicking [here](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/).
+
+---
+
+# Method 11
+> Restart your PC and internet box/router and check your internet connection.

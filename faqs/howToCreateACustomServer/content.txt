@@ -1,0 +1,55 @@
+# How To Create A Custom Server
+
+---
+
+# Want to host your own private server within No Hesi, for only yourself / friends? Follow this guide!
+
+---
+
+# Prerequisite:
+> **Please read: <#1431129424211742822>  - that FAQ outlines what public/tiered users gain access to. **
+> **This guide will be overarching, so certain tiers/public users may be limited compared to what is shown.**
+
+---
+
+# Step 1:
+> Head over to: https://nohesi.gg/custom-servers and **select the region** you wish for all your servers to be hosted on.
+
+---
+
+[attachment: How_To_Create_A_Custom_Server1.png]
+
+---
+
+# Step 2:
+> Click "New Preset" then:
+> 1. Set a **Server Name**
+> 2. Select a **Time Of Day**
+> 3. Select a **Weather Condition**
+> 4. *Optionally*: Set a password to make your server private
+[attachment: How_To_Create_A_Custom_Server2.png]
+
+---
+
+# Step 3:
+> 1. **Select a map of your choosing**. You are able to filter by tiers/search for specific maps.
+> -# *Tiered map will only be usable by members who have an equivalent or higher tier*
+> 2. **Select a traffic pattern of your choosing**. 
+> -# *Some traffic options may not be available on certain maps.*
+[attachment: How_To_Create_A_Custom_Server3.png]
+
+---
+
+# Step 4: 
+> **Select up to 32 cars to host on your server**. *Tiered cars will only be usable by members who have an equivalent or higher tier*
+> -# *Some cars will not count to the LB. There is a list of these available here: ⁠https://discord.com/channels/964645662866173972/1411870784418218005/1420390785467289640 *
+[attachment: How_To_Create_A_Custom_Server4.png]
+
+---
+
+# Step 5:
+> Confirm everything is correct under the Summary tab. Once ready, hit **Save Preset** > **Use Preset** > **Start Server** > **Join Server** / **Share Link**
+> 
+> If you are missing any content: <#1322223184367587462> 
+> 
+> If your server is stuck in queue or not loading, please follow: <#1418486111231017091>

@@ -1,0 +1,11 @@
+# New Weather FX script location
+
+---
+
+# Wondering where to turn on the WeatherFX script for Solo? Follow this guide!
+
+---
+
+## WeatherFX Location
+> Open Content Manager and go to Drive > Single > Quick > Weather > Pure > Either Controllers for Static Weather **or** Dynamic for timed, random weather.
+[attachment: New_Weather_FX_script_location.png]

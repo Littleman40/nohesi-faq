@@ -1,0 +1,17 @@
+# How To Use Spotify In The Cars
+
+---
+
+# Want to use spotify in your car but it is not working? Follow this guide!
+[attachment: HowtouseSpotifyinthecarLOGO.webp]
+
+---
+
+# Step 1
+> [Install Spotify from their website](https://download.scdn.co/SpotifySetup.exe)
+# Step 2
+> Sign into your account
+# Step 3
+> Close Content Manager after installing if it was open
+# Step 4
+> Now you should be able to play it from your car.

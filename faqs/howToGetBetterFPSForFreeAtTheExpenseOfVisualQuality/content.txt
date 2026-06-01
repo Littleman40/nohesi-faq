@@ -1,0 +1,15 @@
+# How to get better FPS for free at the expense of Visual Quality?
+
+---
+
+# Getting low FPS and will do anything for a boost? Follow this guide!
+[attachment: image.png]
+
+---
+
+## Method 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > Graphics Adjustments
+> Enable **AMD FSR (FidelityFX Super Resolution)**
+> Set the Quality as you wish:
+> Performance will look the worst, but give you more FPS. Custom Quality will look the best, but without a big improvement in FPS.
+[attachment: How_to_get_better_FPS_for_free_at_the_expense_of_Visual_Quality.png]

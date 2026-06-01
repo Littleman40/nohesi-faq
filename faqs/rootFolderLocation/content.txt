@@ -1,0 +1,24 @@
+# Root Folder Location
+
+---
+
+# Wondering where to find your root folder? Follow this guide!
+[attachment: image.png]
+
+---
+
+# How to find your Root Folder
+> Open Steam and right click Assetto Corsa
+> Hover over manage
+> Hit "Browse Local Files"
+> Hit the bar on the top, select the entire link, and copy it.
+[attachment: Root_Folder_Location1.png]
+
+---
+
+[attachment: Root_Folder_Location2.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: RootFolderLocation.mp4]

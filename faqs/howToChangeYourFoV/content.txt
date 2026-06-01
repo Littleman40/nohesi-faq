@@ -1,0 +1,41 @@
+# How to change your FoV
+
+---
+
+# Struggling to see or seeing too much while in cockpit view? Follow this guide!
+[attachment: ChangeFoVLOGO.png]
+
+---
+
+# Step 1
+> Press F1 until you see the cockpit with wheel view/cam.
+# Step 2
+> Place your mouse on the right side of the screen to open the App menu
+# Step 3
+> Search for "Onboard Settings" or "First Person Camera"
+
+---
+
+[attachment: ChangeFoV1.png]
+[attachment: ChangeFoV2.png]
+
+---
+
+# Step 4
+> Configure then save your FoV
+[attachment: ChangeFoV3.png]
+
+---
+
+# Step 5
+> Click on the Assetto Corsa logo (top left) on the "Onboard settings" app to minimise it.
+
+---
+
+# VIDEO GUIDE
+[attachment: HowToChangeFOV.mp4]
+
+---
+
+-# If you don't see the "Onboard" nor "First person" app.
+-# Open the "App Shelf" and install the apps.

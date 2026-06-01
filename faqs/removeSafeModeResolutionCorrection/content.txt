@@ -1,0 +1,17 @@
+# Remove SafeMode Resolution Correction
+
+---
+
+# Here is how to fix “Running in SafeMode Resolution Correction”
+[attachment: RemoveSafemodeLOGO.png]
+
+---
+
+## Step 1
+> Open Content Manager and go to Settings > Assetto Corsa > Video (in Content Manager)
+[attachment: Remove_SafeMode_Resolution_Correction.png]
+
+---
+
+## Step 2
+> Make sure your resolution settings match your monitors settings, for example if you have 1080p, select 1920x1080 @ whichever hz your screen runs at.

@@ -1,0 +1,17 @@
+# Car signals binding
+
+---
+
+# Cutting up and you want to indicate your next direction? Follow this guide!
+
+---
+
+## Method 1
+> Open Content Manager and go to Settings > Assetto Corsa > Controls > Patch > Car
+[attachment: CarSignalBinding.png]
+
+---
+
+## Method 2
+> There is a way to have the blinkers automatically turn on and off. 
+> Follow https://discord.com/channels/964645662866173972/1322248427853058118

@@ -1,0 +1,28 @@
+# Vaulted Cars - Invalid for Leaderboard
+
+---
+
+# Here is a list of all cars that **WILL NOT** save points and **WILL NOT** count towards the leaderboard
+
+---
+
+## Current Vaulted Cars
+-# As of <t:1770408000:d>
+> - `nohesi_porsche_gt3rs_vlct`
+> - `nohesi_realistic_porsche_gt3rs_vlct`
+> - `nohesituned_evon_rftuned`
+> - `nohesi_mitsubishi_evo8`
+> - `nohesi_mitsubishi_evo_x_varis_hjckd`
+> - `nohesi_civic_2023_hjckd`
+> - `nohesi_honda_civic_eg6`
+> - `nohesituned_bmw_m3_gts_fanatic`
+> - `nohesi_mazda_rx7_fd`
+> - `nohesituned_nissan_r32_hellspec`
+> - `All F1 cars`
+> - `All Traffic cars`
+> - `All DWG / Drift cars`
+
+## Current Vaulted Traffic Density
+> - Points on SRP (Shutoko Revival Project) Rush Hour traffic have been disabled.
+> -# This is due to a points exploit that utilises this configuration. We're working on getting this mode re-enabled soon.
+> -# https://discord.com/channels/964645662866173972/1376355419680800828/1419787515153617158

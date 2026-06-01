@@ -1,0 +1,19 @@
+# CPU Occupancy > 99%
+
+---
+
+# Here is how to fix the “CPU Occupancy > 99%” warning.
+[attachment: CPU_OccupancyLOGO.png]
+
+---
+
+## Method 1
+> **Change the following settings:**
+> Settings > Custom Shaders Patch > General Patch Settings > Optimizations
+> Tick "Use SIMD-Accelerated culling for tracks" | Disable "Force Cull Tests"
+> 
+> Settings > Custom Shaders Patch > General Patch Settings > CPU Optimizations
+> Chunks Optimization - Advanced for SRP | Basic for 110
+> 
+> Settings > Custom Shaders Patch > General Patch Settings > FPS Limiter Options
+> Tick "Adjust Frame Time to improve smoothness"

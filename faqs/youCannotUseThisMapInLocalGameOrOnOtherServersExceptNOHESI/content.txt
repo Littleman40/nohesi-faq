@@ -1,0 +1,17 @@
+# You cannot use this map in local game or on other servers except NO HESI
+
+---
+
+# Here is how to fix “ You cannot use this map in local game or on other servers except NO HESI “
+[attachment: You_cannot_use_this_map_in_local_game_or_on_other_servers_except_NO_HESI_LOGO.png]
+
+---
+
+## Method 1
+> Follow our FAQ on how to install tracks manually linked here: <#1457475437809631416>
+
+---
+
+## Method 2
+> If the steps above didn't work, Open Windows settings>Time & language>Date & Time> make sure that the both settings are enabled, after that press on the "sync now" button.
+[attachment: image.png]

@@ -1,0 +1,46 @@
+# DWrite: (Filename not Available)
+
+---
+
+# Here is how to fix errors that contain “ DWrite: (Filename not Available) "
+[attachment: DWriteLOGO.png]
+
+---
+
+## To fix this issue, you will have to free up space on your drive. I recommend freeing up 20GB at the bare minimum.
+
+# Method 1
+## Step 1
+> Open file explorer > Right-click on your disk drive > Click properties > Click on disk clean up > Remove some of the files (Temporary files is constantly increasing in size)
+[attachment: DWrite_Filename_not_Available1.png]
+
+---
+
+[attachment: DWrite_Filename_not_Available2.png]
+
+---
+
+## Step 2
+> Uninstall games you do not play from steam.
+[attachment: DWrite_Filename_not_Available3.png]
+
+---
+
+## Step 3
+> Delete videos/files you do not use.
+[attachment: DWrite_Filename_not_Available4.png]
+
+---
+
+## Step 4
+> Compress the Assetto Corsa folder: https://discord.com/channels/964645662866173972/1322215435223044096
+
+---
+
+# Method 2
+> If you have enough free space, follow this method
+
+> Go to `Settings > Assetto Corsa > Video` and lower your video settings.
+> - Make sure `MSAA` is not `8x`, 
+> - `Shadows Resolution` is not above `2048x2048` and 
+> - `Rendering Frequency` is set to `two faces per frame`.

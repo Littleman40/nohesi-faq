@@ -1,0 +1,11 @@
+# How to change name on Content Manager
+
+---
+
+# Want to change your name in-game? Follow this guide!
+[attachment: image.png]
+
+---
+
+> Open Content Manager and go to > Settings > Content Manager > Drive > Name
+[attachment: How_to_change_name_on_Content_Manager.png]

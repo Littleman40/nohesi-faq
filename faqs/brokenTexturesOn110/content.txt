@@ -1,0 +1,47 @@
+# Broken Textures on 110
+
+---
+
+# Are your building textures on 110 glitched or broken? Follow this guide!
+[attachment: 110BrokenTexturesLOGO.jpg]
+
+---
+
+## Prerequisite
+> Please ensure you are using **0.2.11 CSP**. (CM > Settings > Custom Shaders Patch > About & Updates)
+
+# Method 1:
+
+> Ensure you have "Optimize meshes some more" **DISABLED**.
+> `Content Manager > Settings > Custom Shaders Patch > General Patch Settings > GPU Optimizations`
+
+---
+
+[attachment: 110BrokenTextures1.jpg]
+
+---
+
+# Method 2:
+> 7zip is required for this: 
+> **[Download and install 7zip.](https://www.7-zip.org/)** **7zip** is free.
+[attachment: image.png]
+
+---
+
+## Step 1: Delete the track:
+> 1. <#1322235675239645184> > content > tracks
+> 2. Delete the 110 folder
+
+## Step 2: Reinstall the track manually. Ensure you install the `autoupateapp` lua.
+> 1. [**Click Here**](<https://cdn.nohesi.gg/maps/nohesi_110.7z>) to download the track
+> 2. Right-Click the zip folder > Show more options > 7zip > Open archive
+> 3. Drag & Drop the `apps` and `content` into <#1322235675239645184>
+> -# This "apps" folder, contains the "autoupateapp" lua needed
+
+---
+
+# VIDEO GUIDE
+
+---
+
+[attachment: 110BrokenTexturesVIDEO.mp4]

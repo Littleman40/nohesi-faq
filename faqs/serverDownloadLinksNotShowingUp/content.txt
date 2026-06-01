@@ -1,0 +1,22 @@
+# Server/Download links not showing up
+
+---
+
+# Trying to join the servers through the discord but the message isn’t appearing? Follow this guide!
+[attachment: ServerDownload_Links_not_showing_upLOGO.png]
+
+---
+
+# Method 1
+> Discord User Settings (*Bottom Left*) > Chat > Embed Links and Preview Website Links > CTRL + R (Restarts Discord)
+[attachment: UserSettings.png]
+
+---
+
+[attachment: ServerDownload_Links_not_showing_up1.png]
+
+---
+
+# Method 2
+> Right Click on **Browse Channels** and Check the *Show All Channels*
+[attachment: ServerDownload_Links_not_showing_up2.png]

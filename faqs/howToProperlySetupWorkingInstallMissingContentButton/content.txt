@@ -1,0 +1,20 @@
+# How to properly setup working "Install Missing Content" button
+
+---
+
+# Here is how to set up “Install Missing Content” if it does not work.
+
+---
+
+## Step 1
+> Open Content Manager and go to Settings.
+> Click on the Content Manager tab.
+> Find the "Downloading Content” section
+## Step 2
+> Make a new folder on the computer. **(except the C drive, where your Operating system is)**. Select it, and now your "install missing content" button will work.
+[attachment: How_to_properly_setup_working_Install_Missing_Content_button.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: SetupInstallMissingContent.mp4]

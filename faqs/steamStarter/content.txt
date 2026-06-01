@@ -1,0 +1,19 @@
+# Steam Starter
+
+---
+
+# Want to launch Assetto Corsa through steam? Follow this Guide!
+
+---
+
+## Step 1
+> Ensure you have launched Assetto Corsa on steam at least once WITHOUT any mods installed. Close it once it fully opens 
+
+## Step 2
+> Go to `Content Manager > Settings > Content Manager > Drive` & click `Switch to steam starter`
+[attachment: SteamStarter1.PNG]
+
+---
+
+## Step 3
+> Restart your pc and launch Assetto Corsa from steam, which will open Content Manager

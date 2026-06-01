@@ -1,0 +1,12 @@
+# Blurry Nordschleife
+
+---
+
+# Is the Nordschleife really blurry? Follow this guide!
+[attachment: BlurryNordschleifeLOGO.png]
+
+---
+
+# Method 1
+> Open Content Manager and go to Settings > Custom Shaders Patch > General Patch Settings > CPU Optimizations > Chunk Optimization and set it to Advanced (Experimental)
+[attachment: BlurryNordschleife.png]

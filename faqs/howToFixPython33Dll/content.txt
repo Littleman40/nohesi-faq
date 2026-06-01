@@ -1,0 +1,25 @@
+# How to fix " python33.dll ”
+
+---
+
+# Here is how to fix “Python33.dll is missing”
+[attachment: Python33LOGO.png]
+
+---
+
+## Step 1
+> Download the C++ runtime packages from the link https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+[attachment: How_to_fix_python33.dll_1.png]
+
+---
+
+## Step 2
+> Extract the newly downloaded ZIP file.
+[attachment: How_to_fix_python33.dll_2.png]
+
+---
+
+## Step 3
+> Run the install_all.bat file
+> -# Ensure you run the installall.bat in Administrator mode
+[attachment: How_to_fix_python33.dll_3.png]

@@ -1,0 +1,30 @@
+# Reinstall Content Manager Tutorial
+
+---
+
+# Here is how to fully reinstall Content Manager
+
+---
+
+# Step 1
+> Press Windows key + R
+> Type in %localappdata% and hit enter 
+> Delete the "AcTools Content Manager" folder.
+
+---
+
+[attachment: Reinstall_Content_Manager_Tutorial_1.png]
+
+---
+
+# Step 2
+> To reinstall, follow the steps in <#985372285668036639>
+
+---
+
+## **This does not delete any of your cars or tracks!!!!**
+
+---
+
+# Video Guide
+[attachment: ReinstallContentManager.mp4]

@@ -1,0 +1,94 @@
+# Checksum failed
+
+---
+
+# Here is how to fix *Checksum Failed*
+[attachment: Checksum_failed.png]
+
+---
+
+# Checksum Failed *always* means your files are different from the files used by the server. This causes it to not match, and you get kicked.
+> **Follow every step below all at once to prevent weird issues from happening**
+
+---
+
+## Step 1:
+> **Ensure your system meets requirements**
+> 
+> * You must have **more than 16GB of RAM**
+> * You must be using **DDR4 or newer RAM**
+> 
+> Using **DDR3 RAM** or **only 16GB total** will cause checksum errors
+
+---
+
+# *If you have __16GB of RAM__ or less, follow steps __2.1__ → __2.5__, otherwise, skip to Step 3
+
+---
+
+## Step 2.1
+> On the start button right click and select system
+[attachment: ChecksumFailed1.png]
+
+---
+
+## Step 2.2
+> On your right in related setting click on Advanced system settings
+
+---
+
+[attachment: ChecksumFailed2.png]
+
+---
+
+## Step 2.3
+> In the advanced tab performance case click on settings
+[attachment: ChecksumFailed3.png]
+
+---
+
+## Step 2.4
+> Advanced tab go in virtual memory and select change
+> Untick the case "Automatically manage paging file size"
+> Select your faster drive with at least 16gb of free space
+> Select Custom size and write 16000 in initial size and maximum size and don't forget to click on Set
+
+---
+
+[attachment: ChecksumFailed4.png]
+
+---
+
+## Step 2.5
+> Select Ok and restart your PC
+
+---
+
+## VIDEO GUIDE
+[attachment: ChecksumFailedVirtualMemory.mp4]
+
+---
+
+## Step 3:
+> **Reinstall all cars**
+### Prerequisite:
+> You **must** use **7-Zip**, **not WinRAR**.
+> Download and install 7-Zip for free: https://www.7-zip.org/
+### Reinstall:
+> 1. Navigate to your <#1322235675239645184> and open the "content" folder > then rename `cars` to `old_cars`
+> 2. Then proceed to <#1322222319518748692>
+> 3. Reinstall all cars **manually** following: <#1440122305861652520>
+
+---
+
+## Step 4:
+> **If still failing, delete and reinstall the affected tracks manually**
+> 
+> Delete / Reinstall: <#1457475437809631416> 
+> Track Download:<#1412564819785027695>
+
+---
+
+## Step 5:
+-# Only if the above fix does not work
+> Close all background apps, including discord and connect again.

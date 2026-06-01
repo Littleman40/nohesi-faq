@@ -1,0 +1,18 @@
+# Steam API has failed to initialize
+
+---
+
+# Here is how to fix the “Steam API has failed to initialize”
+[attachment: SteamAPIfailedLOGO.png]
+
+---
+
+# Method 1
+> Change your game starter to steam (appID or official should also work)
+> Open Content Manager and go to Settings > Content Manager > Drive
+[attachment: SteamAPIhasfailedtoinitialize.png]
+
+---
+
+## Method 2
+> Try running steam and content manager as administrator.

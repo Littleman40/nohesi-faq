@@ -1,0 +1,37 @@
+# Missing VIP Roles
+
+---
+
+# Bought VIP, but you didn't get any Discord roles? Follow this guide!
+
+---
+
+# Bought VIP, but you didn't get any Discord roles? Follow this guide!
+
+# Step 1: 
+> Log into [nohesi.gg](<https://nohesi.gg/manage/profile>) and click your **profile picture** -> **edit profile**
+> 
+> Ensure the **correct discord account** / **steam account** is linked.
+[attachment: MissingVIP1.png]
+
+---
+
+# Step 2:
+> If the **subscription shows**: do method 1
+> 
+> If the subscription is **NOT shown**: do method 2
+[attachment: MissingVIP2.png]
+
+---
+
+## Method 1 - (subscription showing)
+> Go back to your social links (see step 1), and **unlink + relink** your Discord account.
+## Method 2 - (subscription not showing)
+> On the website -> click your **profile picture** -> **billing** -> **cancel**. From here, click the `cancel subscription` button -> confirm the cancel -> then click `don't cancel subscription`
+> 
+> This video shows exactly what you will need to do:
+[attachment: MissingVIPVideo.mp4]
+
+---
+
+### If none of these steps work, please get in touch with a staff member in <#964650227342655499>

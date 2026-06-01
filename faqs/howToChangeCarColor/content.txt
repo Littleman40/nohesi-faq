@@ -1,0 +1,38 @@
+# How to change car color?
+
+---
+
+# Do you want to change your car color to stand out from the rest? Follow this guide!
+[attachment: ChangeCarColorLOGO.png]
+
+---
+
+# Method 1
+> Join a server > Click on the Settings Icon in the top right > Click Change Car Color
+> 
+> **Warning: "Toggle UI" must be enabled**
+[attachment: ChangeCarColor1.png]
+
+---
+
+## 🚨 VR Users Warning 🚨 
+> To fix the color menu staying inside of the cockpit, while the camera is pulled out into third person, please do the following:
+> 
+> Go to Content Manager -> Settings -> Custom Shaders Patch -> "Mode Tweaks: VR" -> Custom VR HUD Rendering 
+> 
+> Please tick both **"active" and the "move with other camera modes"** boxes.
+[attachment: ChangeCarColor2.png]
+
+---
+
+-# credit: <@311861142114926593>
+
+---
+
+# Reset color
+> 1. Go to __Documents\Assetto Corsa\cfg\extension\state\lua__
+> 
+> 2. Open with NotePad __shared-NoHesiUI_Saves__
+> 
+> 3. Delete the lines with "__paintQueue__"
+[attachment: image.png]

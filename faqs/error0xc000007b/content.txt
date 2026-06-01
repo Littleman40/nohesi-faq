@@ -1,0 +1,38 @@
+# Error 0xc000007b
+
+---
+
+# Here is how to fix *Error 0xc000007b - slimdx.dll could not be found*
+[attachment: Error_0xc000007bLOGO.png]
+
+---
+
+## Step 1
+> Verify your game on Steam
+> Steam > Assetto Corsa > Right Click > Properties > Installed > Files > Verify integrity of Game files
+[attachment: Verify_game_files_for_Assetto_Corsa1.png]
+
+---
+
+[attachment: Verify_game_files_for_Assetto_Corsa2.png]
+
+---
+
+## Step 2
+> **Start the game in your steam library** (You may need to uninstall CSP)
+> Once in the game menu, close it
+
+---
+
+## Step 3 
+> **Update Windows and the drivers**
+> Download the Content Manager requirements.
+> - [**DirectX End-User Runtime Web**](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+> - [**DirectX End-User Runtimes June 2010**](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+> - [**Visual C++ Redistributable for Visual Studio 2015 | x86 version**](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+> - [**.Net Framework 4.8.1**](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
+
+---
+
+# Step 4
+> Restart your PC and play

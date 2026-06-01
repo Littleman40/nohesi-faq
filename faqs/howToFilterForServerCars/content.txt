@@ -1,0 +1,40 @@
+# How to filter for Server/Cars
+
+---
+
+# Want to join a server with a specific car or a specific server type, check out this guide!
+
+---
+
+## Step 1:
+> Go to -> <https://nohesi.gg/servers>
+
+---
+
+# **To filter by server types** 
+> Click `filter by` -> then filter by *Region*, *Traffic Density*, *Tier* and/ or *Map*
+
+---
+
+[attachment: image.png]
+
+---
+
+# **To search for cars**
+> Click `Search by car` -> and find the car you want
+
+---
+
+[attachment: image_2.png]
+
+---
+
+# 🚨 Make sure you join a server with the correct tier 🚨
+**Method 1:** 
+> Use the `Filter by` button to select the tier you are
+**Method 2:**
+> Look at the color of the server (see image)
+
+---
+
+[attachment: image_3.png]

@@ -1,0 +1,74 @@
+# Race Cancelled
+
+---
+
+# Here is how to fix *Race Cancelled*
+[attachment: RaceCancelledLOGO.jpg]
+
+---
+
+# SOMEONE MAY HAVE TAKEN YOUR CAR. PRESS REFRESH TO SEE WHAT CARS ARE AVAILABLE
+
+# Method 1
+> - Make sure Steam is opened and logged in.
+> - Make sure the right Steam Account is connected to Content Manager.<#1322220240167239750> 
+> - If it crashes while loading a car, reinstall the car <#1440122305861652520> 
+> - If it crashes while loading the map, reinstall the map <#1457475437809631416> 
+
+# Method 2
+-# Only if the above fix does not work
+> Follow <#1440122305861652520>
+
+---
+
+# Method 3
+-# Only if the above fix does not work.
+## Step 1
+> Right click on the `start button` and select `system`.
+[attachment: RaceCancelled1.png]
+
+---
+
+## Step 2
+> On your right in `related settings`, click on `Advanced system settings`
+[attachment: RaceCancelled2.png]
+
+---
+
+## Step 3
+> In the `advanced` tab, under `performance` click on `settings`.
+[attachment: RaceCancelled3.png]
+
+---
+
+## Step 4
+> In the `Advanced` tab under `virtual memory`, select `change`
+> Untick the case `Automatically manage paging file size`
+> Select your faster drive with at least 16gb of free space
+> Select `Custom size` and write `16000` in `initial size` and `maximum size` and don't forget to click on `Set`
+[attachment: RaceCancelled4.png]
+
+---
+
+## Step 5
+> Select `Ok` and restart your PC
+
+---
+
+## VIDEO GUIDE
+[attachment: RaceCancelledVirtualMemory.mp4]
+
+---
+
+# Method 4
+-# Only if the above fix did not work.
+## Step 1
+> Make sure your Contentmanager.exe is not installed in either one of your program files folder. 
+## Step 2
+> If it is just make a separate folder somewhere else and drag and drop the launcher to the new folder you've made
+
+---
+
+## Method 5
+-# Only if the above fix did not work
+> <#1322234984181796934> > Reinstall the game on steam

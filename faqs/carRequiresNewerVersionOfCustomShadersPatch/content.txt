@@ -1,0 +1,13 @@
+# Car requires newer version of Custom Shaders Patch
+
+---
+
+## If you are getting this error message you need to update your Custom Shaders Patch to the latest version.
+
+### Step 1
+> Open Content Manager > Settings > Custom Shaders Patch > About & Updates > Update to 0.2.11
+[attachment: Car_requires_newer_version_of_CSP_error.jpg]
+
+---
+
+[attachment: Car_requires_new_version_of_Custom_Shaders_Patch1.jpg]

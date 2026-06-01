@@ -1,0 +1,37 @@
+# Sky Too Bright?
+
+---
+
+# Being blinded by the sun? Follow this guide!
+[attachment: SkyTooBrightLOGO.png]
+
+---
+
+# Method 1
+> Go to Settings > Assetto Corsa > Video > Sunrays
+> Uncheck Sunrays
+[attachment: SkyTooBright1.png]
+
+---
+
+# Method 2 
+> Go to Settings > Custom shaders patch > LightingFX
+> Change the brightness value and test to see if it fixes the issue. This is dependent on your Post-Process Filter.
+[attachment: SkyTooBright2.png]
+
+---
+
+# Method 3 
+> Launch the game and when you load in, press the drive button 
+> Place your mouse on the right side of the screen, and open the "**Post Process Filter**" app.
+> Change the "**Exposure**" value to 100% or below, and/or try other PP Filters.
+[attachment: SkyTooBright3.png]
+
+---
+
+[attachment: SkyTooBright4.png]
+
+---
+
+# VIDEO GUIDE
+[attachment: SkyTooBright.mp4]

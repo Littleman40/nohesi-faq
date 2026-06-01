@@ -1,0 +1,47 @@
+# Driver model is probably missing
+
+---
+
+# Here is how to fix the " Driver model is probably missing " error.
+[attachment: DriverModelisMissingLOGO.png]
+
+---
+
+## Step 1
+> Open steam > library > right click Assetto Corsa > Manage > browse local files
+[attachment: Root_Folder_Location1.png]
+
+---
+
+## Step 2
+> Open the "content" folder then open the "drivers" folder and identify any folder other than "**driver_skins**" and "**Drivers_oculus**".
+> In this case, the extra faulty folder is "**driver_80_B.kn5**"
+[attachment: Driver_model_is_probably_missing1.png]
+
+---
+
+## Step 3
+> Rename the faulty folder to anything, it doesn't matter.
+> Then open the freshly renamed folder
+> Inside you'll see a .kn5 file. Move it back into the "drivers" folder
+
+---
+
+[attachment: Driver_model_is_probably_missing2.png]
+
+---
+
+[attachment: Driver_model_is_probably_missing3.png]
+
+---
+
+## Step 4
+> Delete the freshly renamed folder and play on No Hesi servers.
+
+---
+
+# VIDEO GUIDE
+
+---
+
+[attachment: DriverModelisProbablyMissing.mp4]

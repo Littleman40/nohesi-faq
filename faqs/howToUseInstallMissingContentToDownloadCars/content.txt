@@ -1,0 +1,33 @@
+# How to use "Install Missing Content" to download cars
+
+---
+
+# Wondering how to install No Hesi cars? Follow this guide!
+[attachment: image.png]
+
+---
+
+-# Requirements: https://discord.com/channels/964645662866173972/1322223328735399989
+
+---
+
+## Step 1
+> Press Install missing content
+[attachment: How_to_use_Install_Missing_Content_to_download_cars.png]
+
+---
+
+## Step 2. 
+> At the top right, open the ≡ menu, wait for the car(s) to download and then press Install.
+[attachment: How_to_use_Install_Missing_Content_to_download_cars2.png]
+
+---
+
+## Step 3. 
+> MAKE SURE TO ALWAYS RESTART CONTENT MANAGER AFTER INSTALLING CARS.
+> -# This will fix the obsolete version error.
+
+---
+
+# VIDEO GUIDE
+[attachment: HowToInstallMissingContent.mp4]

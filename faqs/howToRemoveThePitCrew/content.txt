@@ -1,0 +1,12 @@
+# How to remove the Pit Crew
+
+---
+
+# Want to remove the Pit Crew? Follow this Guide!
+[attachment: RemovePitCrewLOGO.png]
+
+---
+
+## Method 1
+> Open Content Manager and go to Settings > Custom Shaders patch > Track Adjustments > `Hide Crews Entirely`
+[attachment: RemovePitCrew1.png]

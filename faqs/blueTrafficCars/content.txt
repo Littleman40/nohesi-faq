@@ -1,0 +1,21 @@
+# Blue Traffic Cars
+
+---
+
+# Are your traffic cars completely blue? Follow this guide!
+[attachment: Blue_Traffic_CarsLOGO.png]
+
+---
+
+# Step 1:
+
+> Open Content Manager > Settings > Custom Shaders Patch > Graphics Adjustments > LOD settings 
+> 
+> **Disable "Skip loading first LOD for other cars entirely" **
+[attachment: Blue_Traffic_Cars1.png]
+
+---
+
+## Warning:  
+> Please do not get this confused with: <#1322260389064347794>
+> -# If your traffic cars are blue triangles, please follow the above, as this FAQ will not fix your issue.

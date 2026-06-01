@@ -1,0 +1,12 @@
+# How to Setup Teleport to pits
+
+---
+
+# Wondering how to quickly teleport back to pits when you crash? Follow this guide!
+[attachment: How_to_Setup_Teleport_to_pitsLOGO.png]
+
+---
+
+> Open Content Manager and and go to Settings > Assetto Corsa > Controls > System
+> Then bind "**Teleport to pits**" and/or "**Start/Setup to pits**"
+[attachment: How_to_Setup_Teleport_to_pits.png]

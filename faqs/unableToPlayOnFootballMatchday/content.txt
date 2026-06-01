@@ -1,0 +1,12 @@
+# Unable to play on Football matchday
+
+---
+
+# Unable to connect to our servers or download content and its match day? Follow this Guide!
+
+---
+
+## Why is this happening
+> Due to anti-piracy measures that target CDN infrastructure, users from countries like Spain will not be able to access servers during match days.
+## Method 1
+> You will need to use a VPN or Proxy to bypass these measures to access our servers

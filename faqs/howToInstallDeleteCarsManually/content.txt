@@ -1,0 +1,39 @@
+# How to install / delete cars manually
+
+---
+
+# Wondering how to install and/or delete cars manually directly in the game folder, follow this guide!
+
+---
+
+# How to install a car manually
+## Step 1
+> Download and install 7zip
+> [**7zip**](<https://www.7-zip.org/>) is free.
+[attachment: 7zip.png]
+
+---
+
+## Step 2
+> Download the cars from our [**Content Delivery Network**](https://cdn.nohesi.gg/)
+
+## Step 3
+> 1. Right click the downloaded ZIP file -> click `7zip` -> `Extract Here`
+> -# Windows 11 users will need to click `show more options` before they can find 7zip.
+
+> 2. Move the **extracted** folder, into your car's folder. (<#1322235675239645184> -> Content -> Cars)
+
+## VIDEO GUIDE
+[attachment: InstallTrafficPackManually.mp4]
+
+---
+
+# How to delete a car manually
+## Step 1
+> Open your <#1322235675239645184> and navigate to `content > cars`
+
+## Step 2
+> Find the car you want to delete, right-click on it then click `delete`
+
+## Video Guide
+[attachment: DeleteCars.mp4]
