@@ -3,7 +3,7 @@
 This is a backup of all No Hesi's FAQ's from the Discord server. It is here in case of a nuke and for general safe-keeping. A big credit to the original FAQ keeper: @grevious1
 
 ## How To Use
-* `currentFAQs` - This will host all FAQ's currently displayed on No Hesi.
+* `currentFAQs` - This will host all current FAQ's.
 * `oldFAQs` - This will host all deleted FAQ's.
 * `upcomingFAQs` - This will host any upcoming or experimental FAQ's.
 
