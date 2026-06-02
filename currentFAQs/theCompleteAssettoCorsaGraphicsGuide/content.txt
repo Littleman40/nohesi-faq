@@ -19,7 +19,7 @@
 
 # Step 3:
 > Download SOL (free) or PURE ($1) (You shouldn't have both installed simultaneously!)
-> <#1322233156790653010> (Incompatible with CSP version 0.2.10+)
+> <#1511252401343041697> (Incompatible with certain CSP version as per the FAQ)
 > <#1322227974371545159> 
 
 # Step 4:

@@ -7,4 +7,4 @@
 
 ---
 
-> If you cannot see Sol in WeatherFX, you have installed it incorrectly, follow <#1322233156790653010> closely.
+> If you cannot see Sol in WeatherFX, you have installed it incorrectly, follow <#1511252401343041697> closely.
