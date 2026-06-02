@@ -1,0 +1,18 @@
+# PC Requirements
+
+---
+
+# Here Are The Minimum System Requirements To Play No Hesi!
+
+---
+
+### OS:
+> Windows 10 or Windows 11
+### CPU:
+> Intel Core 7xxx / AMD Ryzen 2xxx (6 cores or higher)
+### RAM:
+> 16GB of DDR4/5 RAM or higher (32GB is HIGHLY recommended!)
+### GPU:
+> Nvidia GeForce GTX 1060 / AMD Radeon RX 580 or higher
+### Storage:
+> 100GB SSD (50GB for the game and the rest for modded car packs)
