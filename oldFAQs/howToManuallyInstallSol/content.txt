@@ -1,0 +1,10 @@
+# How To Manually Install Sol
+
+---
+
+- todo
+
+---
+
+- todo
+- mention 0.2.10/0.2.11 doesnt work - or mention the other, where 0.3 and 0.2.9 works
