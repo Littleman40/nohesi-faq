@@ -1,0 +1,56 @@
+How To Get Sol
+
+---
+
+# Here is how to install **Sol**, a free alternative to Pure
+
+[attachment: SolBackground.png]
+
+---
+
+# 🚨  Warning 🚨
+
+---
+
+## Sol will NOT work with CSP versions listed below:
+* **0.2.10**
+* **0.2.11**
+* **0.2.11 Preview**
+* **0.2.12 Preview**
+
+If you wish to use Sol, please revert back to earlier CSP versions or use 0.3.xxx CSP
+
+---
+
+## Step 1
+> Download Sol from [**Overtake.GG**](<https://www.overtake.gg/downloads/sol.24914/>)
+> -# Overtake.GG requires an account;
+> -# Please create an account. **Scroll all the way down to "Join Basic press here" > press on the *Here* and enter your Email, Username and Password**
+
+[attachment: SolClickToDownload.png]
+
+---
+
+## Step 2
+> Right click on Sol 2.2.x and click Extract Here
+
+[attachment: SolExtract.png]
+
+---
+
+## Step 3
+> Open the new Sol 2.2.x folder and drag the Apps, Content, Extension and System files into the AC root folder.
+> -# **Always install Sol by manually copying its files to the Assetto Corsa root folder!*
+
+[attachment: SolRootFolderInstall.png]
+
+
+--- 
+
+## Step 4
+> Open Content Manager > Settings > Custom Shaders Patch > WeatherFX > Weather Style > Sol
+
+---
+
+## Note:
+> Never install both Pure and Sol at the same time. *This will cause major issues, which can include FPS drops*
