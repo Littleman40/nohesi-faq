@@ -15,3 +15,10 @@
 > In-game, hover your mouse over the NO HESI speedometer.
 > Press the __middle mouse button__.
 [attachment: image.png]
+
+---
+
+# OTHER SPEEDOMETER
+> Open Content Manager, go to **Settings > Assetto Corsa > View & UI**
+> Change the **Units** to mp/h
+[attachment: faqimage3.png]
