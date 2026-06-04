@@ -25,7 +25,7 @@
 > If the above did **not** work, ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection, resulting in our car's encryption failing.
 > 
 > 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
-> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager [(click here for tutorial)](<https://www.belkin.com/au/support-article/?articleNum=8071>)
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
 > 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
 
 ---
