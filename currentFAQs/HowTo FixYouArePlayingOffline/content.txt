@@ -1,0 +1,22 @@
+How To Fix " You Are Playing Offline "
+
+---
+
+# Here is how to fix the "You are playing offline" issue.
+[attachment: faqimage1.png]
+
+---
+
+# Method 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: faqimage2.png]  
+
+---
+
+# Method 2
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
