@@ -7,7 +7,15 @@
 
 ---
 
--# Requirements: https://discord.com/channels/964645662866173972/1322223328735399989
+# Prerequisites:
+> ## Step 1:
+> Ensure you have done: https://discord.com/channels/964645662866173972/1322223328735399989 
+> 
+> ## Step 2:
+> 1. Open Content Manager -> Settings -> Content Manager -> Content -> Downloading Content -> Temporary Files Location
+> 
+> 2. Ensure this is set to a folder on your computer ***that is not full***. Best practice is to create a new folder for this.
+[attachment: How_to_properly_setup_working_Install_Missing_Content_button.png]
 
 ---
 
@@ -18,16 +26,20 @@
 ---
 
 ## Step 2. 
-> At the top right, open the ≡ menu, wait for the car(s) to download and then press Install.
+> At the top right, open the ≡ menu, wait for the car(s) or track(s) to download and then press Install.
 [attachment: How_to_use_Install_Missing_Content_to_download_cars2.png]
 
 ---
 
-## Step 3. 
-> MAKE SURE TO ALWAYS RESTART CONTENT MANAGER AFTER INSTALLING CARS.
-> -# This will fix the obsolete version error.
+# Step 3:
+> Restart Content Manager or restart your computer.
 
 ---
 
 # VIDEO GUIDE
 [attachment: HowToInstallMissingContent.mp4]
+
+---
+
+# 🚨 Warning 🚨 
+> This will **NOT** work for `shuto_revival_project_beta`, if you need to install that track please use: <#1322236089083105343>
