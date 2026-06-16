@@ -6,6 +6,14 @@
 
 ---
 
+## Traffic 2.0 Prerequisite:
+**If you are on traffic 2.0 servers and have no sound, please follow:**
+> 1. While in-game, move your mouse to the right-hand side, and a bar will pop out
+> 2. Search up "audio", and enable the app that shows up
+> 3. Move the master slider away from 0% to your desired volume level
+
+---
+
 ## Method 1
 > Open Content Manager > Settings > Custom Shaders Patch > General Patch Settings > Scroll to *Audio* > Uncheck "Silence Malfunctioning FMOD channels”
 [attachment: CuttingGlitchAudio1.png]
