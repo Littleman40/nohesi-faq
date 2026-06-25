@@ -42,4 +42,23 @@
 ---
 
 # 🚨 Warning 🚨 
-> This will **NOT** work for `shuto_revival_project_beta`, if you need to install that track please use: <#1322236089083105343>
+> Installing missing content may not always work. Below are some guides in case of this:
+> 
+> **shuto_revival_project_beta/main_layout: **
+> https://discord.com/channels/964645662866173972/1322236089083105343
+> 
+> **ks_nordschleife/touristenfahrten: **
+> https://discord.com/channels/964645662866173972/1322236738730725396
+> 
+> **Manual Track Installs:**
+> 1. Download the track: https://cdn.nohesi.gg/maps/
+> 2.  https://discord.com/channels/964645662866173972/1457475437809631416
+> 
+> **Manual Car Installs:**
+> 1. Download the car: https://cdn.nohesi.gg/cars/
+> 2. https://discord.com/channels/964645662866173972/1440122305861652520
+> 
+> **Custom Shaders Patch 0.2.4+ Is Required**:
+> 1. Open Content Manager
+> 2. Click Settings -> Custom Shaders Patch
+> 3. Press the big install button, and ensure you install 0.2.11 CSP
