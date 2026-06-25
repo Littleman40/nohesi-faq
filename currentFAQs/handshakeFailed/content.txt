@@ -7,43 +7,56 @@
 
 ---
 
-# The most likely cause of this error is someone took your car as you were loading in. Hit the refresh button next to join and use any car highlighted white.
--# Please note that ASIA servers are very buggy and may not work at all for some users.
+# The most likely cause of this error is that someone took your car as you were loading in. Hit the refresh button next to join and use any car highlighted white.
+
+---
+
+# Prerequisite:
+> This FAQ covers many steps to address all possible issues that can cause this error. If you are **crashing on the loading screen**, **take a look at the text in the bottom left, right before this error shows**. This text may say the root cause of your issue, avoiding you from having to go through all 12 steps.
 
 ---
 
 # Method 1
-> When selecting a car to join the server, make sure to spam the **refresh button** (Ctrl+R) to make sure the car is still available. Then quickly click on **Join** (Ctrl+G).
-[attachment: HandshakeFailed1.png]
+> Make sure you are joining the right server. *The tier will be shown in the server title as well*.
+>  - F2P → <#1147102029987196978>
+>  - T1 → <#1121719898062729276>
+>  - T2 → <#1117825940832137317>
+>  - T3 → <#1113204657217609871>
 
 ---
 
-# Method 2
-> Select a **name** __(Only letters/numbers, NO SYMBOLS)__ in Content manager **→** <#1322216409622642790>.
+# Method 2:
+> Make sure you have whitelisted: https://discord.com/channels/964645662866173972/1000157728737599691 (linking **both** discord and steam)
+> 
+> *Once done, this can take up to 5-10 minutes to apply, and we suggest you restart your pc in that time*
+
+--- 
+
+# Method 3
+> 1. Ensure you have set a **Name **and **Online Name**, **that isnt: `player`** and that consists of **only letters/numbers, NO SYMBOLS**
+> 2. **Disable Online Name**
 [attachment: HandshakeFailed2.png]
 
 ---
 
-# Method 3
+# Method 4
 > Ensure that you are not in *offline mode* on steam.
 [attachment: HandShakeFailed4.png]
 
 ---
 
-# Method 4
-> Makes sure **Content manager** and **Custom Shaders Patch** are up to date **→  ** <#1322240298210033804>  or/and <#1322234984181796934>
-
----
-
-[attachment: HandshakeFailed5.png]
-
----
-
-[attachment: HandshakeFailed6.png]
-
----
-
 # Method 5
+> Make sure **Content manager** and **Custom Shaders Patch** are up to date.
+> 
+> **Content Manager Reinstall:**
+> https://discord.com/channels/964645662866173972/1322240298210033804
+> 
+> **Custom Shaders Patch:**
+> Content Manager -> Settings -> Custom Shaders Patch -> About & Updates -> Install 0.2.11 CSP or newer
+
+---
+
+# Method 6
 ## Step 1
 > Close **STEAM** and **CONTENT MANAGER** with **Task Manager** by right clicking the programs and select **END TASK**.
 [attachment: HandshakeFailed7.png]
@@ -55,17 +68,13 @@
 
 ---
 
-# Method 6
-> Open Content manager, **Settings > Content manager > Drive** and Change your **game starter** to STEAM, TRICKY or OFFICIAL.
-
----
-
-[attachment: HandshakeFailed8.png]
-
----
-
 # Method 7
-> Add exceptions to **windows firewall** or antivirus for **acs.exe** /  **Content Manager.exe** / **AssettoCorsa.exe** / **assettocorsacef.exe** **→** [How to allow a program in the Firewall](https://pureinfotech.com/allow-apps-firewall-windows-10/).
+> Switch your **game starter to Steam**, following: https://discord.com/channels/964645662866173972/1486631384402624513
+
+---
+
+# Method 8
+> Add exceptions to **Windows Firewall** and **antivirus **for **acs.exe** /  **Content Manager.exe** / **AssettoCorsa.exe** / **assettocorsacef.exe** **→** [How to allow a program in the Firewall](<https://pureinfotech.com/allow-apps-firewall-windows-10/>).
 [attachment: HandshakeFailed9.png]
 
 ---
@@ -74,24 +83,20 @@
 
 ---
 
-# Method 8
-> Makes sure your **STEAM IDs** match in Steam, Content manager and <#1000157728737599691>**→** <#1322245064466104443>
+# Method 9
+
+> Make sure your computer clock settings are **correctly set, and synced.**
+
+> Right-click the system clock in your **System Tray** at the bottom-right corner of the screen and click  **Adjust date/time** *(You can also go to Settings > Time & Language > Date & time.)*
+### Ensure both `set timezone automatically` and `set time automatically` are ticked -> then press `sync now`.
 
 ---
 
-# Method 9
-> Make sure you are joining the right server:
->  - F2P → <#1147102029987196978>
->  - T1 → <#1121719898062729276>
->  - T2 → <#1117825940832137317>
->  - T3 → <#1113204657217609871>
+-# **If any of these options are greyed out, please watch <https://www.youtube.com/watch?v=kPq2R-vxCTw> first.**
+
+### A full explanation + other debugging steps can be found on the article: <https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/>
 
 ---
 
 # Method 10
-> Make sure that your computer's clock is synced. More info by clicking [here](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/).
-
----
-
-# Method 11
 > Restart your PC and internet box/router and check your internet connection.
