@@ -19,3 +19,24 @@
 
 ## Step 2
 > Once you have purchased Pure and downloaded it, please follow this video (Provided by the creator of Pure) for installation. [Click here for video](https://www.youtube.com/watch?v=KJE2xac5f8s)
+
+---
+
+# How To Uninstall Pure
+
+--- 
+
+# Step 1:
+> Inside the pure download folder, which you can download from above, locate the **uninstall_pure.bat** file
+
+--
+
+# Step 2:
+> Move this **uninstall_pure.bat file into your root folder**, which can be found as per the following: https://discord.com/channels/964645662866173972/1322235675239645184
+
+---
+
+# Step 3:
+> Double-click the bat file, and follow the prompts to uninstall Pure.
+> 
+> **Make sure to restart your PC afterwards.**
