@@ -54,3 +54,24 @@ If you wish to use Sol, please revert back to earlier CSP versions or use 0.3.xx
 
 ## Note:
 > Never install both Pure and Sol at the same time. *This will cause major issues, which can include FPS drops*
+
+---
+
+# How To Uninstall Sol
+
+---
+
+# Step 1:
+> Inside the sol download folder, which you can download from above, locate the **soluninstall.bat** file
+
+---
+
+# Step 2:
+> Move this **soluninstall.bat file into your root folder**, which can be found as per the following: https://discord.com/channels/964645662866173972/1322235675239645184
+
+---
+
+# Step 3:
+> Double-click the bat file, and follow the prompts to uninstall Sol.
+> 
+> **Make sure to restart your PC afterwards.**
