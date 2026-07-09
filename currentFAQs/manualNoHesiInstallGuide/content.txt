@@ -1,0 +1,120 @@
+Manual No Hesi Install Guide
+
+---
+
+# Want to install No Hesi manually? Follow this guide!
+
+---
+
+# Prerequisites
+> **We have a No Hesi installer, which handles the full setup in 8 simple steps, including downloads of required content! This can be found at** <#985372285668036639>
+> 
+> The FAQ below is for those wishing to complete a manual install.
+
+---
+
+# Step 1:
+> Ensure you meet PC requirements: <#1511242216679542814>
+
+---
+
+# Step 2:
+**Buy Assetto Corsa**
+> Click [**here**](<https://store.steampowered.com/app/244210/Assetto_Corsa/>) to purchase it from Steam. (***DLC's are NOT required***)
+> 
+> <:warn:1124835250816692296> **Once downloaded, ensure you run it at least once from Steam before continuing with this guide** <:warn:1124835250816692296>
+
+---
+
+# Step 3:
+**Download Content Manager**
+> 1. Head to https://acstuff.ru/app 
+> 2. Scroll down and click `download directly`
+> 
+> *This will be the launcher for Assetto Corsa*
+[attachment: 1.mp4]
+
+---
+
+> Navigate to the download and right click, then extract the files.
+[attachment: 2.mp4]
+
+---
+
+> Open the folder you extracted the files to and launch Content Manager.
+[attachment: 3.mp4]
+
+---
+
+# Step 4:
+**Setup Content Manager**
+> You will be need to locate your AC root folder, explained in the next message.
+[attachment: 4.mp4]
+
+---
+
+> Go into your Steam Library, Right-click AC and then Manage > Browse Local Files.
+[attachment: 5.mp4]
+
+---
+
+> A folder will open, and you can see the path to the root folder. Copy this path.
+[attachment: 6.mp4]
+
+---
+
+> Back in Content Manager, double-click the preset root folder and paste your own one.
+[attachment: 7.mp4]
+
+---
+
+> Now enter your Steam ID, if it's not there automatically. To find your steam ID: <#1322217411876753449>
+[attachment: 8.mp4]
+
+---
+
+> Install the first two plugins and click OK
+[attachment: 9.mp4]
+
+---
+
+> Click Settings, then Custom Shader Patch, and click `Install Patch`. Make sure you're always on the latest version.
+[attachment: CSPInstall.png]
+
+---
+
+# Step 5
+**Setup your controls**
+> **Wheel:**
+> <#1322253669751591043>
+> 
+> **Controller:**
+> <#1322254966953476218>
+> 
+> **Keyboard & Mouse:**
+> <#1322255308776538243>
+> 
+> **Useful Binds:**
+> <#1322252040117948556>
+> <#1322248427853058118>
+
+---
+
+# Step 6
+**Manually Install Shuto Revival Project**
+> You can do this by following: <#1322236089083105343>
+
+---
+
+# Step 7
+**Create a No Hesi account**
+> 1. Head to [**nohesi.gg**](<https://nohesi.gg/signup>) and create an account
+> 2. Link both Discord and Steam under the [**edit profile**](<https://nohesi.gg/manage/profile>) tab
+
+---
+
+# Step 8
+**Join a server**
+> You can find all our servers under: <https://nohesi.gg/servers>
+> 
+> Once you join, use `install missing content` to download the required cars, following the guide: <#1322223184367587462>
