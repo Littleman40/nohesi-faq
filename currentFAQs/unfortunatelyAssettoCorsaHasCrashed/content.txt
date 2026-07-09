@@ -7,23 +7,72 @@
 
 ---
 
+# Prerequisite
+> Oftentimes, these "Unfortunately, Assetto Corsa has crashed" errors can be caused by a wide range of issues. It will **require debugging, time and effort** to get to the bottom of. **Using all the different methods in this FAQ will help you narrow the issue down**, ultimately leading to fixing it.
+
+---
+
 # Method 1
-> Follow the https://discord.com/channels/964645662866173972/1322225183297376266 guide to manually reinstall CSP.
+> **Ensure you are on a stable CSP version, and those are:**
+> * 0.2.11
+> * 0.2.12 Preview (PAID)
+> 
+> **To switch CSP versions:**
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Click on 0.2.11 CSP
+> 3. Ensure you restart your PC afterwards
+
+---
 
 # Method 2
-> If you are crashing on the loading screen
-> Load the game again and take note of the last thing you see on the left bottom corner since that is what the game cannot load and is crashing on. 
-> Depending on what it is, cars/tracks or csp related redirect them to first deleting it then reinstalling it manually.
+> **If you are crashing on the loading screen, take note of the very last piece of text, in the bottom left-hand corner of the loading screen, right before it crashes. This will be what is causing the crash.**
+> 
+> **If it mentions a track:**
+> Fully delete, and then manually reinstall the specified track following: <#1457475437809631416>
+> 
+> **If it mentions a car:**
+> Fully delete, and then manually reinstall the specified car following: <#1440122305861652520>
+> 
+> **If it says: Connecting to IP:**
+> You are having connection issues, and you should try to restart your PC, restart your router, limit devices on the network, limit background apps, etc.
 
-> If it is on a car, <#1440122305861652520> 
-> If it is on a track, <#1457475437809631416> 
-> If it is on the connecting to IP, you are having connection issues and should try restarting your pc/router
-> If it is on anything else, https://discord.com/channels/964645662866173972/1322240298210033804 
+---
 
 # Method 3
-> Go to `Settings > Assetto Corsa > Video` and lower your video settings.
-> - Make sure `MSAA` is not `8x`, 
-> - `Shadows Resolution` is not above `2048x2048` and 
-> - `Rendering Frequency` is set to `two faces per frame`.
+> **If you are crashing right as you are entering the server, or crashing while playing the game, this is usually an indicator of your hardware maxing out due to your current settings.**
+> 
+> **Step 1:**
+> Ensure you exceed the PC requirements: <#1511242216679542814>
+> 
+> **Step 2:**
+> 1. Do: <#1322261005371310101> (*yes, this is reversible*) 
+> 2. Restart your PC
+> 3. Attempt to join a server again
+> 
+> **Step 3:**
+> Try limiting the load on your hardware further by doing:
+> * <#1468772307433558320>
+> * <#1468772448605573416>
+> * <#1322218502014369803>
 
-## If these do not work, please seek further assistance
+---
+
+# Method 4:
+> **This method will require you to open the log file that Assetto Corsa created. This requires some level of "computer knowledge", and if you do not feel comfortable doing this, please upload your crash file to the help channel instead. **
+> 
+> **How to locate your crash logs:**
+> 1. Open File Explorer -> Documents -> Assetto Corsa -> Logs
+> 2. Locate the newest .report file you have.
+> 
+> **How to read .report files:**
+> 1. You must have [7zip](<https://www.7-zip.org/download.html>) installed
+> 2. Right-click the .report file -> 7zip -> open archive
+> 
+> **What to look for in .report files:**
+> The key files in the report files are:
+> * `log.txt`
+> * `custom_shaders_patch.log`
+> 
+> When looking at both, in your preferred text editor, scroll to the bottom of the file, and look at the final few lines. Sometimes log.txt will be useless, and the custom_shaders_patch.log will tell you the error, and vice versa.
+> 
+> **Again, if you are struggling with this step, please upload the `.report` file to <#964650227342655499>**

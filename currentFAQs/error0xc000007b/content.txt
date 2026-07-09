@@ -7,9 +7,12 @@
 
 ---
 
-## Step 1
-> Verify your game on Steam
-> Steam > Assetto Corsa > Right Click > Properties > Installed > Files > Verify integrity of Game files
+# Step 1
+**Verify your game files**:
+> 1. Open Steam → Library → Assetto Corsa
+> 2. Right-click AC → Properties → Installed Files
+> 3. Click `Verify integrity of game files`
+> 4. Wait for it to finish before moving on.
 [attachment: Verify_game_files_for_Assetto_Corsa1.png]
 
 ---
@@ -18,19 +21,23 @@
 
 ---
 
-## Step 2
-> **Start the game in your steam library** (You may need to uninstall CSP)
-> Once in the game menu, close it
+# Step 2
+> Ensure you have started the game, Assetto Corsa, directly from your Steam library before.
+> 
+> Once you get to the main menu, close the game.
+[attachment: LaunchBaseGame.png]
 
 ---
 
-## Step 3 
-> **Update Windows and the drivers**
-> Download the Content Manager requirements.
-> - [**DirectX End-User Runtime Web**](https://www.microsoft.com/en-us/download/details.aspx?id=35)
-> - [**DirectX End-User Runtimes June 2010**](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-> - [**Visual C++ Redistributable for Visual Studio 2015 | x86 version**](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
-> - [**.Net Framework 4.8.1**](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
+# Step 3
+**Download & Install all the dependencies:**
+> - [**DirectX End-User Runtime Web**](<https://www.microsoft.com/en-us/download/details.aspx?id=35>)
+> - [**DirectX End-User Runtimes June 2010**](<https://www.microsoft.com/en-us/download/details.aspx?id=8109>)
+> - [**.Net Framework 4.8.1**](<https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481>)
+> - [**C++ Runtime Packages**](<https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/>)
+> 
+> **Note:**
+> The C++ link will download a ZIP file. Please extract this and run the `install_all.bat` file, **in administrator mode**
 
 ---
 

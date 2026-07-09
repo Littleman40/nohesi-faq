@@ -8,9 +8,25 @@
 ---
 
 ## Method 1
-> Switch to <#1486631384402624513> which will allow for Content Manager to show an actual error message.
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install 0.2.11 CSP
+> 3. Restart your PC
+[attachment: CSPinstall.png]
 
 ---
 
 ## Method 2
 > Open File Explorer -> This PC -> and verify you have a minimum of 25 GB of space in your C Drive.
+
+---
+
+## Method 3:
+> **Upload your crash logs: **
+> 1. Open File Explorer -> Documents -> Assetto Corsa -> Logs
+> 2. Locate the newest `log.txt` and/or `custom_shaders_patch.log`
+> 3. Upload these to <#964650227342655499>
+
+---
+
+## Method 4
+> Switch to <#1486631384402624513> which will allow for Content Manager to show an actual error message

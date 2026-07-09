@@ -8,11 +8,17 @@
 ---
 
 # Method 1
-> Change your game starter to steam (appID or official should also work)
-> Open Content Manager and go to Settings > Content Manager > Drive
+> Run both Steam and Content Manager as administrator, or run both not as administrator.
+
+---
+
+## Method 2:
+> 1. Open Content Manager and go to Settings > Content Manager > Drive
+> 2. Change your game starter to `appID`
 [attachment: SteamAPIhasfailedtoinitialize.png]
 
 ---
 
-## Method 2
-> Try running steam and content manager as administrator.
+## Method 3
+**If you have done all of the above, and it still doesn't work:**
+> Change your game starter to `steam`, following <#1486631384402624513>, to ensure it is done correctly.

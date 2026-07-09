@@ -6,25 +6,34 @@
 
 ---
 
-# Step 1
-> Press Windows key + R
-> Type in %localappdata% and hit enter 
-> Delete the "AcTools Content Manager" folder.
-
----
-
-[attachment: Reinstall_Content_Manager_Tutorial_1.png]
-
----
-
-# Step 2
-> To reinstall, follow the steps in <#985372285668036639>
-
----
 
 ## **This does not delete any of your cars or tracks!!!!**
 
 ---
 
-# Video Guide
-[attachment: ReinstallContentManager.mp4]
+## Step 1
+> Delete the Content manager folder
+> - Press Windows key + R
+> - Type in %localappdata% and hit enter 
+> - Delete the __"AcTools Content Manager"__ folder.
+[attachment: Reinstall_Content_Manager_Tutorial_1.png]
+
+
+---
+
+## Step 2
+> Download and extract [Content Manager](https://acstuff.club/app/) with 7Zip
+[attachment: DownloadDirectly.png]
+
+---
+
+## Step 3
+> Run Content manager.exe 
+> - Select root folder → <#1322235675239645184> 
+> - Install all plugins and press OK
+[attachment: CMSetup.png]
+
+---
+
+## Step 4
+> Close Content Manager, and go back to <#985372285668036639> or <#1524434443434197063> to finish the setup.
