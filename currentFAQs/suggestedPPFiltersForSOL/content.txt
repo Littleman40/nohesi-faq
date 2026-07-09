@@ -6,6 +6,9 @@
 
 ---
 
+# <a:Red_Siren:994262790497902602> Sol only works up to __CSP 0.2.9__ <a:Alarm:1094319471692361739>
+The latest version of CSP is required to play on No Hesi servers, which is not compatible with Sol. 
+
 **[C13 Camera Obscura](https://www.overtake.gg/downloads/photorealistic-ppfilter-c13-camera-obscura.45901/version/92983/download)** 
 
 **[AMA](https://www.overtake.gg/downloads/ama-pp-filter.57830/version/123643/download)** 
@@ -13,7 +16,3 @@
 **[S K Y](https://www.racedepartment.com/downloads/sky-pure-sol.53935/version/99814/download)** 
 
 **[Horizon Shades](https://www.overtake.gg/downloads/horizon-shades.32330/version/68212/download)**
-
----
-
--# Credits: GarryRoberts
