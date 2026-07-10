@@ -1,0 +1,28 @@
+Chat Disabled / Car Disabled
+
+---
+
+# Is your chat telling you it's disabled? Or are you getting a pop-up explaining your car is disabled? Here is how to fix it!
+[attachment: 1.png]
+[attachment: 2.png]
+
+---
+
+# <:warn:1124835250816692296> Warning <:warn:1124835250816692296> 
+> **This FAQ will only fix:**
+> * Your chat saying it's disabled
+> * A popup saying your car is disabled
+> 
+> **This will NOT fix:**
+> * Your points UI saving the car is vaulted
+> * A popup saying: "points disabled for this vehicle"
+> -# ^ If you are experiencing these 2, please read: <#1431142566589370548>
+
+---
+
+# The Fix:
+> To fix both of these issues, you must **link both your Steam & Discord to your No Hesi website account** under the [**edit profile**](<https://nohesi.gg/manage/profile>) tab.
+> 
+> **Note:**
+> This can take 5-10 minutes to apply, and we suggest restarting your PC during this time.
+[attachment: 3.png]
