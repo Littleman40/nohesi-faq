@@ -6,45 +6,34 @@
 
 ---
 
-# Step 1:
-> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection.
-
-> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
-
-> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager [(click here for tutorial)](<https://www.belkin.com/au/support-article/?articleNum=8071>)
-
-> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
-
----
-
-# Step 2:
-> **Reinstall/ Install your CefSharp Plugin**
-
-## Uninstall:
-> 1. Press *windows+r*
-> 2. Type `%localappdata%`
-> 3. Open AcTools Content Manager
-> 4. Open your Plugins folder
-> 5. Delete the CefSharp folder
-
-## Reinstall:
-> 1. Open Content Manager > Settings > Content Manager > Plugins > Install CefSharp Version (114.2.120)
-> 2. Close and Reopen Content Manager
+# Prerequisite
+> *As per <#1486624518054219836>, each run can end by losing 2 lives or the 15-minute timer running out. If by the end of that, you have gotten more points than your previous PB, then your new score will override it, and that will now be your PB.*
 > 
-> If unable to -> <#1322234984181796934>
-
-## VIDEO GUIDE
-[attachment: CefSharpReinstallGuide.mp4]
+> If the above does not happen and your PB is not overridden, then please complete this FAQ.
+> 
+> **Note**:
+> Certain car's and SRP Rush Hour have been vaulted from the leaderboard, as per <#1431142566589370548>. You will **not** be able to set a PB with these.
+> 
+> If you are receiving a message stating: `you are playing offline`, please complete: <#1512071931736621147>
+> 
+> If you are receiving a message stating: `car disabled`, please complete: <#1524717666177384468>
 
 ---
 
-# Step 3:
+# Method 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 1.mp4]
+
+---
+
+# Method 2:
 
 > Make sure your computer clock settings are **correctly set, and synced.**
 
 > Right-click the system clock in your **System Tray** at the bottom-right corner of the screen and click  **Adjust date/time** *(You can also go to Settings > Time & Language > Date & time.)*
 ### Ensure both `set timezone automatically` and `set time automatically` are ticked -> then press `sync now`.
-[attachment: 0Place.png]
+[attachment: 2.mp4]
 
 ---
 
@@ -54,17 +43,20 @@
 
 ---
 
-# Step 4: 
-If the above fixes did **NOT **work:
-> 1. Install **0.2.7 CSP** (*Content Manager > Settings > Custom Shaders Patch > About & Updates*)
-> 2. **Join a server, and your PB will start saving again.**
+# Method 3
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
 
-Only **after **doing the above, proceed with:
-> 3. Install **0.2.11 CSP** (*Content Manager > Settings > Custom Shaders Patch > About & Updates*)
+---
 
-# Step 5:
-If the above fixes did **NOT **work:
-> You may need to additionally do <#1322234984181796934> and set it back up using the <#985372285668036639>
+# Method 4
+> Delete and reinstall Content Manager, following:
+> <#1322234984181796934>
 
-## Current Vaulted Cars - Do Not Count To LB - As of <t:1770408000:d>
-https://discord.com/channels/964645662866173972/1431142566589370548
+---
+
+# Method 5
+> Restart your PC and internet box/router and check your internet connection.
