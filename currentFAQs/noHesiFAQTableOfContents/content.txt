@@ -15,6 +15,7 @@
 [How to do a fresh start](https://discord.com/channels/964645662866173972/1437114487051255858)
 [How To Enable 7 Zip Plugin](https://discord.com/channels/964645662866173972/1322223328735399989)
 [How to get Pure (PAID MOD)](https://discord.com/channels/964645662866173972/1322227974371545159)
+[How to get Sol](https://discord.com/channels/964645662866173972/1511252401343041697)
 [How to get rain (PAID mod)](https://discord.com/channels/964645662866173972/1322228581186801745)
 [How to get Setup Exchange](https://discord.com/channels/964645662866173972/1322229686331248750)
 [How to install / delete cars manually](https://discord.com/channels/964645662866173972/1440122305861652520)
@@ -23,8 +24,8 @@
 
 ---
 
-[How to manually install SOL](https://discord.com/channels/964645662866173972/1322233156790653010)
 [How to properly setup working "Install Missing Content" button](https://discord.com/channels/964645662866173972/1322233520277553232)
+[How to setup Steam Starter](https://discord.com/channels/964645662866173972/1486631384402624513)
 [How to remove Steam Starter](https://discord.com/channels/964645662866173972/1351864049414967387)
 [How to use "Install Missing Content" to download cars](https://discord.com/channels/964645662866173972/1322223184367587462)
 [How to use "Install updates" button / Obsolete car](https://discord.com/channels/964645662866173972/1322234180066873415)
@@ -34,6 +35,8 @@
 [“ shuto_revival_project_beta/main_layout [ ] “ is missing](https://discord.com/channels/964645662866173972/1322236089083105343)
 [Where is Nordschleife - Tourist](https://discord.com/channels/964645662866173972/1322236738730725396)
 [Where is the FDR map?](https://discord.com/channels/964645662866173972/1322237987291004979)
+[Manual No Hesi Guide](https://discord.com/channels/964645662866173972/1524434443434197063)
+
 
 ---
 
@@ -110,7 +113,6 @@
 [Stop slipping in Solo using Pure Planner](https://discord.com/channels/964645662866173972/1322257889720537089)
 [Third Person Cockpit view with Neck FX / POV / point of view / camera](https://discord.com/channels/964645662866173972/1322258125826298011)
 [Turn on and adjust Real Mirrors](https://discord.com/channels/964645662866173972/1322258415514288280)
-[Xbox Controller not working?](https://discord.com/channels/964645662866173972/1322252361581854761)
 
 ---
 
@@ -147,6 +149,9 @@
 [How to Cancel Patreon Subscription](https://discord.com/channels/964645662866173972/1322266906132086905)
 [Missing VIP Roles](https://discord.com/channels/964645662866173972/1431127973255446589)
 [Whitelist VIP Error](https://discord.com/channels/964645662866173972/1322245064466104443)
+[How to gift a No Hesi subscription](https://discord.com/channels/964645662866173972/1524712352992464977)
+
+
 
 ---
 
@@ -196,8 +201,10 @@
 [How to make a crew](https://discord.com/channels/964645662866173972/1340461953155600514)
 [Missing Points UI](https://discord.com/channels/964645662866173972/1390147509489242224)
 [Missing UI / UI Not Working](https://discord.com/channels/964645662866173972/1465642642019844168)
-[Series 5 - ranks - scoring - explained](https://discord.com/channels/964645662866173972/1443691709417525318)
+[Series 6 - ranks - scoring - explained](https://discord.com/channels/964645662866173972/1486624518054219836)
 [Vaulted Cars - Invalid for Leaderboard](https://discord.com/channels/964645662866173972/1431142566589370548)
+[How To Fix "You are playing offline"](https://discord.com/channels/964645662866173972/1512071931736621147)
+[Chat Disabled or Car Disabled](https://discord.com/channels/964645662866173972/1524717666177384468)
 
 ---
 
@@ -222,7 +229,7 @@
 
 ** **
 # Audio Bugs
-[Cutting / Glitchy Audio (CSP 0.2.7+)](https://discord.com/channels/964645662866173972/1358614747981021366)
+[Cutting / Glitchy Audio](https://discord.com/channels/964645662866173972/1486626508616241202)
 [No signals/blinker sound](https://discord.com/channels/964645662866173972/1322257717745946675)
 
 ---
