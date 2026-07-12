@@ -8,13 +8,52 @@ How To Fix " You Are Playing Offline "
 ---
 
 # Method 1:
+> To fix both of these issues, you must **link both your Steam & Discord to your No Hesi website account** under the [**edit profile**](<https://nohesi.gg/manage/profile>) tab.
+> 
+> **Note:**
+> This can take 5-10 minutes to apply, and we suggest restarting your PC during this time.
+[attachment: 3.png]  
+
+---
+
+# Method 1:
 > 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
 > 2. Install **0.2.11 CSP**
 [attachment: faqimage2.png]  
 
 ---
 
-# Method 2
+# Method 3:
+
+> Make sure your computer clock settings are **correctly set, and synced.**
+
+> Right-click the system clock in your **System Tray** at the bottom-right corner of the screen and click  **Adjust date/time** *(You can also go to Settings > Time & Language > Date & time.)*
+### Ensure both `set timezone automatically` and `set time automatically` are ticked -> then press `sync now`.
+[attachment: 4.png]  
+
+---
+
+-# **If any of these options are greyed out, please watch <https://www.youtube.com/watch?v=kPq2R-vxCTw> first.**
+
+### A full explanation + other debugging steps can be found on the article: <https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/>
+
+---
+
+# Method 4
+> Verify your game files, following:
+> <#1322222319518748692>
+> 
+> *Ensure you let it complete its verification fully, before moving on.*
+
+---
+
+# Method 5
+> Delete and reinstall Content Manager, following:
+> <#1322234984181796934>
+
+---
+
+# Method 6
 > Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
 > 
 > 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
