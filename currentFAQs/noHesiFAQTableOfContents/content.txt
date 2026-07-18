@@ -60,6 +60,7 @@
 [Failed to initialize timezone storage: not found in timezone database](https://discord.com/channels/964645662866173972/1457473472107249704)
 [Failed to Initialize VR](https://discord.com/channels/964645662866173972/1322243632543174678)
 [Flames.cpp Error](https://discord.com/channels/964645662866173972/1431126934980657283)
+[CSP Installation Is Damaged ( Version Mismatch )](https://discord.com/channels/964645662866173972/1527893257147777154)
 
 ---
 

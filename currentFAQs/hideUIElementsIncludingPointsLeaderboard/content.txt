@@ -18,69 +18,101 @@
 ---
 
 # Driver names (bottom):
-> F9 to hide
+> **Method 1:**
+> Press F9 until the bar is completely hidden
+> 
+> **Method 2:**
+> Open Content Manager -> Settings -> Assetto Corsa -> View & UI -> Uncheck: `Show leaderboard`
 [attachment: HideUI1.png]
 
 ---
 
-# Virtual Mirror  (top mid) :
-> F11
+# Virtual Mirror (top mid) :
+> **Method 1:**
+> Press F11
+> 
+> **Method 2:**
+> Open Content Manager -> Settings -> Assetto Corsa -> View & UI -> Uncheck: `Show virtual mirror`
 [attachment: HideUI2.png]
 
 ---
 
 # Proximity indicator (red arrow):
+> Open Content Manager -> Settings -> Assetto Corsa -> System -> Proximity indicator -> Uncheck: `Show nearest opponents`
 [attachment: HideUI3.png]
 
 ---
 
 # Yellow Flag (top left):
-
-> https://youtu.be/GALR0-TE9_0
+> 1. Open <#1322235675239645184> -> `content` -> `gui` -> `flags`
+> 2. Delete the yellow flag.
+> 
+> *In case you want the yellow flag back, you can retrieve it again by: <#1322222319518748692>*
+[attachment: HideUI4.png]
 
 ---
 
 # Server messages (top mid)
+> 1. Open Content Manager -> Settings -> Assetto Corsa -> View & UI -> Messages
+> 2. Uncheck whichever messages you do not wish to see
 [attachment: HideUI5.png]
 
 ---
 
 # Ping (top right):
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> GUI
+> 2. Check: `Hide ping text in the top right corner`
 [attachment: HideUI6.png]
 
 ---
 
 # Time Remaining in Session (Top Middle)
-> Steam\steamapps\common\assettocorsa\system\cfg\session_info.ini
-> Change the following values:
-> "PRATICE_VISIBLE=0"
+> 1. Open <#1322235675239645184> -> `system` -> `cfg` -> `session_info.ini`
+> 2. Modify/ set the following values:
+> ```"PRATICE_VISIBLE=0"
 > "QUALIFY_VISIBLE=0"
-> "RACE_VISIBLE=0"
+> "RACE_VISIBLE=0"```
 [attachment: HideUI7.png]
 
 ---
 
 # Pit speed limit (top left)
-[attachment: HideUI8.png]
-
----
-
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> GUI -> Extra HUD Elements
+> 2. Uncheck all the boxes
 [attachment: HideUI9.png]
 
 ---
 
-# No Hesi Speedometer & Points UI
-> Click the `Gear` icon located at the top right of your screen.
+# No Hesi Points UI / Leaderboard UI
+> Click the `action bar` located at the top right of your screen.
 > 
 > - To turn off all of the Points UI, click the `toggle button` in the `Toggle UI` box
->     - To turn off specific Points UI parts, click `UI Settings` at the bottom, then click the `toggle button` for the specific part you want disabled.
-> 
-> - To turn off the speedometer, click the `toggle button` in the `Speedometer` box
+>      - To turn off specific Points UI parts, click `UI Settings` at the bottom, then click the `toggle button` for the specific part you want disabled.
 [attachment: HideUI10.png]
 
 ---
 
-# No Hesi Chat
-> Click the `Gear` icon located at the top right of chat.
-> Scroll down in the `Chat Settings` then click `Hide chat when inactive`
+# No Hesi Speedometer / Chat
+> Click the `action bar` located at the top right of your screen.
+> 
+> To turn off the speedometer, click the `toggle button` in the `Speedometer UI`
+> 
+> To turn off chat, click the `toggle button` in the `Chat UI`
 [attachment: HideUI11.png]
+
+---
+
+
+# Red Crash Flash Effect
+> To remove the red crash effect that shows around the border of the screen:
+> 
+> Click the `action bar` in the top right, click `UI settings`, and uncheck `Crash Flash Effect`
+[attachment: HideUI12.png]
+
+---
+
+# Popup Score Notifications
+> To hide these popup score notifications in the bottom right of your screen:
+> 
+> Click the `action bar` in the top right, click `UI settings`, and uncheck `Score Notifications`
+[attachment: HideUI13.png]
