@@ -1,0 +1,53 @@
+CSP Installation Is Damaged ( Version Mismatch )
+
+---
+
+# Are you receiving this CSP mismatch error? Follow this guide!
+[attachment: 1.png]
+
+---
+
+# Step 1
+**Download and Install 7zip. (*do NOT use WinRAR*)**
+> 1. Open https://www.7-zip.org/
+> 2. Click "Download"
+> 3. Double-click the downloaded exe file
+> 4. Follow the prompts to complete the install
+[attachment: 2.png]
+
+---
+
+# Step 2
+> 1. Open Content Manager
+> 2. Click Settings -> Custom Shaders Patch -> About & Updates
+> 3. Click the `Delete patch`
+[attachment: 3.png]
+
+---
+
+# Step 3
+> **Download Custom Shaders Patch, without using Content Manager, as per the following:**
+> 
+> ### CSP Preview:
+> If you are using a **CSP Preview Version**, please download the latest version from the [**paid Patreon**](<https://www.patreon.com/c/x4fab/home>)
+> 
+> ### Non-Preview CSP:
+> If you are not paying for preview versions, please download 0.2.11 CSP from the [**ACStuff Website**](<https://acstuff.club/patch/?get=0.2.11>)
+
+---
+
+# Step 4
+> **Manually install CSP without using Content Manager, as per the following:**
+> 
+> 1. Locate the downloaded ZIP from the preview step.
+> 2. Right-click -> *show more options* -> 7zip -> open archive
+> 3. Drag and drop both `extension` and `dwrite.dll` into your AC Root Folder: <#1322235675239645184>
+> 
+> <:warn:1124835250816692296> **Warning **<:warn:1124835250816692296> 
+> Do not drag & drop them into Content Manager, as this can cause this issue.
+[attachment: 4.png]
+
+---
+
+# Step 5
+> **Restart your PC**
