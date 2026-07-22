@@ -7,11 +7,51 @@
 
 ---
 
-## Method 1
-> Follow our FAQ on how to install tracks manually linked here: <#1457475437809631416>
+# Step 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 1.png]
 
 ---
 
-## Method 2
-> If the steps above didn't work, Open Windows settings>Time & language>Date & Time> make sure that the both settings are enabled, after that press on the "sync now" button.
-[attachment: image.png]
+# Step 2:
+**Delete the track:**
+> 1. <#1322235675239645184> > content > tracks
+> 2. Delete the 110 folder
+
+---
+
+# Step 3:
+**Reinstall the track, ensuring you install the `autoupateapp` lua folder.**
+> 1. Download the correct 110 version:
+>    * 110 V1 Public: [**download here**](<https://bcdn.nohesi.gg/maps/nohesi_110_public.7z>)
+>    * 110 V1 Tier 3: [**download here**](<https://cdn.nohesi.gg/maps/nohesi_110.7z>) 
+>    * 110 V2 Tier 3: [**download here**](<https://cdn.nohesi.gg/maps/nohesi_110_v2.7z>)
+> 2. Right-Click the zip folder > Show more options > 7zip > Open archive
+> 3. Drag & Drop the `apps` and `content` into <#1322235675239645184>
+> -# This "apps" folder, contains the "autoupateapp" lua needed
+
+---
+
+# Step 4:
+
+> Make sure your computer clock settings are **correctly set, and synced.**
+
+> Right-click the system clock in your **System Tray** at the bottom-right corner of the screen and click  **Adjust date/time** *(You can also go to Settings > Time & Language > Date & time.)*
+### Ensure both `set timezone automatically` and `set time automatically` are ticked -> then press `sync now`.
+[attachment: 2.png]
+
+---
+
+-# **If any of these options are greyed out, please watch <https://www.youtube.com/watch?v=kPq2R-vxCTw> first.**
+
+### A full explanation + other debugging steps can be found on the article: <https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/>
+
+---
+
+# Step 5
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
