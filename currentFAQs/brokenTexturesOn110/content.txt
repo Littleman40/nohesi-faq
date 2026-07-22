@@ -7,41 +7,51 @@
 
 ---
 
-## Prerequisite
-> Please ensure you are using **0.2.11 CSP**. (CM > Settings > Custom Shaders Patch > About & Updates)
-
-# Method 1:
-
-> Ensure you have "Optimize meshes some more" **DISABLED**.
-> `Content Manager > Settings > Custom Shaders Patch > General Patch Settings > GPU Optimizations`
+# Step 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 1.png]
 
 ---
 
+# Step 2
+> Ensure you have "Optimize meshes some more" **DISABLED**.
+> `Content Manager > Settings > Custom Shaders Patch > General Patch Settings > GPU Optimizations`
 [attachment: 110BrokenTextures1.jpg]
 
 ---
 
-# Method 2:
-> 7zip is required for this: 
-> **[Download and install 7zip.](https://www.7-zip.org/)** **7zip** is free.
-[attachment: image.png]
+# Step 3
+**Download and Install 7zip. (*do NOT use WinRAR*)**
+> 1. Open https://www.7-zip.org/
+> 2. Click "Download"
+> 3. Double-click the downloaded exe file
+> 4. Follow the prompts to complete the install
 
 ---
 
-## Step 1: Delete the track:
+# Step 4
+**Delete the track:**
 > 1. <#1322235675239645184> > content > tracks
 > 2. Delete the 110 folder
 
-## Step 2: Reinstall the track manually. Ensure you install the `autoupateapp` lua.
-> 1. [**Click Here**](<https://cdn.nohesi.gg/maps/nohesi_110.7z>) to download the track
+---
+
+# Step 5
+**Reinstall the track, ensuring you install the `autoupateapp` lua folder.**
+> 1. Download the correct 110 version:
+>    * 110 V1 Public: [**download here**](<https://bcdn.nohesi.gg/maps/nohesi_110_public.7z>)
+>    * 110 V1 Tier 3: [**download here**](<https://cdn.nohesi.gg/maps/nohesi_110.7z>) 
+>    * 110 V2 Tier 3: [**download here**](<https://cdn.nohesi.gg/maps/nohesi_110_v2.7z>)
 > 2. Right-Click the zip folder > Show more options > 7zip > Open archive
 > 3. Drag & Drop the `apps` and `content` into <#1322235675239645184>
 > -# This "apps" folder, contains the "autoupateapp" lua needed
 
 ---
 
-# VIDEO GUIDE
-
----
-
-[attachment: 110BrokenTexturesVIDEO.mp4]
+# Step 6
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
