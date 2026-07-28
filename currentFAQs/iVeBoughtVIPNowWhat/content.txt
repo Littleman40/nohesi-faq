@@ -7,45 +7,34 @@
 
 ---
 
-# Below you will find a detailed guide on how to setup your No Hesi account to gain access to our VIP servers/cars for both Website subscribers & Discord subscribers.
+# First and foremost, welcome to VIP, and thanks for supporting the development of No Hesi. Before you get racing, please ensure you have done the following to gain access to all your VIP benefits:
 
 ---
 
-## Step 1
-> Go to [nohesi.gg](https://nohesi.gg/), open the Account drop-down then click “Edit Profile”
+# Whitelisting
+> Our servers need to add your Steam ID to our whitelist to allow you to use your VIP perks. To do this, you must connect your Steam account to your No Hesi website account.
+> 
+> **This website account should have the following linked:**
+> * Your main Discord account
+> * Your main Steam account
+> 
+> You can link this by heading over to <https://nohesi.gg/manage/profile> -> scrolling down to "Social Links" -> link both of the above.
+[attachment: 3.png]
 
 ---
 
-[attachment: BoughtVIP1.png]
+# <:warn:1124835250816692296> Note <:warn:1124835250816692296> 
+> Whitelisting can take 5-10 minutes, and we suggest you restart your pc in that time. 
+> If you are still having issues, you can complete the following to speed this process up: <#1486631384402624513>
 
 ---
 
-## Step 2
-> Ensure you’re on the “Edit Profile” tab, click on social links then click “Link” next to steam
-> If you used Discord to subscribe or want the role on our Discord server, also link your Discord
+# What You Gain Access To
+> By purchasing any level of No Hesi subscription, you gain access to a heap of benefits. These can be clearly found at: https://discord.com/channels/964645662866173972/1528792874068738278
 
 ---
 
-[attachment: BoughtVIP2.png]
-
----
-
-## Step 3
-> Click “Sign In” ensuring it is on the correct account that you will be using to play.
-
----
-
-[attachment: BoughtVIP3.png]
-
----
-
-## Step 4
-> It will send you to your profile and show the new Steam account connected to your No Hesi account.
-
----
-
-[attachment: BoughtVIP4.png]
-
----
-
-### If you do not gain access to your benefits, please tag a staff member in the <#964650227342655499> ﻿channel with proof of your purchase and a ticket will be made for further assistance.
+# Needing Help?
+> With VIP, you gain access to priority support. This puts you directly in contact with our staff team. Please utilise this for anything: inquiries, issues, reports and more
+> 
+> <#991299200782446632>
