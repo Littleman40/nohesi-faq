@@ -1,0 +1,84 @@
+# Series 6.7 - Points - Ranks - Explained
+
+---
+
+# A full overview of everything Series 6.7 related!
+[attachment: ScoringLOGO.png]
+
+---
+
+# What are Series?
+> No Hesi operates in Series, with each new series resetting the leaderboard, and often coming with a new point system or a new major update. Typically Series last a few months, and they are clearly announced before ending.
+
+---
+
+# The Point System
+> When cutting up through traffic, you will gain points based off how fast and close you can cut between other traffic cars.
+> 
+> **Anti-Shoulder System:**
+> When you are inside the shoulder for more than 3 seconds at a time, your multiplier will be nerfed completely. 
+> Once you hop back into the gameplay, outside the shoulder, you'll also have a 3 cooldown, before your multiplier will return to normal. 
+> 
+> **Lives:**
+> Each run, you will have 2 lives. If you tap once, you will lose a small percentage of your current score, and if you tap twice, then your entire run will end. 
+> 
+> **Timer:**
+> Each run has a maximum timer of 3 minutes. If you reach the 3 minute timer, without tapping twice, then your run will end.
+> 
+> **First Person Multiplier:**
+> If you are in first-person view, you will receive a bonus multiplier while cutting up. When you switch between first-person and other camera views, you'll be able to see a notification above the point UI, informing you about this.
+> 
+> **Automatic Proximity System:**
+> The crew system has been made obsolete, and now if you drive close enough to any player, you will automatically give them a bonus multiplier, without needing to be in an implicit crew group.
+> 
+> **Passive Mode:**
+> With the eradication of the implicit crew groups, it's highly recommened that you now enable passive mode to ensure no random players will be able to collide with you
+
+---
+
+# The Leaderboard
+> After completing your runs, the highest amount of points you could gain in 3 minutes becomes your personal best. **PB’s do not stack on top of each other, you must beat it in order to get a new PB.**
+> 
+> With Series 6.7 comes a per map leaderboard, which sorts everyone from highest to lowest points across the 3 maps. The maps are as follows:
+> * Shuto Revival Project Beta
+> * No Hesi 415
+> * No Hesi 110
+> 
+> On each leaderboard there is a ranking system of 7 ranks, 6 of which are make up of 3 tiers. These ranks are percentile based as you can see below:
+> 
+> Certified → 0.1%/Top 50 Capped
+> Sanctioned (I, II, III) → 1% - 0.1%
+> Ghost (I, II, III) → 5% - 1%
+> Licensed (I, II, III) → 10% - 5%
+> Marked (I, II, III) → 25% - 10% 
+> Noticed (I, II, III) → 50% - 25% 
+> Listed (I, II, III) → 100% - 50%
+> 
+> **No Hesi Certified <:nohesicertified:1532910887378354330>**
+> With the new per-map leaderboards, we have introduced a new top rank, called No Hesi Certified, which can be gained by holding the rank Certified across all the 3 maps. Having this new rank, will grant you free tier 3, and exclusive access to a new chat only for you guys.
+> 
+>>> **Server Leaderboard**
+This is just a small feature, which shows a leaderboard of the current highest scores that have been placed on that server with the players currently online.
+
+Once a player leaves, then their PB from that server will be removed.
+
+This has 0 impact on your actual PB on the leaderboard
+
+---
+
+# Tips & Tricks
+
+---
+
+## Ideal Points Line
+[attachment: PointsLine1.png]
+[attachment: PointsLine2.png]
+[attachment: PointsLine3.png]
+
+---
+
+## 4 Crew Order Strategy
+[attachment: CrewOrderStrategy1.png]
+[attachment: CrewOrderStrategy2.png]
+[attachment: CrewOrderStrategy3.png]
+[attachment: CrewOrderStrategy4.png]
