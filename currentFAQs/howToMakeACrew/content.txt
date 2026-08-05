@@ -7,8 +7,10 @@
 
 ---
 
-# Method 1
-> Join a server > Click the Settings Icon in the top right > Click Invite Players
+# Series 6.7 Update:
+> With the new series, **joining a crew happens automatically**, when you get into a close proximity to another player. We removed the need to create an explicit crew group.
 > 
-> **Warning: "Toggle UI" must be enabled**
-[attachment: MakeCrew1.PNG]
+> *In order to avoid griefing, we highly suggest you use Passive Mode: <#1383614143202070548> *
+> 
+> **<:warn:1124835250816692296> Note <:warn:1124835250816692296> **:
+> If you drive on the shoulder for 3 seconds straight, your proximity will stop. You will need to then drive completely off the shoulder again for another 3 seconds, in order to gain these proximity bonus again.
