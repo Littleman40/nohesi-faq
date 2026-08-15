@@ -6,63 +6,56 @@
 
 ---
 
-# How to install a track manually
+# How to delete / uninstall a track
 ## Step 1
-> Download and install 7zip
-> [**7zip**](<https://www.7-zip.org/>) is free.
-[attachment: 7zip.png]
-
----
-
-## Step 2
-> Download the map from our [**Content Delivery Network**](https://cdn.nohesi.gg/)
-
-## Step 3
-> Go to your root folder for Assetto Corsa > Open the Content folder > Open the Track folder
+> Go to your root folder for Assetto Corsa: <#1322235675239645184>
 [attachment: How_to_install_tracks_manually1.png]
 
 ---
 
-[attachment: How_to_install_tracks_manually2.png]
-
----
-
-## Step 4
-> Ensure the track is not a zip file and that it is not contained within a subfolder like “Content” or “Assetto Corsa”.
-[attachment: How_to_install_tracks_manually3.png]
-
----
-
-## Step 5
-> Drag the folder into the track folder by either putting it into the empty space on the right or in the file directory at the top.
-[attachment: How_to_install_tracks_manually4.png]
-
----
-
-# VIDEO GUIDE
-[attachment: How_to_install_tracks_manuallyVIDEO.mp4]
-
----
-
-** **
-# How to uninstall a track
-## Step 1
-> Go to your root folder for Assetto Corsa
-
----
-
-[attachment: How_to_Uninstall_Track_Manually1.png]
-
----
-
 ## Step 2
-> Open the Content folder > Open the Track folder > Find the specific track you want to delete
+> Open the `Content` folder > Open the `Track` folder > Find the specific track you want to delete
 [attachment: How_to_Uninstall_Track_Manually2.png]
 
 ---
 
 ## Step 3
-> Right click on the track then hit delete
+> Right click on the track, then hit delete
 
-# VIDEO GUIDE
-[attachment: How_to_Uninstall_Track_ManuallyVIDEO.mp4]
+---
+
+** **
+
+# How to install a track manually
+
+---
+
+## Step 1
+**Download and Install 7zip. (*do NOT use WinRAR*)**
+> 1. Open https://www.7-zip.org/
+> 2. Click "Download"
+> 3. Double-click the downloaded exe file
+> 4. Follow the prompts to complete the install
+[attachment: 1.png]
+
+---
+
+## Step 2
+**Download the track file:**
+> * [Shuto Revival Project Beta](<https://discord.com/channels/964645662866173972/1322236089083105343>)
+> * [110 V1 - Public](<https://bcdn.nohesi.gg/maps/nohesi_110_public.7z>)
+> * [110 Chinatown Expansion - Tier 3](<https://cdn.nohesi.gg/maps/nohesi_110.7z>)
+> * [110 V2 - Tier 3](<https://cdn.nohesi.gg/maps/nohesi_110_v2.7z>)
+> * Any other map: https://cdn.nohesi.gg/maps/
+
+---
+
+## Step 3
+**Install the track**
+> 1. Right-click the track zip file you downloaded
+> 2. Press "show more options" -> 7zip -> open archive
+> 3. Depends if you see a `content` / `apps` folder or the track name, do the following:
+>    * If you see `content` and/or `apps`, drag and drop both of these folders into your root folder: <#1322235675239645184> 
+>    * If you see the track name, drag and drop it into your track folder, found at: `assettocorsa\content\tracks`
+
+

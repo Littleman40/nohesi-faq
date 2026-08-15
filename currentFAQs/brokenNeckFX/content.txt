@@ -8,23 +8,19 @@
 ---
 
 ## Method 1
-
-> Open Content Manager and go to Settings > Custom Shaders Patch > NeckFX
-> Untick the active box
-
----
-
-[attachment: BrokenNeckFX1.png]
+> Open Content Manager and go to **Settings > Custom Shaders Patch > NeckFX**
+> - Extension **(4)**
+>       - **Enable "Active"**
+> 
+> - Replace Original CSP implementation with a custom script **(5)**
+>       - **Disable "Active"**
+[attachment: 1.png]
 
 ---
 
 ## Method 2
-> Go to Settings > Custom Shaders Patch > NeckFX
-> Untick Active for “Replace Original CSP implementation with a custom script”
-[attachment: BrokenNeckFX2.png]
+> If your Neck FX is still not working, open Content Manager, and go to **Settings > Assetto Corsa > Video**
+> - Rendering mode
+>      - Select **"Single screen"**
+[attachment: 2.png]
 
----
-
-## Method 3
-> If your neck fx still is not working, make sure your render mode in Content Manager > Settings > Assetto Corsa > Video > Rendering Mode > Set to Single Screen
-[attachment: BrokenNeckFX3.png]

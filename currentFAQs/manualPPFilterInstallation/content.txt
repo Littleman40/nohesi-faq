@@ -7,9 +7,41 @@
 
 ---
 
-## If the zip contains more files than just the system folder, make sure to drag all of them into the AC root directory.
-## If the zip file contains an "assettocorsa" folder, open it and drag the contents inside that folder into the AC root instead.
+# <:warn:1124835250816692296> Warning <:warn:1124835250816692296> 
+> Most PP filters come with their own installation guides. It is **imperative that you follow their instructions** and not these. **Certain PP filters may require certain CSP/ Pure versions, and they may have their own install guide**, eg through bat files, etc. This guide is mercifully only a simple guide on how most, but not all, basic PP filters are installed. 
+> 
+> **We do not guarantee this will work**, and we always suggest finding the creator's install guide for the most accurate guide.
 
 ---
 
--# Credits: GarryRoberts
+## Step 1
+> **Download & Install 7zip:**
+> 1. Open https://www.7-zip.org/
+> 2. Click "Download"
+> 3. Double-click the downloaded exe file
+> 4. Follow the prompts to complete the install
+[attachment: 1.png]
+
+---
+
+## Step 2
+> **Install the PP filter:**
+> 1. Find the relevant ZIP file in your downloads folder → right-click → `show more options` → `7zip` → `open archive`
+> 2. You will usually find a few folders inside. You need to drag & drop these into your root folder, <#1322235675239645184>. (**do NOT drag & drop into Content Manager**)
+> 
+> **Note:**
+> If the folder only contains a folder called: `assettocorsa`, please open it and drag the contents of that folder into your root folder.
+
+---
+
+# Step 3
+> **Set up the PP filter:**
+> 1. Open Content Manager → Settings → Assetto Corsa → Video → Post Processing
+> 2. Select the PP filter from the drop down menu
+> 3. Head to Content Manager → Settings → Custom Shaders Patch → WeatherFX
+> 4. Under `Weather Style` select the correct weather style for the PP filter you installed.
+
+---
+
+# How to change PP filter in game?
+[attachment: PPF.mp4]

@@ -38,11 +38,11 @@
 
 ---
 
-# Full Video Guide
-[attachment: SRP0.9.3install.mp4]
-
----
-
 ## 🚨  If you have had 0.9.1 installed previously, you are required to delete it fully from your track folder first 🚨
 > 1. Go to `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks`
 > 2. Right-click on shuto_revival_project_beta -> Click delete.
+
+---
+
+## Video Guide:
+[attachment: SRPInstallGuide.mov]
