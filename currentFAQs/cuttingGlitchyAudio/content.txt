@@ -24,4 +24,5 @@
 > 1. While in game, move your mouse all the way to the right.
 > 2. Search up `audio` in the pop-out menu
 > 3. Lower `master` and `engine` audio until the sounds stop clipping
+[attachment: CuttingGlitchAudio2.png]
 

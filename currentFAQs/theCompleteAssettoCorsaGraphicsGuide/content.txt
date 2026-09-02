@@ -6,33 +6,61 @@
 
 ---
 
-# Step 1:
-> Download **CSP (Custom Shaders Patch)**. You can use the free version, but if you want rain you'll need the paid version.
-> <#1322225183297376266> 
-> <#1322228581186801745> 
-
-# Step 2: 
-> Configure your CSP settings.
-> You can find presets below in share settings.
-> <#1189409395226984518> 
-> ⚠️ **Never pay for CSP settings! Most sellers have no real expertise and are just reselling basic tweaks that you can find for free or easily adjust yourself.**
-
-# Step 3:
-> Download SOL (free) or PURE ($1) (You shouldn't have both installed simultaneously!)
-> <#1511252401343041697> (Incompatible with certain CSP version as per the FAQ)
-> <#1322227974371545159> 
-
-# Step 4:
-> Find a PP-Filter that supports either SOL or PURE. (Free or paid)  
-> ⚠️ **Be cautious with some paid filters, as they may be stolen, lack scripts, or simply be the default Pure filter.**
+# Step 1 - Weather System
+> There are 2 options for weather systems:
+> 1. **Pure**: <#1322227974371545159>
+> 2. **Sol**: <#1511252401343041697>
 > 
-> All PP-Filters must be installed manually!
-> https://discord.com/channels/964645662866173972/1358606555574173786
+> Pure is the paid version (only 1 dollar) and is actively maintained by the creator. **This is the version that we suggest you get, and this is the version that most post-processing filters require.**
 > 
-> Two lists of suggested PP-Filters, one for SOL and one for PURE are linked below.
-> https://discord.com/channels/964645662866173972/1358607528845508708
-> https://discord.com/channels/964645662866173972/1358606823388872775
+> Sol is the older, free alternative, which is no longer maintained. **Warning:** Sol does not work with newer CSP versions, and therefore is not recommended.
+> 
+> **Install Guide:**
+> Please follow the install guides in the FAQ's linked above. You must install this manually; **do NOT drag & drop into Content Manager! ****
 
 ---
 
--# Credits: GarryRoberts
+# Step 2 - Rain
+> To add rain to your weather system, **you must have** **[Pure](<https://discord.com/channels/964645662866173972/1322227974371545159>)** installed. You can't use rain while using sol.
+> 
+> To add Rain, you will need a preview version of CSP. This is paid and costs 1 dollar. 
+> 
+> **Install Guide:**
+> This can be downloaded/ paid for through: <#1322228581186801745>
+
+---
+
+# Step 3 - PP Filter
+> To further customise how your game looks, install a post-processing filter. 
+> 
+> The PP filters you install will be dependent on whether you installed Pure or Sol. 
+> * Pure PP Filters: <#1358606823388872775>
+> * Sol PP Filters: <#1358607528845508708>
+> 
+> **Warning:**
+> Some PP filters will require certain CSP versions/ pure versions. Please read each PP filter's install guide carefully!
+> 
+> **Install Guide:**
+> You must always install PP filters manually. All PP filters should come with their own install guide that explains how to install it. Here is a general install guide; however, it may not apply to your selected filter: <#1358606555574173786>
+
+---
+
+# Step 3 - PP Filter
+> To further customise how your game looks, install a post-processing filter. 
+> 
+> The PP filters you install will be dependent on whether you installed Pure or Sol. 
+> * Pure PP Filters: <#1358606823388872775>
+> * Sol PP Filters: <#1358607528845508708>
+> 
+> **Warning:**
+> Some PP filters will require certain CSP versions/ pure versions. Please read each PP filter's install guide carefully!
+> 
+> **Install Guide:**
+> You must always install PP filters manually. All PP filters should come with their own install guide that explains how to install it. Here is a general install guide; however, it may not apply to your selected filter: <#1358606555574173786>
+
+---
+
+# Step 4 - CSP Settings 
+> Most PP filters will come with recommended CSP/ video setting presets that you can apply directly. However, if not, you can find presets in share settings: <#1189409395226984518>
+> 
+> ⚠️ **Never pay for CSP settings! Most sellers have no real expertise and are just reselling basic tweaks that you can find for free or easily adjust yourself.**

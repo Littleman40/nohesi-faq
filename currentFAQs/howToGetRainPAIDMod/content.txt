@@ -8,6 +8,11 @@
 
 ---
 
+# Prerequisite
+> You must have **Pure** installed for this FAQ to work. If you have not yet installed Pure, please do that first at: <#1322227974371545159>
+
+---
+
 ## Step 1
 > Become a Patreon of Ilja Jusupov aka x4fab ($1 USD)
 > https://www.patreon.com/x4fab
@@ -15,9 +20,11 @@
 
 ---
 
-## Step 2
-> > Download the [**latest CSP preview**](https://www.patreon.com/c/x4fab/posts)
-[attachment: How_to_get_rain_PAID_mod2.png]
+# Step 2
+> Download the [**latest CSP preview**](<https://www.patreon.com/c/x4fab/posts>)
+> 
+> **Note**:
+> Our point system currently does not work on CSP 3.0 520 or above.
 
 ---
 

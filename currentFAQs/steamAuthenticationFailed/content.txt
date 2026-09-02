@@ -7,21 +7,73 @@
 
 ---
 
-## Steam servers are down for maintenance every Tuesday
-> Please be patient as they come back online after 10 minutes to 1 hour.
+# Steam servers are down for maintenance every Tuesday
+> ### Please be patient as they come back online after 10 minutes to 1 hour.\
 
 ---
 
-# Method 1
-## If it isn't a Tuesday and you still get the error message
-> Make sure steam is open first and make sure you are whitelisted here https://discord.com/channels/964645662866173972/1000157728737599691
+## If it isn't a Tuesday, and Steam isn't having maintenance/ issues, please follow the rest:
 
 ---
 
-# Method 2
-> - Make sure you're logged into the correct Steam account
-> - Restart Steam
-> - Log out and back into the account
-> - Restart PC
-> - Restart your internet router
-> - Reconnect your Steam account in CM (Content Manager) https://discord.com/channels/964645662866173972/1322220240167239750  link Steam to Content Manager
+# Method 1:
+**Ensure you own a legit copy of Assetto Corsa, and you are NOT using Steam family sharing:**
+> If you ever pirated AC or any DLC's, you must reinstall everything following: <#1437114487051255858>
+> 
+> If you are a part of family sharing, please remove yourself from it, and purchase the game on your own account.
+
+---
+
+# Method 2:
+**Ensure you have whitelisted following:**
+<#1541308743340392538>
+
+> *Whitelisting may take 5-10 minutes to apply, and we suggest you restart your pc in that time.*
+
+---
+
+# Method 3:
+> 1. Open Content Manager
+> 2. Click Settings -> Custom Shaders Patch -> About & Updates
+> 3. Install **0.2.11 CSP**
+> 4. Restart your PC
+
+---
+
+# Method 4:
+> 1. Ensure you are logged into steam
+> 2. Ensure that you are not in *offline mode* on steam
+> 3. Ensure your game files are up to date: <#1322222319518748692>
+[attachment: 1.png]
+
+---
+
+# Method 5:
+> 1. Ensure you have set a **Name **and **Online Name**, **that isnt: `player`** and that consists of **only letters/numbers, NO SYMBOLS**
+> 2. **Disable Online Name**
+[attachment: 2.png]
+
+---
+
+# Method 6:
+**Ensure the correct SteamID is linked in Content Manager:**
+> 1. Open Content Manager
+> 2. Click Settings -> Content Manager -> General
+> 3. Ensure this SteamID matches your SteamID: <#1322217411876753449>
+[attachment: 3.png]
+
+---
+
+# Method 7:
+> 1. Close **Steam** and **Content Manager** with **Task Manager** by right clicking the programs and select **END TASK**.
+> 2. Launch **Steam** first, followed by **Content Manager** and try to join a server again.
+[attachment: 4.png]
+
+---
+
+# Method 8:
+> Switch to Steam Starter following: <#1486631384402624513>
+
+---
+
+## If you are still receiving the error, please complete all steps in <#1322243958419750942>

@@ -10,10 +10,10 @@
 # Prerequisite:
 > * Spec cars are reserved for **Tier 3** members on **Public Servers**.
 > * Spec cars can be used by **Tier 2** members on **Custom Servers** and **Tier 2 spec servers**.
-> Purchase Tier 2 or Tier 3: <#970997833232695316>
+> Purchase Tier 2 or Tier 3: <#1540891522432634920>
 
 # Step 1:
-> ### First, make sure you are whitelisted -> <#1000157728737599691> 
+> ### First, make sure you are whitelisted: <#1541308743340392538>
 > -# This process can take up to a max of 5 minutes, and we recommend you restart your pc during this time.
 
 # Step 2:
@@ -22,6 +22,8 @@
 
 # Step 3:
 > Open Content Manager, after that go to Settings > Content Manager > Drive, and **click the `switch to steam starter` button**
+> 
+> -# If this button is missing, please do <#1322234984181796934>
 
 ---
 
@@ -35,5 +37,17 @@
 # Step 5:
 > Now to open Content Manager, you need to launch the game from Steam, which is why it is called Steam Starter.
 
-## If you still have issues, seek further assistance in <#991299200782446632>
--# Credit: <@459988587539070977>
+---
+
+** **
+
+## If you still have issues, please check:
+> Find your Steam ID, through the steam app -> profile picture -> account details.
+[attachment: 2.png]
+
+---
+
+> Make sure the same steam ID is selected in Content Manager. 
+> 
+> CM -> Settings -> Content Manager -> General.
+[attachment: 3.png]

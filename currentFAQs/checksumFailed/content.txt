@@ -7,9 +7,10 @@
 
 ---
 
-# Checksum Failed *always* means your files are different from the files used by the server. This causes it to not match, and you get kicked.
+# Checksum Failed will always only be caused by 1 of 2 things:
+# 1. **A mismatch of files**
+# 2. **Running out of RAM**
 > **Follow every step below all at once to prevent weird issues from happening**
-
 ---
 
 ## Step 1:
@@ -84,8 +85,7 @@
 ## Step 4:
 > **If still failing, delete and reinstall the affected tracks manually**
 > 
-> Delete / Reinstall: <#1457475437809631416> 
-> Track Download:<#1412564819785027695>
+> Delete / Reinstall: <#1457475437809631416>
 
 ---
 

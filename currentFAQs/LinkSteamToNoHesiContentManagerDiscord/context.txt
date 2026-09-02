@@ -1,0 +1,28 @@
+Link Steam To No Hesi / Content Manager / Discord
+
+---
+
+# Questioning how to link everything together regarding No Hesi, Content Manager & Discord? Follow this guide!
+
+---
+
+# How To Link Steam To No Hesi / Whitelist Verify
+> **Link both your Steam & Discord to your No Hesi website account** under the [**edit profile**](<https://nohesi.gg/manage/profile>) tab.
+> 
+> **Note:**
+> This can take 5-10 minutes to apply, and we suggest restarting your PC during this time.
+[attachment: 1.png]
+
+---
+
+# How to link Steam to Content Manager
+> Find your Steam ID through the Steam app -> profile picture -> account details.
+> 
+> Enter the same Steam ID in Content Manager through: CM -> Settings -> Content Manager -> General.
+[attachment: 2.png]
+
+---
+
+# How to link Steam to Discord
+> Press on the User Settings next to your username > Connections > Click Steam Icon and follow linking process
+[attachment: 3.png]

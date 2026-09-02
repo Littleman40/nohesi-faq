@@ -1,0 +1,53 @@
+Link Steam To No Hesi / Content Manager / Discord
+
+---
+
+# Are you receiving this popup at the top of your screen? Please follow this guide!
+[attachment: logo.png]
+
+---
+
+# Prerequisite:
+> If you are trying to use our car's on your own external server, eg not a No Hesi server, or No Hesi custom server, this error will pop up. There is nothing you can do about that.
+> 
+> If you are getting a similar error, regarding to 110, please instead follow: <#1457467952369635585>
+
+---
+
+# Method 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 1.png]
+
+---
+
+# Method 2:
+> **Delete & reinstall the specific car's having issues**. 
+> 
+> By following: <#1440122305861652520>
+
+---
+
+# Method 3:
+
+> Make sure your computer clock settings are **correctly set, and synced.**
+
+> Right-click the system clock in your **System Tray** at the bottom-right corner of the screen and click  **Adjust date/time** *(You can also go to Settings > Time & Language > Date & time.)*
+### Ensure both `set timezone automatically` and `set time automatically` are ticked -> then press `sync now`.
+[attachment: 2.png]
+
+---
+
+-# **If any of these options are greyed out, please watch <https://www.youtube.com/watch?v=kPq2R-vxCTw> first.**
+
+### A full explanation + other debugging steps can be found on the article: <https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/>
+
+---
+
+# Method 4:
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.
+

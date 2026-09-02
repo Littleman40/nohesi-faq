@@ -7,11 +7,21 @@
 
 ---
 
-## Step 1
-> Open Content Manager and go to Settings > Assetto Corsa > Video (in Content Manager)
-[attachment: Remove_SafeMode_Resolution_Correction.png]
+# Step 1:
+**Find your monitors resolution + hz**
+> Open window settings, by pressing `windows + I` -> Click `System` -> `Display` -> `Advanced Display`
+> 
+> If you have multiple monitors, select the correct display from the dropdown.
+> 
+> Take note of the resolution, usually it will be `1920x1090` or `2560x1440`
+> 
+> Also take note of the HZ, which is next to the resolution.
 
 ---
 
-## Step 2
-> Make sure your resolution settings match your monitors settings, for example if you have 1080p, select 1920x1080 @ whichever hz your screen runs at.
+# Step 2:
+**Set the correct resolution + Hz inside CM**
+> Open Content Manager and go to Settings > Assetto Corsa > Video 
+> 
+> From the dropdown, match the correct resolution + Hz to what you found in step 1.
+[attachment: Remove_SafeMode_Resolution_Correction.png]

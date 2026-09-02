@@ -8,10 +8,27 @@
 ---
 
 # Step 1:
-> Go to CM -> Settings -> Custom Shaders Patch -> GUI -> New UI -> UI scale and **set it to 100%**
-[attachment: MissingUI1_2.png]
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 1.png]
 
 ---
 
 # Step 2:
-> Go to <#1322235675239645184> and clear everything from the `cache` folder
+> Go to CM -> Settings -> Custom Shaders Patch -> GUI -> New UI -> UI scale and **set it to 100%**
+[attachment: MissingUI1.png]
+
+---
+
+# Step 3:
+> Go to <#1322235675239645184> and delete everything inside the `cache` folder
+[attachment: 2.png]
+
+---
+
+# Step 4
+**If the above did not fix it:**
+> 1. Go to Content Manager -> Settings -> Assetto Corsa -> Controls -> Patch
+> 2. Find `Hide UI completely`
+> 3. Use this keybind in-game to make sure your UI wasn't completely hidden.
+[attachment: 3.png]

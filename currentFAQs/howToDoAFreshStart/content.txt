@@ -32,4 +32,6 @@
 ---
 
 ## Step 4
-> Follow <#985372285668036639> to re-install the No Hesi mods.
+> Follow an installation guide to set everything back up:
+> * **Manual: ** <#1524434443434197063> 
+> * **Launcher/ Automatic: ** <#1541936983419396196>

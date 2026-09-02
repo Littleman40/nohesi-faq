@@ -7,7 +7,7 @@
 ---
 
 # Prerequisite
-> *As per <#1486624518054219836>, each run can end by losing 2 lives or the 15-minute timer running out. If by the end of that, you have gotten more points than your previous PB, then your new score will override it, and that will now be your PB.*
+> *As per https://discord.com/channels/964645662866173972/1533243188746387496, each run can end by losing 2 lives or the 3-minute timer running out. If by the end of that, you have gotten more points than your previous PB, then your new score will override it, and that will now be your PB.*
 > 
 > If the above does not happen and your PB is not overridden, then please complete this FAQ.
 > 
@@ -17,6 +17,8 @@
 > If you are receiving a message stating: `you are playing offline`, please complete: <#1512071931736621147>
 > 
 > If you are receiving a message stating: `car disabled`, please complete: <#1524717666177384468>
+> 
+> If the point counter is there, but is not counting up/ stuck at 0, please downgrade to a lower CSP 3.0 version, as 520 or above does not work.
 
 ---
 

@@ -7,7 +7,14 @@ How To Fix " You Are Playing Offline "
 
 ---
 
-# Method 1:
+# <:warn:1124835250816692296> Note <:warn:1124835250816692296> 
+> If you have had or are running a pirated copy of AC, or any of the DLC's, this error will show up. To fix this, you will need to buy the game and reinstall it following: <#1437114487051255858>
+> 
+> Furthermore, if you are playing on Linux, you may experience this error, and we do not have a fix for this yet. *Please let us know if you find one!*
+
+---
+
+# Step 1:
 > To fix both of these issues, you must **link both your Steam & Discord to your No Hesi website account** under the [**edit profile**](<https://nohesi.gg/manage/profile>) tab.
 > 
 > **Note:**
@@ -16,14 +23,14 @@ How To Fix " You Are Playing Offline "
 
 ---
 
-# Method 1:
+# Step 2:
 > 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
 > 2. Install **0.2.11 CSP**
 [attachment: faqimage2.png]  
 
 ---
 
-# Method 3:
+# Step 3:
 
 > Make sure your computer clock settings are **correctly set, and synced.**
 
@@ -39,7 +46,7 @@ How To Fix " You Are Playing Offline "
 
 ---
 
-# Method 4
+# Step 4 4
 > Verify your game files, following:
 > <#1322222319518748692>
 > 
@@ -47,13 +54,13 @@ How To Fix " You Are Playing Offline "
 
 ---
 
-# Method 5
+# Step 5
 > Delete and reinstall Content Manager, following:
 > <#1322234984181796934>
 
 ---
 
-# Method 6
+# Step 6
 > Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
 > 
 > 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager

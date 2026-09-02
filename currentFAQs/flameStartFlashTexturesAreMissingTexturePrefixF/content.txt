@@ -8,5 +8,6 @@
 ---
 
 # Method 1
-> Reinstall the car pack from <#1033751084499476550> MANUALLY following <#1440122305861652520>
+> Reinstall all No Hesi MANUALLY following <#1440122305861652520>
+> 
 > **DO NOT install anything using Content Manager**

@@ -1,0 +1,84 @@
+How To Fix Broken Textures / Crystallized Meshes
+
+---
+
+# Are your building textures on 110 glitched or broken? Or does your car look like a crystallized mess? Follow this guide!
+[attachment: logo.png]
+
+---
+
+# Prerequisite:
+> If you are receiving the error: **"Car Locked, This car only runs on No Hesi"**, please instead follow: <#1538705643412656189>
+> 
+> If your screen is completely blue, please instead follow: <#1322260389064347794>
+> 
+> If your meshes are only broken on cars, please follow: https://discord.com/channels/964645662866173972/1538702829756354694/1538707193694654495
+> 
+> If your meshes are only broken on 110, please follow: https://discord.com/channels/964645662866173972/1538702829756354694/1538707269313634425
+
+---
+
+** **
+
+# If you are having the issue with cars:
+
+## **Prerequisite**:
+> **You must be on 0.2.11 CSP or newer**.
+> -# Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+## Step 1:
+> 1. Go to Content Manager → Settings → Custom Shaders Patch → General Patch Settings → GPU Optimizations
+> 2. Ensure you have "Optimize meshes some more" **DISABLED**.
+> -# *Please note: this setting was removed in newer CSP 3.0 versions.*
+[attachment: 1.png]
+
+---
+
+## Step 2: - If the above did NOT work:
+> **Delete & reinstall the specific car's having issues**, following: <#1440122305861652520>
+
+---
+
+** **
+
+# If you are having the issue on the map 110:
+## Step 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 2.png]
+
+---
+
+## Step 3
+**Download and Install 7zip. (*do NOT use WinRAR*)**
+> 1. Open https://www.7-zip.org/
+> 2. Click "Download"
+> 3. Double-click the downloaded exe file
+> 4. Follow the prompts to complete the install
+
+---
+
+## Step 4
+**Delete the track:**
+> 1. <#1322235675239645184> > content > tracks
+> 2. Delete the 110 folder
+
+---
+
+## Step 5
+**Reinstall the track, ensuring you install the `autoupateapp` lua folder.**
+> 1. Download the correct 110 version:
+>    * 110 V1 Public: [**download here**](<https://bcdn.nohesi.gg/maps/nohesi_110_public.7z>)
+>    * 110 V1 Tier 3: [**download here**](<https://cdn.nohesi.gg/maps/nohesi_110.7z>) 
+>    * 110 V2 Tier 3: [**download here**](<https://cdn.nohesi.gg/maps/nohesi_110_v2.7z>)
+> 2. Right-Click the zip folder > Show more options > 7zip > Open archive
+> 3. Drag & Drop the `apps` and `content` into <#1322235675239645184>
+> -# This "apps" folder, contains the "autoupateapp" lua needed
+
+---
+
+## Step 6
+> Ensure your **antivirus **/ **firewall **/ **ISP** are not blocking the connection to the server.
+> 
+> 1. **Antiviruses** -> Disable these or allow exceptions for Assetto Corsa and Content Manager
+> 2. **Firewalls **-> Allow exceptions for Assetto Corsa and Content Manager
+> 3. **ISPs** -> If this applies to you, most common for **Russian Users**, you will be required to use a **VPN** or **Proxy **to bypass this.

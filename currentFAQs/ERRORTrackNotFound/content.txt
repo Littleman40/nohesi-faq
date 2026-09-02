@@ -14,7 +14,4 @@
 > Delete the specified track following <#1457475437809631416>  then restart your PC.
 
 ## Step 3
-> Once your PC has restarted, download the track again from https://discord.com/channels/964645662866173972/1322224390741688371 
-
-## Step 4
-> Once downloaded, follow <#1457475437809631416>  to install the track.
+> Once restarted, follow <#1457475437809631416>  to install the track.

@@ -11,7 +11,7 @@
 
 ## Step 2
 > Go to `Content Manager > Settings > Content Manager > Drive` & click `Switch to steam starter`
-[attachment: SteamStarter1.PNG]
+> -# If you do not see this button, please <#1322234984181796934>
 
 ---
 

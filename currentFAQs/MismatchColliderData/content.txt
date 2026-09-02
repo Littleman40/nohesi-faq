@@ -1,0 +1,20 @@
+Mismatch: COLLIDER / DATA
+
+---
+
+# Here is how to fix *“Mismatch: COLLIDER”* and/or *“Mismatch: DATA”*.
+[attachment: logo.png]
+
+---
+
+# Step 1:
+> 1. Open Content Manager -> Settings -> Custom Shaders Patch -> About & Updates
+> 2. Install **0.2.11 CSP**
+[attachment: 1.png]
+
+---
+
+# Step 2:
+> You will need to **delete + reinstall the specified car's** in the error message.
+> 
+> You can do this by following: <#1440122305861652520>
